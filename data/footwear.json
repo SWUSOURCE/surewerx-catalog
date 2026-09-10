@@ -1,0 +1,377 @@
+[
+  {
+    "master": "AW5050",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK CAMINO INT MET - WOMEN'S CT EH",
+    "color": "BROWN",
+    "baseColor": "DARK COFFEE, BLACK",
+    "gender": "WOMEN'S",
+    "sizeRange": "6-11",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "INTERNAL",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "Leather",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 129.99,
+    "priceMax": 129.99,
+    "image": "https://media.surewerx.com/asset/f960bd58-70c5-4aed-a685-958eabdb2ce1/AW5050_RS.jpg",
+    "widths": [
+      {
+        "code": "B",
+        "sizes": [
+          {
+            "sku": "AW5050-B-6",
+            "size": "6",
+            "upc": "",
+            "price": 129.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW5050-B-7",
+            "size": "7",
+            "upc": "",
+            "price": 129.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW5050-B-8",
+            "size": "8",
+            "upc": "",
+            "price": 129.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW5050-B-9",
+            "size": "9",
+            "upc": "",
+            "price": 129.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW5050-B-10",
+            "size": "10",
+            "upc": "",
+            "price": 129.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW5050-B-11",
+            "size": "11",
+            "upc": "",
+            "price": 129.99,
+            "width": "B"
+          }
+        ]
+      },
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW5050-D-6",
+            "size": "6",
+            "upc": "",
+            "price": 129.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW5050-D-7",
+            "size": "7",
+            "upc": "",
+            "price": 129.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW5050-D-8",
+            "size": "8",
+            "upc": "",
+            "price": 129.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW5050-D-9",
+            "size": "9",
+            "upc": "",
+            "price": 129.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW5050-D-10",
+            "size": "10",
+            "upc": "",
+            "price": 129.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW5050-D-11",
+            "size": "11",
+            "upc": "",
+            "price": 129.99,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW6102",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK CAMINO - MEN'S CT EH",
+    "color": "BLACK",
+    "baseColor": "BLACK/GUM",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE, 4E (7-12, 13, 14, 15, 16, 17)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "Suede",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://media.surewerx.com/asset/539732a1-2717-4f9f-8fda-07ae653fef6f/2000_JPG/AW6102_RS.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW6102-D-7",
+            "size": "7",
+            "upc": "",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW6102-D-8",
+            "size": "8",
+            "upc": "",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW6102-D-9",
+            "size": "9",
+            "upc": "",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW6102-D-10",
+            "size": "10",
+            "upc": "",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW6102-D-11",
+            "size": "11",
+            "upc": "",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW6102-D-12",
+            "size": "12",
+            "upc": "",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW6102-D-13",
+            "size": "13",
+            "upc": "",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW6102-D-14",
+            "size": "14",
+            "upc": "",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW6102-D-15",
+            "size": "15",
+            "upc": "",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW6102-D-16",
+            "size": "16",
+            "upc": "",
+            "price": 109.99,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW6102-EE-7",
+            "size": "7",
+            "upc": "",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW6102-EE-8",
+            "size": "8",
+            "upc": "",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW6102-EE-9",
+            "size": "9",
+            "upc": "",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW6102-EE-10",
+            "size": "10",
+            "upc": "",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW6102-EE-11",
+            "size": "11",
+            "upc": "",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW6102-EE-12",
+            "size": "12",
+            "upc": "",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW6102-EE-13",
+            "size": "13",
+            "upc": "",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW6102-EE-14",
+            "size": "14",
+            "upc": "",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW6102-EE-15",
+            "size": "15",
+            "upc": "",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW6102-EE-16",
+            "size": "16",
+            "upc": "",
+            "price": 109.99,
+            "width": "EE"
+          }
+        ]
+      },
+      {
+        "code": "4E",
+        "sizes": [
+          {
+            "sku": "AW6102-4E-7",
+            "size": "7",
+            "upc": "",
+            "price": 109.99,
+            "width": "4E"
+          },
+          {
+            "sku": "AW6102-4E-8",
+            "size": "8",
+            "upc": "",
+            "price": 109.99,
+            "width": "4E"
+          },
+          {
+            "sku": "AW6102-4E-9",
+            "size": "9",
+            "upc": "",
+            "price": 109.99,
+            "width": "4E"
+          },
+          {
+            "sku": "AW6102-4E-10",
+            "size": "10",
+            "upc": "",
+            "price": 109.99,
+            "width": "4E"
+          },
+          {
+            "sku": "AW6102-4E-11",
+            "size": "11",
+            "upc": "",
+            "price": 109.99,
+            "width": "4E"
+          },
+          {
+            "sku": "AW6102-4E-12",
+            "size": "12",
+            "upc": "",
+            "price": 109.99,
+            "width": "4E"
+          },
+          {
+            "sku": "AW6102-4E-13",
+            "size": "13",
+            "upc": "",
+            "price": 109.99,
+            "width": "4E"
+          },
+          {
+            "sku": "AW6102-4E-14",
+            "size": "14",
+            "upc": "",
+            "price": 109.99,
+            "width": "4E"
+          },
+          {
+            "sku": "AW6102-4E-15",
+            "size": "15",
+            "upc": "",
+            "price": 109.99,
+            "width": "4E"
+          },
+          {
+            "sku": "AW6102-4E-16",
+            "size": "16",
+            "upc": "",
+            "price": 109.99,
+            "width": "4E"
+          }
+        ]
+      }
+    ]
+  }
+]
