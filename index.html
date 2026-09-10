@@ -170,8 +170,19 @@ input,select{font-family:inherit;}
   width:100px;height:100px;flex-shrink:0;background:#f2efe7;border-radius:2px;border:1px solid var(--border);
   display:flex;align-items:center;justify-content:center;overflow:hidden;
 }
-.card-thumb-sm img{width:100%;height:100%;object-fit:contain;mix-blend-mode:multiply;padding:5px;}
+.card-thumb-sm img{width:100%;height:100%;object-fit:contain;mix-blend-mode:multiply;padding:5px;cursor:zoom-in;}
 .card-thumb-sm.noimg{color:var(--text-dim);font-family:'IBM Plex Mono',monospace;font-size:8px;text-transform:uppercase;letter-spacing:.05em;text-align:center;}
+
+.img-lightbox{
+  position:fixed;inset:0;background:rgba(0,0,0,.85);display:none;
+  align-items:center;justify-content:center;z-index:90;padding:24px;cursor:zoom-out;
+}
+.img-lightbox.open{display:flex;}
+.img-lightbox img{max-width:90vw;max-height:90vh;object-fit:contain;background:#f2efe7;border-radius:4px;}
+.img-lightbox-close{
+  position:absolute;top:16px;right:20px;color:#fff;font-size:32px;line-height:1;
+  cursor:pointer;background:none;border:none;padding:6px;
+}
 
 .card-desc{
   font-family:'Oswald',sans-serif;font-size:14.5px;font-weight:500;line-height:1.28;color:var(--text);
@@ -347,6 +358,12 @@ input,select{font-family:inherit;}
 </div>
 
 <div class="scrim" id="scrim"></div>
+
+<div class="img-lightbox" id="imgLightbox">
+  <button class="img-lightbox-close" id="imgLightboxClose" aria-label="Close">&times;</button>
+  <img id="imgLightboxImg" src="" alt="">
+</div>
+
 <div class="cartdrawer" id="cartDrawer">
   <div class="cartdrawer-head">
     <h2>Your Selection</h2>
@@ -724,7 +741,7 @@ function cardTemplate(p) {
   const allInCart = totalSizes > 0 && inCartCount === totalSizes;
 
   const thumb = p.image
-    ? `<div class="card-thumb-sm"><img src="${escapeHtml(p.image)}" alt="${escapeHtml(p.desc || p.master)}" loading="lazy" onerror="this.parentElement.classList.add('noimg');this.remove();"></div>`
+    ? `<div class="card-thumb-sm" data-img="${escapeHtml(p.image)}"><img src="${escapeHtml(p.image)}" alt="${escapeHtml(p.desc || p.master)}" loading="lazy" onerror="this.parentElement.classList.add('noimg');this.remove();"></div>`
     : `<div class="card-thumb-sm noimg">No image</div>`;
 
   const badges = cfg.badgesOf(p).map(b =>
@@ -796,7 +813,7 @@ function hardHatSeriesCard(p) {
   const allInCart = totalColors > 0 && inCartCount === totalColors;
 
   const thumb = p.image
-    ? `<div class="card-thumb-sm"><img src="${escapeHtml(p.image)}" alt="${escapeHtml(p.desc || p.master)}" loading="lazy" onerror="this.parentElement.classList.add('noimg');this.remove();"></div>`
+    ? `<div class="card-thumb-sm" data-img="${escapeHtml(p.image)}"><img src="${escapeHtml(p.image)}" alt="${escapeHtml(p.desc || p.master)}" loading="lazy" onerror="this.parentElement.classList.add('noimg');this.remove();"></div>`
     : `<div class="card-thumb-sm noimg">No image</div>`;
 
   const badges = cfg.badgesOf(p).map(b =>
@@ -1111,6 +1128,30 @@ document.addEventListener('DOMContentLoaded', () => {
 
   renderAll();
   loadFootwearData();
+
+  // --- Image lightbox: click a thumbnail to see a larger version without
+  // leaving the page. Delegated on the two persistent containers (#grid,
+  // #cartList) rather than attached per-thumbnail, since their contents
+  // get replaced wholesale on every render -- this way the click handling
+  // survives re-renders without needing to be reattached each time.
+  function openImageLightbox(url) {
+    if (!url) return;
+    document.getElementById('imgLightboxImg').src = url;
+    document.getElementById('imgLightbox').classList.add('open');
+  }
+  function closeImageLightbox() {
+    document.getElementById('imgLightbox').classList.remove('open');
+    document.getElementById('imgLightboxImg').src = '';
+  }
+  function thumbClickHandler(e) {
+    const thumb = e.target.closest('.card-thumb-sm[data-img]');
+    if (thumb) openImageLightbox(thumb.dataset.img);
+  }
+  document.getElementById('grid').addEventListener('click', thumbClickHandler);
+  document.getElementById('cartList').addEventListener('click', thumbClickHandler);
+  document.getElementById('imgLightbox').addEventListener('click', closeImageLightbox);
+  document.getElementById('imgLightboxClose').addEventListener('click', closeImageLightbox);
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') closeImageLightbox(); });
 });
 
 
