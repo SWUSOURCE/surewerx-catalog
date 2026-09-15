@@ -373,5 +373,155 @@
         ]
       }
     ]
+  },
+  {
+    "master": "AW6103",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK CAMINO - MEN'S CT SD10",
+    "color": "BLACK",
+    "baseColor": "BLACK/GREY",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE, (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "SD10",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "Leather",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 119.99,
+    "priceMax": 119.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_8e4301b3-c31a-4154-9f02-31002f6773ba",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW6103-D-7",
+            "size": "7",
+            "upc": "",
+            "price": 119.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW6103-D-8",
+            "size": "8",
+            "upc": "",
+            "price": 119.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW6103-D-9",
+            "size": "9",
+            "upc": "",
+            "price": 119.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW6103-D-10",
+            "size": "10",
+            "upc": "",
+            "price": 119.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW6103-D-11",
+            "size": "11",
+            "upc": "",
+            "price": 119.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW6103-D-12",
+            "size": "12",
+            "upc": "",
+            "price": 119.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW6103-D-13",
+            "size": "13",
+            "upc": "",
+            "price": 119.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW6103-D-14",
+            "size": "14",
+            "upc": "",
+            "price": 119.99,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW6103-EE-7",
+            "size": "7",
+            "upc": "",
+            "price": 119.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW6103-EE-8",
+            "size": "8",
+            "upc": "",
+            "price": 119.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW6103-EE-9",
+            "size": "9",
+            "upc": "",
+            "price": 119.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW6103-EE-10",
+            "size": "10",
+            "upc": "",
+            "price": 119.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW6103-EE-11",
+            "size": "11",
+            "upc": "",
+            "price": 119.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW6103-EE-12",
+            "size": "12",
+            "upc": "",
+            "price": 119.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW6103-EE-13",
+            "size": "13",
+            "upc": "",
+            "price": 119.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW6103-EE-14",
+            "size": "14",
+            "upc": "",
+            "price": 119.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
   }
 ]
