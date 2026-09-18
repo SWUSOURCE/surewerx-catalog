@@ -371,7 +371,7 @@ input,select{font-family:inherit;}
   </div>
   <div class="cartlist" id="cartList"></div>
   <div class="cartdrawer-foot">
-    <div class="cartsummary"><span id="cartLineCount">0</span> SKU(s) &nbsp; <b id="cartTotal">$0.00</b></div>
+    <div class="cartsummary"><span id="cartLineCount">0</span> SKU(s)</div>
     <button class="exportbtn" id="exportBtn">Export CSV</button>
     <button class="clearcartbtn" id="clearCartBtn">Clear selection</button>
   </div>
@@ -399,6 +399,7 @@ const norm = v => (v === undefined || v === null || v === '') ? null : (typeof v
 const CATEGORIES = {
   footwear: {
     label: 'Footwear', data: FOOTWEAR_PRODUCTS, hasWidths: true, addLabel: 'Add style to cart', addedLabel: 'Style in cart',
+    filterOrder: ['toe', 'features', 'ehsd'],
     filters: [
       { id: 'brand', title: 'Brand', field: 'brand' },
       { id: 'gender', title: 'Gender', field: 'gender', fallback: 'Unspecified' },
@@ -876,12 +877,16 @@ function renderFilters() {
   const filters = state.filters[state.cat];
   const featSet = state.features[state.cat];
 
-  let html = '';
+  // Build each section's HTML keyed by id, so they can be assembled in
+  // whatever order this category wants rather than a fixed filters-then-
+  // features sequence.
+  const sections = {};
+
   cfg.filters.forEach(f => {
     const opts = optionsFor(cfg, list, f);
     if (!opts.length) return;
     const active = filters[f.id];
-    html += `<div class="filter-group">
+    sections[f.id] = `<div class="filter-group">
       <h3>${escapeHtml(f.title)} ${active.size ? `<span class="clear-link" data-clear-filter="${f.id}">clear</span>` : ''}</h3>
       <div class="filter-scroll">
       ${opts.map(([val, count]) => `
@@ -893,8 +898,9 @@ function renderFilters() {
       </div>
     </div>`;
   });
+
   if (cfg.features.length) {
-    html += `<div class="filter-group">
+    sections['features'] = `<div class="filter-group">
       <h3>Features ${featSet.size ? `<span class="clear-link" data-clear-features="1">clear</span>` : ''}</h3>
       ${cfg.features.map(feat => `
         <label class="filter-option ${featSet.has(feat.id) ? 'active-label' : ''}">
@@ -904,6 +910,15 @@ function renderFilters() {
         </label>`).join('')}
     </div>`;
   }
+
+  // Order: this category's explicit filterOrder if given, otherwise
+  // Features first followed by the filters in their original array order.
+  const naturalOrder = ['features', ...cfg.filters.map(f => f.id)];
+  const order = cfg.filterOrder
+    ? [...cfg.filterOrder, ...naturalOrder.filter(id => !cfg.filterOrder.includes(id))]
+    : naturalOrder;
+
+  const html = order.map(id => sections[id] || '').join('');
   el.innerHTML = html;
 
   el.querySelectorAll('input[data-filter]').forEach(cb => {
@@ -1030,8 +1045,6 @@ function renderCart() {
       });
     });
   }
-  const total = items.reduce((sum, it) => sum + (Number(it.price) || 0), 0);
-  document.getElementById('cartTotal').textContent = fmtPrice(total);
   document.getElementById('cartLineCount').textContent = items.length;
 }
 function updateCartCount() {
