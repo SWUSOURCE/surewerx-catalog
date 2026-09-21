@@ -29,6 +29,20 @@
         "code": "B",
         "sizes": [
           {
+            "sku": "AW5050-B-6",
+            "size": "6",
+            "upc": "",
+            "price": 129.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW5050-B-7",
+            "size": "7",
+            "upc": "",
+            "price": 129.99,
+            "width": "B"
+          },
+          {
             "sku": "AW5050-B-8",
             "size": "8",
             "upc": "",
