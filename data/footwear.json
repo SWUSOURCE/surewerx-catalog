@@ -4,7 +4,7 @@
     "brand": "AIRWALK",
     "desc": "AIRWALK CAMINO INT MET - WOMEN'S CT EH",
     "color": "BROWN",
-    "baseColor": "DARK COFFEE, BLACK",
+    "baseColor": "BLACK",
     "gender": "WOMEN'S",
     "sizeRange": "6-11",
     "bigWide": "NO",
@@ -13,7 +13,7 @@
     "puncture": false,
     "waterproof": false,
     "insulated": false,
-    "metGuard": "INTERNAL",
+    "metGuard": "NO",
     "heatResist": false,
     "slipResist": true,
     "secFriendly": true,
@@ -29,93 +29,11 @@
         "code": "B",
         "sizes": [
           {
-            "sku": "AW5050-B-6",
-            "size": "6",
-            "upc": "",
-            "price": 129.99,
-            "width": "B"
-          },
-          {
-            "sku": "AW5050-B-7",
-            "size": "7",
-            "upc": "",
-            "price": 129.99,
-            "width": "B"
-          },
-          {
-            "sku": "AW5050-B-8",
-            "size": "8",
-            "upc": "",
-            "price": 129.99,
-            "width": "B"
-          },
-          {
             "sku": "AW5050-B-9",
             "size": "9",
             "upc": "",
             "price": 129.99,
             "width": "B"
-          },
-          {
-            "sku": "AW5050-B-10",
-            "size": "10",
-            "upc": "",
-            "price": 129.99,
-            "width": "B"
-          },
-          {
-            "sku": "AW5050-B-11",
-            "size": "11",
-            "upc": "",
-            "price": 129.99,
-            "width": "B"
-          }
-        ]
-      },
-      {
-        "code": "D",
-        "sizes": [
-          {
-            "sku": "AW5050-D-6",
-            "size": "6",
-            "upc": "",
-            "price": 129.99,
-            "width": "D"
-          },
-          {
-            "sku": "AW5050-D-7",
-            "size": "7",
-            "upc": "",
-            "price": 129.99,
-            "width": "D"
-          },
-          {
-            "sku": "AW5050-D-8",
-            "size": "8",
-            "upc": "",
-            "price": 129.99,
-            "width": "D"
-          },
-          {
-            "sku": "AW5050-D-9",
-            "size": "9",
-            "upc": "",
-            "price": 129.99,
-            "width": "D"
-          },
-          {
-            "sku": "AW5050-D-10",
-            "size": "10",
-            "upc": "",
-            "price": 129.99,
-            "width": "D"
-          },
-          {
-            "sku": "AW5050-D-11",
-            "size": "11",
-            "upc": "",
-            "price": 129.99,
-            "width": "D"
           }
         ]
       }
