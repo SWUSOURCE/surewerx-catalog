@@ -1,45 +1,5 @@
 [
   {
-    "master": "AW5050",
-    "brand": "AIRWALK",
-    "desc": "AIRWALK CAMINO INT MET - WOMEN'S CT EH",
-    "color": "BROWN",
-    "baseColor": "BLACK",
-    "gender": "WOMEN'S",
-    "sizeRange": "6-11",
-    "bigWide": "NO",
-    "toe": "COMPOSITE",
-    "ehsd": "EH",
-    "puncture": false,
-    "waterproof": false,
-    "insulated": false,
-    "metGuard": "NO",
-    "heatResist": false,
-    "slipResist": true,
-    "secFriendly": true,
-    "noMetal": true,
-    "definedHeel": "NO",
-    "upper": "Leather",
-    "silhouette": "Lifestyle Low",
-    "priceMin": 129.99,
-    "priceMax": 129.99,
-    "image": "https://media.surewerx.com/asset/f960bd58-70c5-4aed-a685-958eabdb2ce1/AW5050_RS.jpg",
-    "widths": [
-      {
-        "code": "B",
-        "sizes": [
-          {
-            "sku": "AW5050-B-9",
-            "size": "9",
-            "upc": "",
-            "price": 129.99,
-            "width": "B"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "master": "AW6102",
     "brand": "AIRWALK",
     "desc": "AIRWALK CAMINO - MEN'S CT EH",
