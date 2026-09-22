@@ -29,48 +29,6 @@
         "code": "B",
         "sizes": [
           {
-            "sku": "AW5050-B-6",
-            "size": "6",
-            "upc": "",
-            "price": 129.99,
-            "width": "B"
-          },
-          {
-            "sku": "AW5050-B-7",
-            "size": "7",
-            "upc": "",
-            "price": 129.99,
-            "width": "B"
-          },
-          {
-            "sku": "AW5050-B-8",
-            "size": "8",
-            "upc": "",
-            "price": 129.99,
-            "width": "B"
-          },
-          {
-            "sku": "AW5050-B-9",
-            "size": "9",
-            "upc": "",
-            "price": 129.99,
-            "width": "B"
-          },
-          {
-            "sku": "AW5050-B-10",
-            "size": "10",
-            "upc": "",
-            "price": 129.99,
-            "width": "B"
-          },
-          {
-            "sku": "AW5050-B-11",
-            "size": "11",
-            "upc": "",
-            "price": 129.99,
-            "width": "B"
-          },
-          {
             "sku": "AW5050-6B",
             "size": "6",
             "upc": "198311002285",
@@ -145,48 +103,6 @@
       {
         "code": "D",
         "sizes": [
-          {
-            "sku": "AW5050-D-6",
-            "size": "6",
-            "upc": "",
-            "price": 129.99,
-            "width": "D"
-          },
-          {
-            "sku": "AW5050-D-7",
-            "size": "7",
-            "upc": "",
-            "price": 129.99,
-            "width": "D"
-          },
-          {
-            "sku": "AW5050-D-8",
-            "size": "8",
-            "upc": "",
-            "price": 129.99,
-            "width": "D"
-          },
-          {
-            "sku": "AW5050-D-9",
-            "size": "9",
-            "upc": "",
-            "price": 129.99,
-            "width": "D"
-          },
-          {
-            "sku": "AW5050-D-10",
-            "size": "10",
-            "upc": "",
-            "price": 129.99,
-            "width": "D"
-          },
-          {
-            "sku": "AW5050-D-11",
-            "size": "11",
-            "upc": "",
-            "price": 129.99,
-            "width": "D"
-          },
           {
             "sku": "AW5050-6D",
             "size": "6",
