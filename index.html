@@ -413,7 +413,7 @@ const CATEGORIES = {
       { id: 'waterproof', label: 'Waterproof', test: p => p.waterproof },
       { id: 'insulated', label: 'Insulated', test: p => p.insulated },
       { id: 'puncture', label: 'Puncture Resistant', test: p => p.puncture },
-      { id: 'metGuard', label: 'Met Guard', test: p => norm(p.metGuard) === 'INTERNAL' },
+      { id: 'metGuard', label: 'Met Guard', test: p => ['Internal', 'External'].includes(norm(p.metGuard)) },
       { id: 'heatResist', label: 'Heat Resistant', test: p => p.heatResist },
       { id: 'slipResist', label: 'Slip Resistant', test: p => p.slipResist },
       { id: 'secFriendly', label: 'Security Friendly', test: p => p.secFriendly },
@@ -429,7 +429,7 @@ const CATEGORIES = {
       if (ehsd) b.push({ txt: ehsd, hazard: true });
       if (p.waterproof) b.push({ txt: 'WP', on: true });
       if (p.insulated) b.push({ txt: 'INSUL', on: true });
-      if (norm(p.metGuard) === 'INTERNAL') b.push({ txt: 'MET GRD', on: true });
+      if (['Internal', 'External'].includes(norm(p.metGuard))) b.push({ txt: 'MET GRD', on: true });
       if (p.heatResist) b.push({ txt: 'HEAT', on: true });
       if (p.slipResist) b.push({ txt: 'SLIP RES', on: false });
       if (p.puncture) b.push({ txt: 'PUNCT RES', on: false });
