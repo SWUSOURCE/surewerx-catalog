@@ -69,6 +69,76 @@
             "upc": "",
             "price": 129.99,
             "width": "B"
+          },
+          {
+            "sku": "AW5050-6B",
+            "size": "6",
+            "upc": "198311002285",
+            "price": 129.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW5050-6.5B",
+            "size": "6.5",
+            "upc": "198311002292",
+            "price": 129.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW5050-7B",
+            "size": "7",
+            "upc": "198311002308",
+            "price": 129.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW5050-7.5B",
+            "size": "7.5",
+            "upc": "198311002315",
+            "price": 129.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW5050-8B",
+            "size": "8",
+            "upc": "198311002322",
+            "price": 129.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW5050-8.5B",
+            "size": "8.5",
+            "upc": "198311002339",
+            "price": 129.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW5050-9B",
+            "size": "9",
+            "upc": "198311002346",
+            "price": 129.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW5050-9.5B",
+            "size": "9.5",
+            "upc": "198311002353",
+            "price": 129.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW5050-10B",
+            "size": "10",
+            "upc": "198311002360",
+            "price": 129.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW5050-11B",
+            "size": "11",
+            "upc": "198311002377",
+            "price": 129.99,
+            "width": "B"
           }
         ]
       },
@@ -119,6 +189,7 @@
           },
           {
             "sku": "AW5050-6D",
+            "size": "6",
             "upc": "198311002384",
             "price": 129.99,
             "width": "D"
@@ -185,69 +256,6 @@
             "upc": "198311002476",
             "price": 129.99,
             "width": "D"
-          }
-        ]
-      },
-      {
-        "sizes": [
-          {
-            "sku": "AW5050-6B",
-            "upc": "198311002285",
-            "price": 129.99
-          },
-          {
-            "sku": "AW5050-6.5B",
-            "size": "6.5",
-            "upc": "198311002292",
-            "price": 129.99
-          },
-          {
-            "sku": "AW5050-7B",
-            "size": "7",
-            "upc": "198311002308",
-            "price": 129.99
-          },
-          {
-            "sku": "AW5050-7.5B",
-            "size": "7.5",
-            "upc": "198311002315",
-            "price": 129.99
-          },
-          {
-            "sku": "AW5050-8B",
-            "size": "8",
-            "upc": "198311002322",
-            "price": 129.99
-          },
-          {
-            "sku": "AW5050-8.5B",
-            "size": "8.5",
-            "upc": "198311002339",
-            "price": 129.99
-          },
-          {
-            "sku": "AW5050-9B",
-            "size": "9",
-            "upc": "198311002346",
-            "price": 129.99
-          },
-          {
-            "sku": "AW5050-9.5B",
-            "size": "9.5",
-            "upc": "198311002353",
-            "price": 129.99
-          },
-          {
-            "sku": "AW5050-10B",
-            "size": "10",
-            "upc": "198311002360",
-            "price": 129.99
-          },
-          {
-            "sku": "AW5050-11B",
-            "size": "11",
-            "upc": "198311002377",
-            "price": 129.99
           }
         ]
       }
@@ -1300,6 +1308,7 @@
         "sizes": [
           {
             "sku": "AW6111-6W",
+            "size": "6",
             "upc": "617420312523",
             "price": 109.99,
             "width": "W"
@@ -1402,6 +1411,7 @@
         "sizes": [
           {
             "sku": "AW6113-6M",
+            "size": "6",
             "upc": "617420314800",
             "price": 119.99,
             "width": "M"
@@ -1476,6 +1486,7 @@
         "sizes": [
           {
             "sku": "AW6113-6W",
+            "size": "6",
             "upc": "617420314954",
             "price": 119.99,
             "width": "W"
@@ -2617,6 +2628,7 @@
         "sizes": [
           {
             "sku": "AW6310-6M",
+            "size": "6",
             "upc": "617420307451",
             "price": 129.99,
             "width": "M"
@@ -2691,6 +2703,7 @@
         "sizes": [
           {
             "sku": "AW6310-6W",
+            "size": "6",
             "upc": "617420307604",
             "price": 129.99,
             "width": "W"
@@ -3453,6 +3466,7 @@
         "sizes": [
           {
             "sku": "AW6360-6M",
+            "size": "6",
             "upc": "617420305471",
             "price": 134.99,
             "width": "M"
@@ -3527,6 +3541,7 @@
         "sizes": [
           {
             "sku": "AW6360-6W",
+            "size": "6",
             "upc": "617420305624",
             "price": 134.99,
             "width": "W"
@@ -4083,6 +4098,7 @@
           },
           {
             "sku": "A7130-6M",
+            "size": "6",
             "upc": "617420124065",
             "price": 139.99,
             "width": "M"
@@ -4171,6 +4187,7 @@
           },
           {
             "sku": "A7130-6W",
+            "size": "6",
             "upc": "617420124195",
             "price": 139.99,
             "width": "W"
@@ -4493,6 +4510,7 @@
         "sizes": [
           {
             "sku": "A7244-6M",
+            "size": "6",
             "upc": "617420008303",
             "price": 139.99,
             "width": "M"
@@ -4609,6 +4627,7 @@
         "sizes": [
           {
             "sku": "A7244-6W",
+            "size": "6",
             "upc": "617420008488",
             "price": 139.99,
             "width": "W"
@@ -8136,6 +8155,7 @@
         "sizes": [
           {
             "sku": "A7450-6M",
+            "size": "6",
             "upc": "617420145237",
             "price": 149.99,
             "width": "M"
@@ -8210,6 +8230,7 @@
         "sizes": [
           {
             "sku": "A7450-6W",
+            "size": "6",
             "upc": "617420158398",
             "price": 149.99,
             "width": "W"
@@ -8312,6 +8333,7 @@
         "sizes": [
           {
             "sku": "A7451-6M",
+            "size": "6",
             "upc": "617420139885",
             "price": 149.99,
             "width": "M"
@@ -8386,6 +8408,7 @@
         "sizes": [
           {
             "sku": "A7451-6W",
+            "size": "6",
             "upc": "617420140010",
             "price": 149.99,
             "width": "W"
@@ -8488,6 +8511,7 @@
         "sizes": [
           {
             "sku": "A7452-6M",
+            "size": "6",
             "upc": "617420140508",
             "price": 159.99,
             "width": "M"
@@ -8562,6 +8586,7 @@
         "sizes": [
           {
             "sku": "A7452-6W",
+            "size": "6",
             "upc": "617420140638",
             "price": 159.99,
             "width": "W"
@@ -9540,77 +9565,91 @@
     "image": "https://media.surewerx.com/asset/4bbba4cd-2e2d-4372-b5a8-d4de61690313/2000_JPG/A8160_RS.jpg",
     "widths": [
       {
+        "code": "B",
         "sizes": [
           {
             "sku": "A8160-5B",
             "size": "5",
             "upc": "198311020524",
-            "price": 119.99
+            "price": 119.99,
+            "width": "B"
           },
           {
             "sku": "A8160-5.5B",
             "size": "5.5",
             "upc": "198311020531",
-            "price": 119.99
+            "price": 119.99,
+            "width": "B"
           },
           {
             "sku": "A8160-6B",
+            "size": "6",
             "upc": "198311020548",
-            "price": 119.99
+            "price": 119.99,
+            "width": "B"
           },
           {
             "sku": "A8160-6.5B",
             "size": "6.5",
             "upc": "198311020555",
-            "price": 119.99
+            "price": 119.99,
+            "width": "B"
           },
           {
             "sku": "A8160-7B",
             "size": "7",
             "upc": "198311020562",
-            "price": 119.99
+            "price": 119.99,
+            "width": "B"
           },
           {
             "sku": "A8160-7.5B",
             "size": "7.5",
             "upc": "198311020579",
-            "price": 119.99
+            "price": 119.99,
+            "width": "B"
           },
           {
             "sku": "A8160-8B",
             "size": "8",
             "upc": "198311020586",
-            "price": 119.99
+            "price": 119.99,
+            "width": "B"
           },
           {
             "sku": "A8160-8.5B",
             "size": "8.5",
             "upc": "198311020593",
-            "price": 119.99
+            "price": 119.99,
+            "width": "B"
           },
           {
             "sku": "A8160-9B",
             "size": "9",
             "upc": "198311020609",
-            "price": 119.99
+            "price": 119.99,
+            "width": "B"
           },
           {
             "sku": "A8160-9.5B",
             "size": "9.5",
             "upc": "198311020616",
-            "price": 119.99
+            "price": 119.99,
+            "width": "B"
           },
           {
             "sku": "A8160-10B",
             "size": "10",
             "upc": "198311020623",
-            "price": 119.99
+            "price": 119.99,
+            "width": "B"
           },
           {
             "sku": "A8160-11B",
             "size": "11",
             "upc": "198311020630",
-            "price": 119.99
+            "price": 119.99,
+            "width": "B"
           }
         ]
       },
@@ -9633,6 +9672,7 @@
           },
           {
             "sku": "A8160-6D",
+            "size": "6",
             "upc": "198311020661",
             "price": 119.99,
             "width": "D"
@@ -9731,77 +9771,91 @@
     "image": "https://media.surewerx.com/asset/683cadd7-6312-43ba-b3fd-15094c205b7d/2000_JPG/A8161_RS.jpg",
     "widths": [
       {
+        "code": "B",
         "sizes": [
           {
             "sku": "A8161-5B",
             "size": "5",
             "upc": "198311020760",
-            "price": 119.99
+            "price": 119.99,
+            "width": "B"
           },
           {
             "sku": "A8161-5.5B",
             "size": "5.5",
             "upc": "198311020777",
-            "price": 119.99
+            "price": 119.99,
+            "width": "B"
           },
           {
             "sku": "A8161-6B",
+            "size": "6",
             "upc": "198311020784",
-            "price": 119.99
+            "price": 119.99,
+            "width": "B"
           },
           {
             "sku": "A8161-6.5B",
             "size": "6.5",
             "upc": "198311020791",
-            "price": 119.99
+            "price": 119.99,
+            "width": "B"
           },
           {
             "sku": "A8161-7B",
             "size": "7",
             "upc": "198311020807",
-            "price": 119.99
+            "price": 119.99,
+            "width": "B"
           },
           {
             "sku": "A8161-7.5B",
             "size": "7.5",
             "upc": "198311020814",
-            "price": 119.99
+            "price": 119.99,
+            "width": "B"
           },
           {
             "sku": "A8161-8B",
             "size": "8",
             "upc": "198311020821",
-            "price": 119.99
+            "price": 119.99,
+            "width": "B"
           },
           {
             "sku": "A8161-8.5B",
             "size": "8.5",
             "upc": "198311020838",
-            "price": 119.99
+            "price": 119.99,
+            "width": "B"
           },
           {
             "sku": "A8161-9B",
             "size": "9",
             "upc": "198311020845",
-            "price": 119.99
+            "price": 119.99,
+            "width": "B"
           },
           {
             "sku": "A8161-9.5B",
             "size": "9.5",
             "upc": "198311020852",
-            "price": 119.99
+            "price": 119.99,
+            "width": "B"
           },
           {
             "sku": "A8161-10B",
             "size": "10",
             "upc": "198311020869",
-            "price": 119.99
+            "price": 119.99,
+            "width": "B"
           },
           {
             "sku": "A8161-11B",
             "size": "11",
             "upc": "198311020876",
-            "price": 119.99
+            "price": 119.99,
+            "width": "B"
           }
         ]
       },
@@ -9824,6 +9878,7 @@
           },
           {
             "sku": "A8161-6D",
+            "size": "6",
             "upc": "198311020906",
             "price": 119.99,
             "width": "D"
@@ -10666,77 +10721,91 @@
     "image": "https://media.surewerx.com/asset/620c2c28-c914-4d27-93d2-061f476201f2/2000_JPG/A8214_RS.jpg",
     "widths": [
       {
+        "code": "B",
         "sizes": [
           {
             "sku": "A8214-5B",
             "size": "5",
             "upc": "198311022641",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           },
           {
             "sku": "A8214-5.5B",
             "size": "5.5",
             "upc": "198311022658",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           },
           {
             "sku": "A8214-6B",
+            "size": "6",
             "upc": "198311022665",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           },
           {
             "sku": "A8214-6.5B",
             "size": "6.5",
             "upc": "198311022672",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           },
           {
             "sku": "A8214-7B",
             "size": "7",
             "upc": "198311022689",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           },
           {
             "sku": "A8214-7.5B",
             "size": "7.5",
             "upc": "198311022696",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           },
           {
             "sku": "A8214-8B",
             "size": "8",
             "upc": "198311022702",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           },
           {
             "sku": "A8214-8.5B",
             "size": "8.5",
             "upc": "198311022719",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           },
           {
             "sku": "A8214-9B",
             "size": "9",
             "upc": "198311022726",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           },
           {
             "sku": "A8214-9.5B",
             "size": "9.5",
             "upc": "198311022733",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           },
           {
             "sku": "A8214-10B",
             "size": "10",
             "upc": "198311022740",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           },
           {
             "sku": "A8214-11B",
             "size": "11",
             "upc": "198311022757",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           }
         ]
       },
@@ -10759,6 +10828,7 @@
           },
           {
             "sku": "A8214-6D",
+            "size": "6",
             "upc": "198311022788",
             "price": 159.99,
             "width": "D"
@@ -12961,65 +13031,77 @@
     "image": "https://media.surewerx.com/asset/7370dd33-67f6-4959-be78-0dd156db4d89/2000_JPG/A9104_RS.jpg",
     "widths": [
       {
+        "code": "B",
         "sizes": [
           {
             "sku": "A9104-6B",
+            "size": "6",
             "upc": "198311023686",
-            "price": 129.99
+            "price": 129.99,
+            "width": "B"
           },
           {
             "sku": "A9104-6.5B",
             "size": "6.5",
             "upc": "198311023693",
-            "price": 129.99
+            "price": 129.99,
+            "width": "B"
           },
           {
             "sku": "A9104-7B",
             "size": "7",
             "upc": "198311023709",
-            "price": 129.99
+            "price": 129.99,
+            "width": "B"
           },
           {
             "sku": "A9104-7.5B",
             "size": "7.5",
             "upc": "198311023716",
-            "price": 129.99
+            "price": 129.99,
+            "width": "B"
           },
           {
             "sku": "A9104-8B",
             "size": "8",
             "upc": "198311023723",
-            "price": 129.99
+            "price": 129.99,
+            "width": "B"
           },
           {
             "sku": "A9104-8.5B",
             "size": "8.5",
             "upc": "198311023730",
-            "price": 129.99
+            "price": 129.99,
+            "width": "B"
           },
           {
             "sku": "A9104-9B",
             "size": "9",
             "upc": "198311023747",
-            "price": 129.99
+            "price": 129.99,
+            "width": "B"
           },
           {
             "sku": "A9104-9.5B",
             "size": "9.5",
             "upc": "198311023754",
-            "price": 129.99
+            "price": 129.99,
+            "width": "B"
           },
           {
             "sku": "A9104-10B",
             "size": "10",
             "upc": "198311023761",
-            "price": 129.99
+            "price": 129.99,
+            "width": "B"
           },
           {
             "sku": "A9104-11B",
             "size": "11",
             "upc": "198311023778",
-            "price": 129.99
+            "price": 129.99,
+            "width": "B"
           }
         ]
       },
@@ -13028,6 +13110,7 @@
         "sizes": [
           {
             "sku": "A9104-6D",
+            "size": "6",
             "upc": "198311023808",
             "price": 129.99,
             "width": "D"
@@ -13126,65 +13209,77 @@
     "image": "https://media.surewerx.com/asset/04d4531d-2094-4d0b-802d-408c85a4606b/2000_JPG/A9106_RS.jpg",
     "widths": [
       {
+        "code": "B",
         "sizes": [
           {
             "sku": "A9106-6B",
+            "size": "6",
             "upc": "198311025482",
-            "price": 124.99
+            "price": 124.99,
+            "width": "B"
           },
           {
             "sku": "A9106-6.5B",
             "size": "6.5",
             "upc": "198311025499",
-            "price": 124.99
+            "price": 124.99,
+            "width": "B"
           },
           {
             "sku": "A9106-7B",
             "size": "7",
             "upc": "198311025505",
-            "price": 124.99
+            "price": 124.99,
+            "width": "B"
           },
           {
             "sku": "A9106-7.5B",
             "size": "7.5",
             "upc": "198311025512",
-            "price": 124.99
+            "price": 124.99,
+            "width": "B"
           },
           {
             "sku": "A9106-8B",
             "size": "8",
             "upc": "198311025529",
-            "price": 124.99
+            "price": 124.99,
+            "width": "B"
           },
           {
             "sku": "A9106-8.5B",
             "size": "8.5",
             "upc": "198311025536",
-            "price": 124.99
+            "price": 124.99,
+            "width": "B"
           },
           {
             "sku": "A9106-9B",
             "size": "9",
             "upc": "198311025543",
-            "price": 124.99
+            "price": 124.99,
+            "width": "B"
           },
           {
             "sku": "A9106-9.5B",
             "size": "9.5",
             "upc": "198311025550",
-            "price": 124.99
+            "price": 124.99,
+            "width": "B"
           },
           {
             "sku": "A9106-10B",
             "size": "10",
             "upc": "198311025567",
-            "price": 124.99
+            "price": 124.99,
+            "width": "B"
           },
           {
             "sku": "A9106-11B",
             "size": "11",
             "upc": "198311025574",
-            "price": 124.99
+            "price": 124.99,
+            "width": "B"
           }
         ]
       },
@@ -13193,6 +13288,7 @@
         "sizes": [
           {
             "sku": "A9106-6D",
+            "size": "6",
             "upc": "198311025604",
             "price": 124.99,
             "width": "D"
@@ -13291,65 +13387,77 @@
     "image": "https://media.surewerx.com/asset/241cc8b5-a41e-4928-8360-2ee0207bebf9/2000_JPG/A9107_RS.jpg",
     "widths": [
       {
+        "code": "B",
         "sizes": [
           {
             "sku": "A9107-6B",
+            "size": "6",
             "upc": "198311025727",
-            "price": 124.99
+            "price": 124.99,
+            "width": "B"
           },
           {
             "sku": "A9107-6.5B",
             "size": "6.5",
             "upc": "198311025734",
-            "price": 124.99
+            "price": 124.99,
+            "width": "B"
           },
           {
             "sku": "A9107-7B",
             "size": "7",
             "upc": "198311025741",
-            "price": 124.99
+            "price": 124.99,
+            "width": "B"
           },
           {
             "sku": "A9107-7.5B",
             "size": "7.5",
             "upc": "198311025758",
-            "price": 124.99
+            "price": 124.99,
+            "width": "B"
           },
           {
             "sku": "A9107-8B",
             "size": "8",
             "upc": "198311025765",
-            "price": 124.99
+            "price": 124.99,
+            "width": "B"
           },
           {
             "sku": "A9107-8.5B",
             "size": "8.5",
             "upc": "198311025772",
-            "price": 124.99
+            "price": 124.99,
+            "width": "B"
           },
           {
             "sku": "A9107-9B",
             "size": "9",
             "upc": "198311025789",
-            "price": 124.99
+            "price": 124.99,
+            "width": "B"
           },
           {
             "sku": "A9107-9.5B",
             "size": "9.5",
             "upc": "198311025796",
-            "price": 124.99
+            "price": 124.99,
+            "width": "B"
           },
           {
             "sku": "A9107-10B",
             "size": "10",
             "upc": "198311025802",
-            "price": 124.99
+            "price": 124.99,
+            "width": "B"
           },
           {
             "sku": "A9107-11B",
             "size": "11",
             "upc": "198311025819",
-            "price": 124.99
+            "price": 124.99,
+            "width": "B"
           }
         ]
       },
@@ -13358,6 +13466,7 @@
         "sizes": [
           {
             "sku": "A9107-6D",
+            "size": "6",
             "upc": "198311025840",
             "price": 124.99,
             "width": "D"
@@ -13722,6 +13831,7 @@
         "sizes": [
           {
             "sku": "N1652-6M",
+            "size": "6",
             "upc": "617420149075",
             "price": 99.99,
             "width": "M"
@@ -13803,6 +13913,7 @@
         "sizes": [
           {
             "sku": "N1652-6W",
+            "size": "6",
             "upc": "617420149204",
             "price": 99.99,
             "width": "W"
@@ -14292,53 +14403,63 @@
     "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_6d50653f-394d-429d-842f-f64be434983a",
     "widths": [
       {
+        "code": "B",
         "sizes": [
           {
             "sku": "N5200-6B",
+            "size": "6",
             "upc": "810151180588",
-            "price": 99.99
+            "price": 99.99,
+            "width": "B"
           },
           {
             "sku": "N5200-6.5B",
             "size": "6.5",
             "upc": "810151180595",
-            "price": 99.99
+            "price": 99.99,
+            "width": "B"
           },
           {
             "sku": "N5200-8B",
             "size": "8",
             "upc": "810151180625",
-            "price": 99.99
+            "price": 99.99,
+            "width": "B"
           },
           {
             "sku": "N5200-8.5B",
             "size": "8.5",
             "upc": "810151180632",
-            "price": 99.99
+            "price": 99.99,
+            "width": "B"
           },
           {
             "sku": "N5200-9B",
             "size": "9",
             "upc": "810151180649",
-            "price": 99.99
+            "price": 99.99,
+            "width": "B"
           },
           {
             "sku": "N5200-9.5B",
             "size": "9.5",
             "upc": "810151180656",
-            "price": 99.99
+            "price": 99.99,
+            "width": "B"
           },
           {
             "sku": "N5200-10B",
             "size": "10",
             "upc": "810151180663",
-            "price": 99.99
+            "price": 99.99,
+            "width": "B"
           },
           {
             "sku": "N5200-11B",
             "size": "11",
             "upc": "810151180670",
-            "price": 99.99
+            "price": 99.99,
+            "width": "B"
           }
         ]
       },
@@ -14383,65 +14504,77 @@
     "image": "https://media.surewerx.com/asset/d6cb41cd-6793-46c3-a24b-2ccfe56afb56/Low_Res_JPG/N5220_RS.jpg",
     "widths": [
       {
+        "code": "B",
         "sizes": [
           {
             "sku": "N5220-6B",
+            "size": "6",
             "upc": "198311004173",
-            "price": 109.99
+            "price": 109.99,
+            "width": "B"
           },
           {
             "sku": "N5220-6.5B",
             "size": "6.5",
             "upc": "198311004180",
-            "price": 109.99
+            "price": 109.99,
+            "width": "B"
           },
           {
             "sku": "N5220-7B",
             "size": "7",
             "upc": "198311004197",
-            "price": 109.99
+            "price": 109.99,
+            "width": "B"
           },
           {
             "sku": "N5220-7.5B",
             "size": "7.5",
             "upc": "198311004203",
-            "price": 109.99
+            "price": 109.99,
+            "width": "B"
           },
           {
             "sku": "N5220-8B",
             "size": "8",
             "upc": "198311004210",
-            "price": 109.99
+            "price": 109.99,
+            "width": "B"
           },
           {
             "sku": "N5220-8.5B",
             "size": "8.5",
             "upc": "198311004227",
-            "price": 109.99
+            "price": 109.99,
+            "width": "B"
           },
           {
             "sku": "N5220-9B",
             "size": "9",
             "upc": "198311004234",
-            "price": 109.99
+            "price": 109.99,
+            "width": "B"
           },
           {
             "sku": "N5220-9.5B",
             "size": "9.5",
             "upc": "198311004241",
-            "price": 109.99
+            "price": 109.99,
+            "width": "B"
           },
           {
             "sku": "N5220-10B",
             "size": "10",
             "upc": "198311004258",
-            "price": 109.99
+            "price": 109.99,
+            "width": "B"
           },
           {
             "sku": "N5220-11B",
             "size": "11",
             "upc": "198311004265",
-            "price": 109.99
+            "price": 109.99,
+            "width": "B"
           }
         ]
       },
@@ -14450,6 +14583,7 @@
         "sizes": [
           {
             "sku": "N5220-6D",
+            "size": "6",
             "upc": "198311005668",
             "price": 109.99,
             "width": "D"
@@ -20857,89 +20991,105 @@
     "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_f123aba1-ea96-4119-a826-ea945b0e1d9a",
     "widths": [
       {
+        "code": "B",
         "sizes": [
           {
             "sku": "WIDEVOLBL-5B",
             "size": "5",
             "upc": "810119136985",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLBL-5.5B",
             "size": "5.5",
             "upc": "810119136992",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLBL-6B",
+            "size": "6",
             "upc": "810119137005",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLBL-6.5B",
             "size": "6.5",
             "upc": "810119137012",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLBL-7B",
             "size": "7",
             "upc": "810119137029",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLBL-7.5B",
             "size": "7.5",
             "upc": "810119137036",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLBL-8B",
             "size": "8",
             "upc": "810119137043",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLBL-8.5B",
             "size": "8.5",
             "upc": "810119137050",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLBL-9B",
             "size": "9",
             "upc": "810119137067",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLBL-9.5B",
             "size": "9.5",
             "upc": "810119137074",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLBL-10B",
             "size": "10",
             "upc": "810119137081",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLBL-10.5B",
             "size": "10.5",
             "upc": "810119137098",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLBL-11B",
             "size": "11",
             "upc": "810119137104",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLBL-12B",
             "size": "12",
             "upc": "810119137111",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           }
         ]
       },
@@ -20962,6 +21112,7 @@
           },
           {
             "sku": "WIDEVOLBL-6D",
+            "size": "6",
             "upc": "810119137142",
             "price": 134.99,
             "width": "D"
@@ -21074,89 +21225,105 @@
     "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_227fa2a0-0394-4577-8d3b-0ef707e2ff9c",
     "widths": [
       {
+        "code": "B",
         "sizes": [
           {
             "sku": "WIDEVOLSDBB-5B",
             "size": "5",
             "upc": "810138881552",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLSDBB-5.5B",
             "size": "5.5",
             "upc": "810138881569",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLSDBB-6B",
+            "size": "6",
             "upc": "810138881576",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLSDBB-6.5B",
             "size": "6.5",
             "upc": "810138881583",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLSDBB-7B",
             "size": "7",
             "upc": "810138881590",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLSDBB-7.5B",
             "size": "7.5",
             "upc": "810138881606",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLSDBB-8B",
             "size": "8",
             "upc": "810138881613",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLSDBB-8.5B",
             "size": "8.5",
             "upc": "810138881620",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLSDBB-9B",
             "size": "9",
             "upc": "810138881637",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLSDBB-9.5B",
             "size": "9.5",
             "upc": "810138881644",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLSDBB-10B",
             "size": "10",
             "upc": "810138881651",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLSDBB-10.5B",
             "size": "10.5",
             "upc": "810138881668",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLSDBB-11B",
             "size": "11",
             "upc": "810138881675",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           },
           {
             "sku": "WIDEVOLSDBB-12B",
             "size": "12",
             "upc": "810138881682",
-            "price": 134.99
+            "price": 134.99,
+            "width": "B"
           }
         ]
       },
@@ -21179,6 +21346,7 @@
           },
           {
             "sku": "WIDEVOLSDBB-6D",
+            "size": "6",
             "upc": "810138881439",
             "price": 134.99,
             "width": "D"
@@ -21291,83 +21459,98 @@
     "image": "https://media.surewerx.com/asset/1e2767c3-0aa5-4f2c-8858-015f188badc8/2000_JPG/WIDLOGIBL_RS.jpg",
     "widths": [
       {
+        "code": "B",
         "sizes": [
           {
             "sku": "WIDLOGIBL-5.5B",
             "size": "5.5",
             "upc": "810119132628",
-            "price": 129.99
+            "price": 129.99,
+            "width": "B"
           },
           {
             "sku": "WIDLOGIBL-6B",
+            "size": "6",
             "upc": "810119132635",
-            "price": 129.99
+            "price": 129.99,
+            "width": "B"
           },
           {
             "sku": "WIDLOGIBL-6.5B",
             "size": "6.5",
             "upc": "810119132642",
-            "price": 129.99
+            "price": 129.99,
+            "width": "B"
           },
           {
             "sku": "WIDLOGIBL-7B",
             "size": "7",
             "upc": "810119132659",
-            "price": 129.99
+            "price": 129.99,
+            "width": "B"
           },
           {
             "sku": "WIDLOGIBL-7.5B",
             "size": "7.5",
             "upc": "810119132666",
-            "price": 129.99
+            "price": 129.99,
+            "width": "B"
           },
           {
             "sku": "WIDLOGIBL-8B",
             "size": "8",
             "upc": "810119132673",
-            "price": 129.99
+            "price": 129.99,
+            "width": "B"
           },
           {
             "sku": "WIDLOGIBL-8.5B",
             "size": "8.5",
             "upc": "810119132680",
-            "price": 129.99
+            "price": 129.99,
+            "width": "B"
           },
           {
             "sku": "WIDLOGIBL-9B",
             "size": "9",
             "upc": "810119132697",
-            "price": 129.99
+            "price": 129.99,
+            "width": "B"
           },
           {
             "sku": "WIDLOGIBL-9.5B",
             "size": "9.5",
             "upc": "810119132703",
-            "price": 129.99
+            "price": 129.99,
+            "width": "B"
           },
           {
             "sku": "WIDLOGIBL-10B",
             "size": "10",
             "upc": "810119132710",
-            "price": 129.99
+            "price": 129.99,
+            "width": "B"
           },
           {
             "sku": "WIDLOGIBL-10.5B",
             "size": "10.5",
             "upc": "810119132727",
-            "price": 129.99
+            "price": 129.99,
+            "width": "B"
           },
           {
             "sku": "WIDLOGIBL-11B",
             "size": "11",
             "upc": "810119132734",
-            "price": 129.99
+            "price": 129.99,
+            "width": "B"
           },
           {
             "sku": "WIDLOGIBL-12B",
             "size": "12",
             "upc": "810119132741",
-            "price": 129.99
+            "price": 129.99,
+            "width": "B"
           }
         ]
       },
@@ -21383,6 +21566,7 @@
           },
           {
             "sku": "WIDLOGIBL-6D",
+            "size": "6",
             "upc": "810119132765",
             "price": 129.99,
             "width": "D"
@@ -21495,89 +21679,105 @@
     "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_11a708c1-1014-480d-9672-45d1d18d8631",
     "widths": [
       {
+        "code": "B",
         "sizes": [
           {
             "sku": "WIDSPWRBE-5B",
             "size": "5",
             "upc": "810119137951",
-            "price": 139.99
+            "price": 139.99,
+            "width": "B"
           },
           {
             "sku": "WIDSPWRBE-5.5B",
             "size": "5.5",
             "upc": "810119137968",
-            "price": 139.99
+            "price": 139.99,
+            "width": "B"
           },
           {
             "sku": "WIDSPWRBE-6B",
+            "size": "6",
             "upc": "810119137975",
-            "price": 139.99
+            "price": 139.99,
+            "width": "B"
           },
           {
             "sku": "WIDSPWRBE-6.5B",
             "size": "6.5",
             "upc": "810119137982",
-            "price": 139.99
+            "price": 139.99,
+            "width": "B"
           },
           {
             "sku": "WIDSPWRBE-7B",
             "size": "7",
             "upc": "810119137999",
-            "price": 139.99
+            "price": 139.99,
+            "width": "B"
           },
           {
             "sku": "WIDSPWRBE-7.5B",
             "size": "7.5",
             "upc": "810119138002",
-            "price": 139.99
+            "price": 139.99,
+            "width": "B"
           },
           {
             "sku": "WIDSPWRBE-8B",
             "size": "8",
             "upc": "810119138019",
-            "price": 139.99
+            "price": 139.99,
+            "width": "B"
           },
           {
             "sku": "WIDSPWRBE-8.5B",
             "size": "8.5",
             "upc": "810119138026",
-            "price": 139.99
+            "price": 139.99,
+            "width": "B"
           },
           {
             "sku": "WIDSPWRBE-9B",
             "size": "9",
             "upc": "810119138033",
-            "price": 139.99
+            "price": 139.99,
+            "width": "B"
           },
           {
             "sku": "WIDSPWRBE-9.5B",
             "size": "9.5",
             "upc": "810119138040",
-            "price": 139.99
+            "price": 139.99,
+            "width": "B"
           },
           {
             "sku": "WIDSPWRBE-10B",
             "size": "10",
             "upc": "810119138057",
-            "price": 139.99
+            "price": 139.99,
+            "width": "B"
           },
           {
             "sku": "WIDSPWRBE-10.5B",
             "size": "10.5",
             "upc": "810119138064",
-            "price": 139.99
+            "price": 139.99,
+            "width": "B"
           },
           {
             "sku": "WIDSPWRBE-11B",
             "size": "11",
             "upc": "810119138071",
-            "price": 139.99
+            "price": 139.99,
+            "width": "B"
           },
           {
             "sku": "WIDSPWRBE-12B",
             "size": "12",
             "upc": "810119138088",
-            "price": 139.99
+            "price": 139.99,
+            "width": "B"
           }
         ]
       },
@@ -21600,6 +21800,7 @@
           },
           {
             "sku": "WIDSPWRBE-6D",
+            "size": "6",
             "upc": "810119138118",
             "price": 139.99,
             "width": "D"
@@ -21712,89 +21913,105 @@
     "image": "https://media.surewerx.com/transform/3e46be65-1330-4560-b0b9-27bb824b4129/WUELEHBU_RS?format=jpg",
     "widths": [
       {
+        "code": "B",
         "sizes": [
           {
             "sku": "WUELEHBU-5B",
             "size": "5",
             "upc": "810138889084",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBU-5.5B",
             "size": "5.5",
             "upc": "810138889091",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBU-6B",
+            "size": "6",
             "upc": "810138889107",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBU-6.5B",
             "size": "6.5",
             "upc": "810138889114",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBU-7B",
             "size": "7",
             "upc": "810138889121",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBU-7.5B",
             "size": "7.5",
             "upc": "810138889138",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBU-8B",
             "size": "8",
             "upc": "810138889145",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBU-8.5B",
             "size": "8.5",
             "upc": "810138889152",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBU-9B",
             "size": "9",
             "upc": "810138889169",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBU-9.5B",
             "size": "9.5",
             "upc": "810138889176",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBU-10B",
             "size": "10",
             "upc": "810138889183",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBU-10.5B",
             "size": "10.5",
             "upc": "810138889190",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBU-11B",
             "size": "11",
             "upc": "810138889206",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBU-12B",
             "size": "12",
             "upc": "810138889213",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           }
         ]
       },
@@ -21817,6 +22034,7 @@
           },
           {
             "sku": "WUELEHBU-6D",
+            "size": "6",
             "upc": "810138889244",
             "price": 149.99,
             "width": "D"
@@ -21929,89 +22147,105 @@
     "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_375c8d52-d7e4-4566-aaee-d186942bfaec",
     "widths": [
       {
+        "code": "B",
         "sizes": [
           {
             "sku": "WUELEHBZ-5B",
             "size": "5",
             "upc": "810119139313",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBZ-5.5B",
             "size": "5.5",
             "upc": "810119139320",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBZ-6B",
+            "size": "6",
             "upc": "810119139337",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBZ-6.5B",
             "size": "6.5",
             "upc": "810119139344",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBZ-7B",
             "size": "7",
             "upc": "810119139351",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBZ-7.5B",
             "size": "7.5",
             "upc": "810119139368",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBZ-8B",
             "size": "8",
             "upc": "810119139375",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBZ-8.5B",
             "size": "8.5",
             "upc": "810119139382",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBZ-9B",
             "size": "9",
             "upc": "810119139399",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBZ-9.5B",
             "size": "9.5",
             "upc": "810119139405",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBZ-10B",
             "size": "10",
             "upc": "810119139412",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBZ-10.5B",
             "size": "10.5",
             "upc": "810119139702",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBZ-11B",
             "size": "11",
             "upc": "810119139429",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHBZ-12B",
             "size": "12",
             "upc": "810119139436",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           }
         ]
       },
@@ -22034,6 +22268,7 @@
           },
           {
             "sku": "WUELEHBZ-6D",
+            "size": "6",
             "upc": "810138880036",
             "price": 149.99,
             "width": "D"
@@ -22146,89 +22381,105 @@
     "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_875fc961-7b7a-4ce7-8b70-84f59004e16b",
     "widths": [
       {
+        "code": "B",
         "sizes": [
           {
             "sku": "WUELEHM2-5B",
             "size": "5",
             "upc": "810119139573",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHM2-5.5B",
             "size": "5.5",
             "upc": "810119139580",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHM2-6B",
+            "size": "6",
             "upc": "810119139597",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHM2-6.5B",
             "size": "6.5",
             "upc": "810119139603",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHM2-7B",
             "size": "7",
             "upc": "810119139610",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHM2-7.5B",
             "size": "7.5",
             "upc": "810119139627",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHM2-8B",
             "size": "8",
             "upc": "810119139634",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHM2-8.5B",
             "size": "8.5",
             "upc": "810119139641",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHM2-9B",
             "size": "9",
             "upc": "810119139658",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHM2-9.5B",
             "size": "9.5",
             "upc": "810119139665",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHM2-10B",
             "size": "10",
             "upc": "810119139672",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHM2-10.5B",
             "size": "10.5",
             "upc": "810119139719",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHM2-11B",
             "size": "11",
             "upc": "810119139689",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUELEHM2-12B",
             "size": "12",
             "upc": "810119139696",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           }
         ]
       },
@@ -22251,6 +22502,7 @@
           },
           {
             "sku": "WUELEHM2-6D",
+            "size": "6",
             "upc": "810138880173",
             "price": 149.99,
             "width": "D"
@@ -22363,89 +22615,105 @@
     "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_30f72f37-5bdb-459c-82be-6406b68b5b31",
     "widths": [
       {
+        "code": "B",
         "sizes": [
           {
             "sku": "WUELSDBP-5B",
             "size": "5",
             "upc": "810138880852",
-            "price": 154.99
+            "price": 154.99,
+            "width": "B"
           },
           {
             "sku": "WUELSDBP-5.5B",
             "size": "5.5",
             "upc": "810138880869",
-            "price": 154.99
+            "price": 154.99,
+            "width": "B"
           },
           {
             "sku": "WUELSDBP-6B",
+            "size": "6",
             "upc": "810138880876",
-            "price": 154.99
+            "price": 154.99,
+            "width": "B"
           },
           {
             "sku": "WUELSDBP-6.5B",
             "size": "6.5",
             "upc": "810138880883",
-            "price": 154.99
+            "price": 154.99,
+            "width": "B"
           },
           {
             "sku": "WUELSDBP-7B",
             "size": "7",
             "upc": "810138880890",
-            "price": 154.99
+            "price": 154.99,
+            "width": "B"
           },
           {
             "sku": "WUELSDBP-7.5B",
             "size": "7.5",
             "upc": "810138880906",
-            "price": 154.99
+            "price": 154.99,
+            "width": "B"
           },
           {
             "sku": "WUELSDBP-8B",
             "size": "8",
             "upc": "810138880913",
-            "price": 154.99
+            "price": 154.99,
+            "width": "B"
           },
           {
             "sku": "WUELSDBP-8.5B",
             "size": "8.5",
             "upc": "810138880920",
-            "price": 154.99
+            "price": 154.99,
+            "width": "B"
           },
           {
             "sku": "WUELSDBP-9B",
             "size": "9",
             "upc": "810138880937",
-            "price": 154.99
+            "price": 154.99,
+            "width": "B"
           },
           {
             "sku": "WUELSDBP-9.5B",
             "size": "9.5",
             "upc": "810138880944",
-            "price": 154.99
+            "price": 154.99,
+            "width": "B"
           },
           {
             "sku": "WUELSDBP-10B",
             "size": "10",
             "upc": "810138880951",
-            "price": 154.99
+            "price": 154.99,
+            "width": "B"
           },
           {
             "sku": "WUELSDBP-10.5B",
             "size": "10.5",
             "upc": "810138880968",
-            "price": 154.99
+            "price": 154.99,
+            "width": "B"
           },
           {
             "sku": "WUELSDBP-11B",
             "size": "11",
             "upc": "810138880975",
-            "price": 154.99
+            "price": 154.99,
+            "width": "B"
           },
           {
             "sku": "WUELSDBP-12B",
             "size": "12",
             "upc": "810138880982",
-            "price": 154.99
+            "price": 154.99,
+            "width": "B"
           }
         ]
       },
@@ -22468,6 +22736,7 @@
           },
           {
             "sku": "WUELSDBP-6D",
+            "size": "6",
             "upc": "810138880739",
             "price": 154.99,
             "width": "D"
@@ -22580,89 +22849,105 @@
     "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_06b2e9f9-3323-4684-b7c4-76e9cfb3d17d",
     "widths": [
       {
+        "code": "B",
         "sizes": [
           {
             "sku": "WUFCCEHAP-5B",
             "size": "5",
             "upc": "810138883792",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHAP-5.5B",
             "size": "5.5",
             "upc": "810138883808",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHAP-6B",
+            "size": "6",
             "upc": "810138883815",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHAP-6.5B",
             "size": "6.5",
             "upc": "810138883822",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHAP-7B",
             "size": "7",
             "upc": "810138883839",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHAP-7.5B",
             "size": "7.5",
             "upc": "810138883846",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHAP-8B",
             "size": "8",
             "upc": "810138883853",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHAP-8.5B",
             "size": "8.5",
             "upc": "810138883860",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHAP-9B",
             "size": "9",
             "upc": "810138883877",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHAP-9.5B",
             "size": "9.5",
             "upc": "810138883884",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHAP-10B",
             "size": "10",
             "upc": "810138883891",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHAP-10.5B",
             "size": "10.5",
             "upc": "810138883907",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHAP-11B",
             "size": "11",
             "upc": "810138883914",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHAP-12B",
             "size": "12",
             "upc": "810138883921",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           }
         ]
       },
@@ -22685,6 +22970,7 @@
           },
           {
             "sku": "WUFCCEHAP-6D",
+            "size": "6",
             "upc": "810138883679",
             "price": 149.99,
             "width": "D"
@@ -22797,89 +23083,105 @@
     "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_e21d5a98-6154-41d0-847f-fa5231eca661",
     "widths": [
       {
+        "code": "B",
         "sizes": [
           {
             "sku": "WUFCCEHBG-5B",
             "size": "5",
             "upc": "810138883518",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHBG-5.5B",
             "size": "5.5",
             "upc": "810138883525",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHBG-6B",
+            "size": "6",
             "upc": "810138883532",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHBG-6.5B",
             "size": "6.5",
             "upc": "810138883549",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHBG-7B",
             "size": "7",
             "upc": "810138883556",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHBG-7.5B",
             "size": "7.5",
             "upc": "810138883563",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHBG-8B",
             "size": "8",
             "upc": "810138883570",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHBG-8.5B",
             "size": "8.5",
             "upc": "810138883587",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHBG-9B",
             "size": "9",
             "upc": "810138883594",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHBG-9.5B",
             "size": "9.5",
             "upc": "810138883600",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHBG-10B",
             "size": "10",
             "upc": "810138883617",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHBG-10.5B",
             "size": "10.5",
             "upc": "810138883624",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHBG-11B",
             "size": "11",
             "upc": "810138883631",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHBG-12B",
             "size": "12",
             "upc": "810138883648",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           }
         ]
       },
@@ -22902,6 +23204,7 @@
           },
           {
             "sku": "WUFCCEHBG-6D",
+            "size": "6",
             "upc": "810138883396",
             "price": 149.99,
             "width": "D"
@@ -23014,89 +23317,105 @@
     "image": "https://media.surewerx.com/transform/3e767073-fbec-420c-aa80-97bc6380885f/WUFCCEHSB_RS?format=jpg",
     "widths": [
       {
+        "code": "B",
         "sizes": [
           {
             "sku": "WUFCCEHSB-5B",
             "size": "5",
             "upc": "810138889367",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHSB-5.5B",
             "size": "5.5",
             "upc": "810138889374",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHSB-6B",
+            "size": "6",
             "upc": "810138889381",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHSB-6.5B",
             "size": "6.5",
             "upc": "810138889398",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHSB-7B",
             "size": "7",
             "upc": "810138889404",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHSB-7.5B",
             "size": "7.5",
             "upc": "810138889411",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHSB-8B",
             "size": "8",
             "upc": "810138889428",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHSB-8.5B",
             "size": "8.5",
             "upc": "810138889435",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHSB-9B",
             "size": "9",
             "upc": "810138889442",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHSB-9.5B",
             "size": "9.5",
             "upc": "810138889459",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHSB-10B",
             "size": "10",
             "upc": "810138889466",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHSB-10.5B",
             "size": "10.5",
             "upc": "810138889473",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHSB-11B",
             "size": "11",
             "upc": "810138889480",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           },
           {
             "sku": "WUFCCEHSB-12B",
             "size": "12",
             "upc": "810138889497",
-            "price": 149.99
+            "price": 149.99,
+            "width": "B"
           }
         ]
       },
@@ -23119,6 +23438,7 @@
           },
           {
             "sku": "WUFCCEHSB-6D",
+            "size": "6",
             "upc": "810138889527",
             "price": 149.99,
             "width": "D"
@@ -23231,89 +23551,105 @@
     "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bd3c529b-15c4-46c2-8b8b-f6de17a89f4a",
     "widths": [
       {
+        "code": "B",
         "sizes": [
           {
             "sku": "WUFCMCEHBG-5B",
             "size": "5",
             "upc": "810138884355",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           },
           {
             "sku": "WUFCMCEHBG-5.5B",
             "size": "5.5",
             "upc": "810138884362",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           },
           {
             "sku": "WUFCMCEHBG-6B",
+            "size": "6",
             "upc": "810138884379",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           },
           {
             "sku": "WUFCMCEHBG-6.5B",
             "size": "6.5",
             "upc": "810138884386",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           },
           {
             "sku": "WUFCMCEHBG-7B",
             "size": "7",
             "upc": "810138884393",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           },
           {
             "sku": "WUFCMCEHBG-7.5B",
             "size": "7.5",
             "upc": "810138884409",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           },
           {
             "sku": "WUFCMCEHBG-8B",
             "size": "8",
             "upc": "810138884416",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           },
           {
             "sku": "WUFCMCEHBG-8.5B",
             "size": "8.5",
             "upc": "810138884423",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           },
           {
             "sku": "WUFCMCEHBG-9B",
             "size": "9",
             "upc": "810138884430",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           },
           {
             "sku": "WUFCMCEHBG-9.5B",
             "size": "9.5",
             "upc": "810138884447",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           },
           {
             "sku": "WUFCMCEHBG-10B",
             "size": "10",
             "upc": "810138884454",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           },
           {
             "sku": "WUFCMCEHBG-10.5B",
             "size": "10.5",
             "upc": "810138884461",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           },
           {
             "sku": "WUFCMCEHBG-11B",
             "size": "11",
             "upc": "810138884478",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           },
           {
             "sku": "WUFCMCEHBG-12B",
             "size": "12",
             "upc": "810138884485",
-            "price": 159.99
+            "price": 159.99,
+            "width": "B"
           }
         ]
       },
@@ -23336,6 +23672,7 @@
           },
           {
             "sku": "WUFCMCEHBG-6D",
+            "size": "6",
             "upc": "810138884232",
             "price": 159.99,
             "width": "D"
@@ -23448,12 +23785,14 @@
     "image": "https://media.surewerx.com/transform/169f7c4f-027a-4a85-bd3c-97bfb851e31a/WUFCMCWPBB_RS?format=jpg",
     "widths": [
       {
+        "code": "B",
         "sizes": [
           {
             "sku": "WUFCMCWPBB-5B",
             "size": "5",
             "upc": "810138889640",
-            "price": 169.99
+            "price": 169.99,
+            "width": "B"
           }
         ]
       }
