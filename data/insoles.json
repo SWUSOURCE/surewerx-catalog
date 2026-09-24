@@ -1,0 +1,698 @@
+[
+  {
+    "master": "PAM12",
+    "brand": "MegaComfort",
+    "desc": "MEGACOMFORT INSOLE PERSONAL ANTI-FATIGUE - 12 SIZES",
+    "gender": "Unisex",
+    "sizeRange": "W5 - M15",
+    "esd": false,
+    "puncture": false,
+    "tallPkg": true,
+    "foldedPkg": false,
+    "cooling": false,
+    "insulated": false,
+    "secFriendly": true,
+    "priceMin": 29.99,
+    "priceMax": 29.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_25c56dfa-908a-4cb0-9592-8fa3862a4c5c",
+    "sizes": [
+      {
+        "sku": "PAM12-M10/W12",
+        "size": "M10/W12",
+        "upc": "894895001088",
+        "price": 29.99
+      },
+      {
+        "sku": "PAM12-M11/W13",
+        "size": "M11/W13",
+        "upc": "894895001095",
+        "price": 29.99
+      },
+      {
+        "sku": "PAM12-M12",
+        "size": "M12",
+        "upc": "894895001101",
+        "price": 29.99
+      },
+      {
+        "sku": "PAM12-M13",
+        "size": "M13",
+        "upc": "894895001118",
+        "price": 29.99
+      },
+      {
+        "sku": "PAM12-M14",
+        "size": "M14",
+        "upc": "894895001125",
+        "price": 29.99
+      },
+      {
+        "sku": "PAM12-M6/W8",
+        "size": "M6/W8",
+        "upc": "894895001040",
+        "price": 29.99
+      },
+      {
+        "sku": "PAM12-M7/W9",
+        "size": "M7/W9",
+        "upc": "894895001057",
+        "price": 29.99
+      },
+      {
+        "sku": "PAM12-M8/W10",
+        "size": "M8/W10",
+        "upc": "894895001064",
+        "price": 29.99
+      },
+      {
+        "sku": "PAM12-M9/W11",
+        "size": "M9/W11",
+        "upc": "894895001071",
+        "price": 29.99
+      },
+      {
+        "sku": "PAM12-W5",
+        "size": "W5",
+        "upc": "894895001019",
+        "price": 29.99
+      },
+      {
+        "sku": "PAM12-W6",
+        "size": "W6",
+        "upc": "894895001026",
+        "price": 29.99
+      },
+      {
+        "sku": "PAM12-W7",
+        "size": "W7",
+        "upc": "894895001033",
+        "price": 29.99
+      }
+    ]
+  },
+  {
+    "master": "PAMESD",
+    "brand": "MegaComfort",
+    "desc": "MEGACOMFORT PERSONAL ANTI-FATIGUE - ESD - FOLDED -",
+    "gender": "Unisex",
+    "sizeRange": "W5 - M15",
+    "esd": true,
+    "puncture": false,
+    "tallPkg": false,
+    "foldedPkg": true,
+    "cooling": false,
+    "insulated": false,
+    "secFriendly": true,
+    "priceMin": 34.99,
+    "priceMax": 34.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_8c4b518b-d3a6-4168-bf7f-0795cd573396",
+    "sizes": [
+      {
+        "sku": "PAMESD-M1011/W1213",
+        "size": "M1011/W1213",
+        "upc": "894895001538",
+        "price": 34.99
+      },
+      {
+        "sku": "PAMESD-M1213",
+        "size": "M1213",
+        "upc": "894895001545",
+        "price": 34.99
+      },
+      {
+        "sku": "PAMESD-M1415",
+        "size": "M1415",
+        "upc": "894895001552",
+        "price": 34.99
+      },
+      {
+        "sku": "PAMESD-M67/W89",
+        "size": "M67/W89",
+        "upc": "894895001514",
+        "price": 34.99
+      },
+      {
+        "sku": "PAMESD-M89/W1011",
+        "size": "M89/W1011",
+        "upc": "894895001521",
+        "price": 34.99
+      },
+      {
+        "sku": "PAMESD-W567",
+        "size": "W567",
+        "upc": "894895001507",
+        "price": 34.99
+      }
+    ]
+  },
+  {
+    "master": "PAM",
+    "brand": "MegaComfort",
+    "desc": "MEGACOMFORT INSOLE PERSONAL ANTI-FATIGUE - FOLDED -",
+    "gender": "Unisex",
+    "sizeRange": "W5 - M15",
+    "esd": false,
+    "puncture": false,
+    "tallPkg": false,
+    "foldedPkg": true,
+    "cooling": false,
+    "insulated": false,
+    "secFriendly": true,
+    "priceMin": 29.99,
+    "priceMax": 29.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_25c56dfa-908a-4cb0-9592-8fa3862a4c5c",
+    "sizes": [
+      {
+        "sku": "PAM-M1415",
+        "size": "M1415",
+        "upc": "894895001613",
+        "price": 29.99
+      },
+      {
+        "sku": "PAM-M67/W89",
+        "size": "M67/W89",
+        "upc": "894895001576",
+        "price": 29.99
+      },
+      {
+        "sku": "PAM-M89/W1011",
+        "size": "M89/W1011",
+        "upc": "894895001583",
+        "price": 29.99
+      },
+      {
+        "sku": "PAM-W567",
+        "size": "W567",
+        "upc": "894895001569",
+        "price": 29.99
+      },
+      {
+        "sku": "PAM-M1011/W1213",
+        "size": "M1011/W1213",
+        "upc": "894895001590",
+        "price": 29.99
+      },
+      {
+        "sku": "PAM-M1213",
+        "size": "M1213",
+        "upc": "894895001606",
+        "price": 29.99
+      }
+    ]
+  },
+  {
+    "master": "MCAF",
+    "brand": "MegaComfort",
+    "desc": "MEGACOMFORT INSOLE ERGO ANTI-FATIGUE",
+    "gender": "Unisex",
+    "sizeRange": "XS - XXL",
+    "esd": false,
+    "puncture": false,
+    "tallPkg": true,
+    "foldedPkg": false,
+    "cooling": false,
+    "insulated": false,
+    "secFriendly": true,
+    "priceMin": 29.99,
+    "priceMax": 29.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_72620b79-ec0f-481a-889c-c3106104962a",
+    "sizes": [
+      {
+        "sku": "MCAF-L",
+        "size": "L",
+        "upc": "198311010051",
+        "price": 29.99
+      },
+      {
+        "sku": "MCAF-M",
+        "size": "M",
+        "upc": "198311010044",
+        "price": 29.99
+      },
+      {
+        "sku": "MCAF-S",
+        "size": "S",
+        "upc": "198311010037",
+        "price": 29.99
+      },
+      {
+        "sku": "MCAF-XL",
+        "size": "XL",
+        "upc": "198311010068",
+        "price": 29.99
+      },
+      {
+        "sku": "MCAF-XS",
+        "size": "XS",
+        "upc": "198311010020",
+        "price": 29.99
+      },
+      {
+        "sku": "MCAF-XXL",
+        "size": "XXL",
+        "upc": "198311010075",
+        "price": 29.99
+      }
+    ]
+  },
+  {
+    "master": "MCARCH",
+    "brand": "MegaComfort",
+    "desc": "MEGACOMFORT INSOLE ERGO ARCH-SUPPORT",
+    "gender": "Unisex",
+    "sizeRange": "XS - XXL",
+    "esd": false,
+    "puncture": false,
+    "tallPkg": true,
+    "foldedPkg": false,
+    "cooling": false,
+    "insulated": false,
+    "secFriendly": true,
+    "priceMin": 49.99,
+    "priceMax": 49.99,
+    "image": "https://media.surewerx.com/asset/eb80795e-1627-43e8-9984-a2061ffb64e6/2000_JPG/MCARCH.jpg",
+    "sizes": [
+      {
+        "sku": "MCARCH-L",
+        "size": "L",
+        "upc": "198311010297",
+        "price": 49.99
+      },
+      {
+        "sku": "MCARCH-M",
+        "size": "M",
+        "upc": "198311010280",
+        "price": 49.99
+      },
+      {
+        "sku": "MCARCH-S",
+        "size": "S",
+        "upc": "198311010273",
+        "price": 49.99
+      },
+      {
+        "sku": "MCARCH-XL",
+        "size": "XL",
+        "upc": "198311010303",
+        "price": 49.99
+      },
+      {
+        "sku": "MCARCH-XS",
+        "size": "XS",
+        "upc": "198311010266",
+        "price": 49.99
+      },
+      {
+        "sku": "MCARCH-XXL",
+        "size": "XXL",
+        "upc": "198311010310",
+        "price": 49.99
+      }
+    ]
+  },
+  {
+    "master": "MCDIAB",
+    "brand": "MegaComfort",
+    "desc": "MEGACOMFORT INSOLE ERGO DIABETIC",
+    "gender": "Unisex",
+    "sizeRange": "XS - XXL",
+    "esd": false,
+    "puncture": false,
+    "tallPkg": true,
+    "foldedPkg": false,
+    "cooling": false,
+    "insulated": false,
+    "secFriendly": true,
+    "priceMin": 44.99,
+    "priceMax": 44.99,
+    "image": "https://media.surewerx.com/asset/28b5c905-b598-4a35-83a6-13fcd74a6ef8/2000_JPG/MCDIAB.jpg",
+    "sizes": [
+      {
+        "sku": "MCDIAB-L",
+        "size": "L",
+        "upc": "198311010488",
+        "price": 44.99
+      },
+      {
+        "sku": "MCDIAB-M",
+        "size": "M",
+        "upc": "198311010471",
+        "price": 44.99
+      },
+      {
+        "sku": "MCDIAB-S",
+        "size": "S",
+        "upc": "198311010464",
+        "price": 44.99
+      },
+      {
+        "sku": "MCDIAB-XL",
+        "size": "XL",
+        "upc": "198311010495",
+        "price": 44.99
+      },
+      {
+        "sku": "MCDIAB-XS",
+        "size": "XS",
+        "upc": "198311010457",
+        "price": 44.99
+      },
+      {
+        "sku": "MCDIAB-XXL",
+        "size": "XXL",
+        "upc": "198311010501",
+        "price": 44.99
+      }
+    ]
+  },
+  {
+    "master": "MCESD_TL",
+    "brand": "MegaComfort",
+    "desc": "MEGACOMFORT INSOLE ERGO ANTISTATIC - SD10",
+    "gender": "Unisex",
+    "sizeRange": "XS - XXL",
+    "esd": true,
+    "puncture": false,
+    "tallPkg": true,
+    "foldedPkg": false,
+    "cooling": false,
+    "insulated": false,
+    "secFriendly": true,
+    "priceMin": 39.99,
+    "priceMax": 39.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_b0a669d1-9be7-48c6-9305-7263a3bdf49f",
+    "sizes": [
+      {
+        "sku": "MCESD_TL-L",
+        "size": "L",
+        "upc": "198311010174",
+        "price": 39.99
+      },
+      {
+        "sku": "MCESD_TL-M",
+        "size": "M",
+        "upc": "198311010167",
+        "price": 39.99
+      },
+      {
+        "sku": "MCESD_TL-S",
+        "size": "S",
+        "upc": "198311010150",
+        "price": 39.99
+      },
+      {
+        "sku": "MCESD_TL-XL",
+        "size": "XL",
+        "upc": "198311010181",
+        "price": 39.99
+      },
+      {
+        "sku": "MCESD_TL-XS",
+        "size": "XS",
+        "upc": "198311010143",
+        "price": 39.99
+      },
+      {
+        "sku": "MCESD_TL-XXL",
+        "size": "XXL",
+        "upc": "198311010198",
+        "price": 39.99
+      }
+    ]
+  },
+  {
+    "master": "MCPR",
+    "brand": "MegaComfort",
+    "desc": "MEGACOMFORT INSOLE ERGO PUNCTURE RESISTANT",
+    "gender": "Unisex",
+    "sizeRange": "XS - XXL",
+    "esd": false,
+    "puncture": true,
+    "tallPkg": true,
+    "foldedPkg": false,
+    "cooling": false,
+    "insulated": false,
+    "secFriendly": true,
+    "priceMin": 39.99,
+    "priceMax": 39.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_838646ea-a1e7-4331-8f9b-eaf106a3059c",
+    "sizes": [
+      {
+        "sku": "MCPR-L",
+        "size": "L",
+        "upc": "198311013526",
+        "price": 39.99
+      },
+      {
+        "sku": "MCPR-M",
+        "size": "M",
+        "upc": "198311013519",
+        "price": 39.99
+      },
+      {
+        "sku": "MCPR-S",
+        "size": "S",
+        "upc": "198311013502",
+        "price": 39.99
+      },
+      {
+        "sku": "MCPR-XL",
+        "size": "XL",
+        "upc": "198311013533",
+        "price": 39.99
+      },
+      {
+        "sku": "MCPR-XS",
+        "size": "XS",
+        "upc": "198311013496",
+        "price": 39.99
+      },
+      {
+        "sku": "MCPR-XXL",
+        "size": "XXL",
+        "upc": "198311013540",
+        "price": 39.99
+      }
+    ]
+  },
+  {
+    "master": "MCRES",
+    "brand": "MegaComfort",
+    "desc": "MEGACOMFORT INSOLE ERGO RESPONSE",
+    "gender": "Unisex",
+    "sizeRange": "XS - XXL",
+    "esd": false,
+    "puncture": false,
+    "tallPkg": true,
+    "foldedPkg": false,
+    "cooling": false,
+    "insulated": false,
+    "secFriendly": true,
+    "priceMin": 44.99,
+    "priceMax": 44.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_dc9c55e9-cb7d-4667-bce7-f4d4a53348b6",
+    "sizes": [
+      {
+        "sku": "MCRES-L",
+        "size": "L",
+        "upc": "198311010235",
+        "price": 44.99
+      },
+      {
+        "sku": "MCRES-M",
+        "size": "M",
+        "upc": "198311010228",
+        "price": 44.99
+      },
+      {
+        "sku": "MCRES-S",
+        "size": "S",
+        "upc": "198311010211",
+        "price": 44.99
+      },
+      {
+        "sku": "MCRES-XL",
+        "size": "XL",
+        "upc": "198311010242",
+        "price": 44.99
+      },
+      {
+        "sku": "MCRES-XS",
+        "size": "XS",
+        "upc": "198311010204",
+        "price": 44.99
+      },
+      {
+        "sku": "MCRES-XXL",
+        "size": "XXL",
+        "upc": "198311010259",
+        "price": 44.99
+      }
+    ]
+  },
+  {
+    "master": "MCSQ",
+    "brand": "MegaComfort",
+    "desc": "MEGACOMFORT INSOLE ERGO ANTI-FATIGUE SQ TOE",
+    "gender": "Unisex",
+    "sizeRange": "XS - XXL",
+    "esd": false,
+    "puncture": false,
+    "tallPkg": true,
+    "foldedPkg": false,
+    "cooling": false,
+    "insulated": false,
+    "secFriendly": true,
+    "priceMin": 29.99,
+    "priceMax": 29.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_9d5c5c00-efb8-43f0-b467-1ca114d6579b",
+    "sizes": [
+      {
+        "sku": "MCSQ-L",
+        "size": "L",
+        "upc": "198311010112",
+        "price": 29.99
+      },
+      {
+        "sku": "MCSQ-M",
+        "size": "M",
+        "upc": "198311010105",
+        "price": 29.99
+      },
+      {
+        "sku": "MCSQ-S",
+        "size": "S",
+        "upc": "198311010099",
+        "price": 29.99
+      },
+      {
+        "sku": "MCSQ-XL",
+        "size": "XL",
+        "upc": "198311010129",
+        "price": 29.99
+      },
+      {
+        "sku": "MCSQ-XS",
+        "size": "XS",
+        "upc": "198311010082",
+        "price": 29.99
+      },
+      {
+        "sku": "MCSQ-XXL",
+        "size": "XXL",
+        "upc": "198311010136",
+        "price": 29.99
+      }
+    ]
+  },
+  {
+    "master": "MCTHERM",
+    "brand": "MegaComfort",
+    "desc": "MEGACOMFORT INSOLE ERGO THERMAL",
+    "gender": "Unisex",
+    "sizeRange": "XS - XXL",
+    "esd": false,
+    "puncture": false,
+    "tallPkg": true,
+    "foldedPkg": false,
+    "cooling": false,
+    "insulated": true,
+    "secFriendly": true,
+    "priceMin": 39.99,
+    "priceMax": 39.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_b1dce564-ad8d-4387-aab8-aa215be6a4b2",
+    "sizes": [
+      {
+        "sku": "MCTHERM-L",
+        "size": "L",
+        "upc": "198311010549",
+        "price": 39.99
+      },
+      {
+        "sku": "MCTHERM-M",
+        "size": "M",
+        "upc": "198311010532",
+        "price": 39.99
+      },
+      {
+        "sku": "MCTHERM-S",
+        "size": "S",
+        "upc": "198311010525",
+        "price": 39.99
+      },
+      {
+        "sku": "MCTHERM-XL",
+        "size": "XL",
+        "upc": "198311010556",
+        "price": 39.99
+      },
+      {
+        "sku": "MCTHERM-XS",
+        "size": "XS",
+        "upc": "198311010518",
+        "price": 39.99
+      },
+      {
+        "sku": "MCTHERM-XXL",
+        "size": "XXL",
+        "upc": "198311010563",
+        "price": 39.99
+      }
+    ]
+  },
+  {
+    "master": "MCCOOL",
+    "brand": "MegaComfort",
+    "desc": "MEGACOMFORT INSOLE ERGO COOLING",
+    "gender": "Unisex",
+    "sizeRange": "XS - XXL",
+    "esd": false,
+    "puncture": false,
+    "tallPkg": true,
+    "foldedPkg": false,
+    "cooling": true,
+    "insulated": false,
+    "secFriendly": true,
+    "priceMin": 40,
+    "priceMax": 40,
+    "image": "https://media.surewerx.com/asset/5278c1db-1b47-442f-9501-354eb54f5b3e/2000_JPG/MCCOOL.jpg",
+    "sizes": [
+      {
+        "sku": "MCCOOL-L",
+        "size": "L",
+        "upc": "198311041123",
+        "price": 40
+      },
+      {
+        "sku": "MCCOOL-M",
+        "size": "M",
+        "upc": "198311041116",
+        "price": 40
+      },
+      {
+        "sku": "MCCOOL-S",
+        "size": "S",
+        "upc": "198311041109",
+        "price": 40
+      },
+      {
+        "sku": "MCCOOL-XL",
+        "size": "XL",
+        "upc": "198311041130",
+        "price": 40
+      },
+      {
+        "sku": "MCCOOL-XS",
+        "size": "XS",
+        "upc": "198311041093",
+        "price": 40
+      },
+      {
+        "sku": "MCCOOL-XXL",
+        "size": "XXL",
+        "upc": "198311041147",
+        "price": 40
+      }
+    ]
+  }
+]
