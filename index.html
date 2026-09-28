@@ -115,7 +115,7 @@ input,select{font-family:inherit;}
 .layout{display:flex;align-items:flex-start;max-width:1500px;margin:0 auto;}
 .sidebar{
   width:250px;flex-shrink:0;padding:20px 16px;position:sticky;top:var(--header-height, 65px);
-  max-height:calc(100vh - var(--header-height, 65px));overflow-y:auto;
+  max-height:calc(100vh - var(--header-height, 65px));overflow-y:auto;overflow-x:hidden;
 }
 .filter-group{margin-bottom:22px;}
 .filter-group h3{
@@ -125,14 +125,14 @@ input,select{font-family:inherit;}
 .filter-group h3 .clear-link{
   font-family:'Inter',sans-serif;color:var(--orange);cursor:pointer;text-transform:none;letter-spacing:0;font-size:11px;
 }
-.price-filter{display:flex;flex-direction:column;gap:10px;margin-top:4px;}
-.price-row{display:flex;align-items:center;gap:8px;}
+.price-filter{display:flex;flex-direction:column;gap:10px;margin-top:4px;min-width:0;}
+.price-row{display:flex;align-items:center;gap:6px;min-width:0;}
 .price-row label{
   font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:.08em;text-transform:uppercase;
-  color:var(--text-dim);width:30px;flex-shrink:0;
+  color:var(--text-dim);width:26px;flex-shrink:0;
 }
 .price-row input[type=range]{
-  flex:1;-webkit-appearance:none;appearance:none;height:3px;background:var(--border);border-radius:2px;outline:none;
+  flex:1;min-width:0;-webkit-appearance:none;appearance:none;height:3px;background:var(--border);border-radius:2px;outline:none;
 }
 .price-row input[type=range]::-webkit-slider-thumb{
   -webkit-appearance:none;appearance:none;width:13px;height:13px;border-radius:50%;
@@ -142,8 +142,8 @@ input,select{font-family:inherit;}
   width:13px;height:13px;border-radius:50%;background:var(--orange);cursor:pointer;border:2px solid var(--ink);
 }
 .price-row input[type=number]{
-  width:64px;flex-shrink:0;background:var(--surface-raised);border:1px solid var(--border);border-radius:var(--radius);
-  color:var(--text);font-family:'IBM Plex Mono',monospace;font-size:12px;padding:3px 5px;
+  width:52px;flex-shrink:0;background:var(--surface-raised);border:1px solid var(--border);border-radius:var(--radius);
+  color:var(--text);font-family:'IBM Plex Mono',monospace;font-size:12px;padding:3px 4px;
   -moz-appearance:textfield;
 }
 .price-row input[type=number]::-webkit-inner-spin-button,
