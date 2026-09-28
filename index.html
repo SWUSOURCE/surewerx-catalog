@@ -125,6 +125,30 @@ input,select{font-family:inherit;}
 .filter-group h3 .clear-link{
   font-family:'Inter',sans-serif;color:var(--orange);cursor:pointer;text-transform:none;letter-spacing:0;font-size:11px;
 }
+.price-filter{display:flex;flex-direction:column;gap:10px;margin-top:4px;}
+.price-row{display:flex;align-items:center;gap:8px;}
+.price-row label{
+  font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:.08em;text-transform:uppercase;
+  color:var(--text-dim);width:30px;flex-shrink:0;
+}
+.price-row input[type=range]{
+  flex:1;-webkit-appearance:none;appearance:none;height:3px;background:var(--border);border-radius:2px;outline:none;
+}
+.price-row input[type=range]::-webkit-slider-thumb{
+  -webkit-appearance:none;appearance:none;width:13px;height:13px;border-radius:50%;
+  background:var(--orange);cursor:pointer;border:2px solid var(--ink);
+}
+.price-row input[type=range]::-moz-range-thumb{
+  width:13px;height:13px;border-radius:50%;background:var(--orange);cursor:pointer;border:2px solid var(--ink);
+}
+.price-row input[type=number]{
+  width:64px;flex-shrink:0;background:var(--surface-raised);border:1px solid var(--border);border-radius:var(--radius);
+  color:var(--text);font-family:'IBM Plex Mono',monospace;font-size:12px;padding:3px 5px;
+  -moz-appearance:textfield;
+}
+.price-row input[type=number]::-webkit-inner-spin-button,
+.price-row input[type=number]::-webkit-outer-spin-button{-webkit-appearance:none;margin:0;}
+.price-row input[type=number]:focus{border-color:var(--orange);}
 .filter-option{
   display:flex;align-items:center;gap:9px;padding:5px 2px;font-size:12.5px;color:var(--text-muted);
   cursor:pointer;user-select:none;border-radius:2px;
@@ -593,11 +617,13 @@ const state = {
   sort: 'name-asc',
   filters: {},   // cat -> { groupId: Set }
   features: {},  // cat -> Set
+  priceRange: {}, // cat -> { min, max } -- null means "no filter set yet, use full range"
 };
 CAT_ORDER.forEach(c => {
   state.filters[c] = {};
   CATEGORIES[c].filters.forEach(f => state.filters[c][f.id] = new Set());
   state.features[c] = new Set();
+  state.priceRange[c] = null;
 });
 
 const selection = new Map();   // key(cat+master) -> { width, size }
@@ -656,6 +682,11 @@ function matches(p) {
       const feat = cfg.features.find(x => x.id === featId);
       if (feat && !feat.test(p)) return false;
     }
+  }
+  const pr = state.priceRange[state.cat];
+  if (pr) {
+    const price = priceOf(p);
+    if (price != null && (price < pr.min || price > pr.max)) return false;
   }
   return true;
 }
@@ -911,12 +942,49 @@ function renderFilters() {
     </div>`;
   }
 
+  // Price range filter -- bounds come from the real data for this
+  // category (prices vary wildly between e.g. footwear and insoles), not
+  // a hardcoded guess. If this is the first time viewing this category,
+  // start with the full range (no filtering); otherwise keep whatever the
+  // person already chose, clamped in case the underlying data changed.
+  const prices = list.map(priceOf).filter(v => v != null);
+  if (prices.length) {
+    const dataMin = Math.floor(Math.min(...prices));
+    const dataMax = Math.ceil(Math.max(...prices));
+    let pr = state.priceRange[state.cat];
+    if (!pr) {
+      pr = { min: dataMin, max: dataMax };
+      state.priceRange[state.cat] = pr;
+    } else {
+      pr.min = Math.max(dataMin, Math.min(pr.min, dataMax));
+      pr.max = Math.min(dataMax, Math.max(pr.max, dataMin));
+    }
+    const isFiltered = pr.min > dataMin || pr.max < dataMax;
+    sections['price'] = `<div class="filter-group">
+      <h3>Price (MSRP) ${isFiltered ? `<span class="clear-link" data-clear-price="1">clear</span>` : ''}</h3>
+      <div class="price-filter">
+        <div class="price-row">
+          <label>Min</label>
+          <input type="range" id="priceMinSlider" min="${dataMin}" max="${dataMax}" value="${pr.min}">
+          <input type="number" id="priceMinInput" min="${dataMin}" max="${dataMax}" value="${pr.min}">
+        </div>
+        <div class="price-row">
+          <label>Max</label>
+          <input type="range" id="priceMaxSlider" min="${dataMin}" max="${dataMax}" value="${pr.max}">
+          <input type="number" id="priceMaxInput" min="${dataMin}" max="${dataMax}" value="${pr.max}">
+        </div>
+      </div>
+    </div>`;
+  }
+
   // Order: this category's explicit filterOrder if given, otherwise
   // Features first followed by the filters in their original array order.
+  // Price always renders last, after everything else.
   const naturalOrder = ['features', ...cfg.filters.map(f => f.id)];
   const order = cfg.filterOrder
     ? [...cfg.filterOrder, ...naturalOrder.filter(id => !cfg.filterOrder.includes(id))]
     : naturalOrder;
+  order.push('price');
 
   const html = order.map(id => sections[id] || '').join('');
   el.innerHTML = html;
@@ -940,7 +1008,39 @@ function renderFilters() {
   el.querySelectorAll('[data-clear-features]').forEach(link => {
     link.addEventListener('click', () => { featSet.clear(); renderAll(); });
   });
+
+  const clearPriceLink = el.querySelector('[data-clear-price]');
+  if (clearPriceLink) {
+    clearPriceLink.addEventListener('click', () => { state.priceRange[state.cat] = null; renderAll(); });
+  }
+
+  const minSlider = document.getElementById('priceMinSlider');
+  const maxSlider = document.getElementById('priceMaxSlider');
+  const minInput = document.getElementById('priceMinInput');
+  const maxInput = document.getElementById('priceMaxInput');
+  if (minSlider && maxSlider && minInput && maxInput) {
+    let renderTimer = null;
+    function scheduleRerender() {
+      // Debounced so dragging the slider stays smooth instead of doing a
+      // full grid re-render on every pixel of movement.
+      clearTimeout(renderTimer);
+      renderTimer = setTimeout(renderAll, 150);
+    }
+    function setRange(newMin, newMax) {
+      const pr = state.priceRange[state.cat];
+      // Never let min exceed max or vice versa.
+      pr.min = Math.min(newMin, newMax);
+      pr.max = Math.max(newMin, newMax);
+      minSlider.value = pr.min; minInput.value = pr.min;
+      maxSlider.value = pr.max; maxInput.value = pr.max;
+    }
+    minSlider.addEventListener('input', () => { setRange(Number(minSlider.value), Number(maxSlider.value)); scheduleRerender(); });
+    maxSlider.addEventListener('input', () => { setRange(Number(minSlider.value), Number(maxSlider.value)); scheduleRerender(); });
+    minInput.addEventListener('change', () => { setRange(Number(minInput.value), Number(maxSlider.value)); renderAll(); });
+    maxInput.addEventListener('change', () => { setRange(Number(minSlider.value), Number(maxInput.value)); renderAll(); });
+  }
 }
+
 
 /* ---------- Active chips ---------- */
 function renderChips() {
