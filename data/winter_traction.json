@@ -1,0 +1,1849 @@
+[
+  {
+    "master": "V3550170",
+    "brand": "Due North",
+    "desc": "Lt Industrial Traction Aid - S/M",
+    "category": "traction",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": null,
+    "priceMin": 24.38,
+    "priceMax": 24.38,
+    "image": "https://media.surewerx.com/asset/bccd3854-6a88-40f3-9cb4-64c7ea7fa75b/Low_Res_JPG/V3550170.jpg",
+    "sizes": [
+      {
+        "sku": "V3550170-L/XL",
+        "size": "L/XL",
+        "upc": "17166983344",
+        "price": 24.38
+      },
+      {
+        "sku": "V3550170-S/M",
+        "size": "S/M",
+        "upc": "17166983337",
+        "price": 24.38
+      }
+    ]
+  },
+  {
+    "master": "V3550270",
+    "brand": "Due North",
+    "desc": "All Purpose Traction Aid - Oversized",
+    "category": "traction",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": null,
+    "priceMin": 32.54,
+    "priceMax": 38.39,
+    "image": "https://media.surewerx.com/asset/db82c13d-83ca-4ff6-ae59-587f3a9ae907/Low_Res_JPG/V3550270.jpg",
+    "sizes": [
+      {
+        "sku": "V3550270-L",
+        "size": "L",
+        "upc": "17166981791",
+        "price": 32.54
+      },
+      {
+        "sku": "V3550270-M",
+        "size": "M",
+        "upc": "17166981807",
+        "price": 32.54
+      },
+      {
+        "sku": "V3550270-S",
+        "size": "S",
+        "upc": "17166981777",
+        "price": 32.54
+      },
+      {
+        "sku": "V3550270-XL",
+        "size": "XL",
+        "upc": "17166981784",
+        "price": 38.39
+      }
+    ]
+  },
+  {
+    "master": "V3550370",
+    "brand": "Due North",
+    "desc": "AP Industrial Traction Aid - XL",
+    "category": "traction",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": null,
+    "priceMin": 36.05,
+    "priceMax": 42.61,
+    "image": "https://media.surewerx.com/asset/d7a12d61-ef27-4d57-bf69-a095fded0c51/Low_Res_JPG/V3550370.jpg",
+    "sizes": [
+      {
+        "sku": "V3550370-2XL",
+        "size": "2XL",
+        "upc": "17166983481",
+        "price": 42.61
+      },
+      {
+        "sku": "V3550370-L",
+        "size": "L",
+        "upc": "17166983450",
+        "price": 36.05
+      },
+      {
+        "sku": "V3550370-M",
+        "size": "M",
+        "upc": "17166983467",
+        "price": 36.05
+      },
+      {
+        "sku": "V3550370-S",
+        "size": "S",
+        "upc": "17166983474",
+        "price": 36.05
+      },
+      {
+        "sku": "V3550370-XL",
+        "size": "XL",
+        "upc": "17166983443",
+        "price": 42.61
+      }
+    ]
+  },
+  {
+    "master": "V3550470",
+    "brand": "Due North",
+    "desc": "Heel Traction Aid - Oversized",
+    "category": "traction",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": null,
+    "priceMin": 29.9,
+    "priceMax": 29.9,
+    "image": "https://media.surewerx.com/asset/ae5c9632-b359-4c81-9993-f02a3a398c9e/Low_Res_JPG/V3550470.jpg",
+    "sizes": [
+      {
+        "sku": "V3550470-O/S",
+        "size": "O/S",
+        "upc": "17166983306",
+        "price": 29.9
+      }
+    ]
+  },
+  {
+    "master": "V3550570",
+    "brand": "Due North",
+    "desc": "Heavy Duty Traction Aid - XL",
+    "category": "traction",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": null,
+    "priceMin": 54.81,
+    "priceMax": 62.11,
+    "image": "https://media.surewerx.com/asset/936190ef-6b1a-4970-aca7-e754eed49256/Low_Res_JPG/V3550570.jpg",
+    "sizes": [
+      {
+        "sku": "V3550570-L",
+        "size": "L",
+        "upc": "17166983832",
+        "price": 54.81
+      },
+      {
+        "sku": "V3550570-M",
+        "size": "M",
+        "upc": "17166983825",
+        "price": 54.81
+      },
+      {
+        "sku": "V3550570-S",
+        "size": "S",
+        "upc": "17166983818",
+        "price": 54.81
+      },
+      {
+        "sku": "V3550570-XL",
+        "size": "XL",
+        "upc": "17166983849",
+        "price": 62.11
+      }
+    ]
+  },
+  {
+    "master": "V3551270",
+    "brand": "Due North",
+    "desc": "EveryDay G3 Traction Aid - S/M",
+    "category": "traction",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": null,
+    "priceMin": 20.29,
+    "priceMax": 20.29,
+    "image": "https://media.surewerx.com/asset/bb7aa51b-bff1-41e2-8446-4c08c0c70294/Low_Res_JPG/V3551270.jpg",
+    "sizes": [
+      {
+        "sku": "V3551270-L/XL",
+        "size": "L/XL",
+        "upc": "17166983368",
+        "price": 20.29
+      },
+      {
+        "sku": "V3551270-S/M",
+        "size": "S/M",
+        "upc": "17166983351",
+        "price": 20.29
+      }
+    ]
+  },
+  {
+    "master": "V3551370",
+    "brand": "Due North",
+    "desc": "EveryDay Pro Traction Aid - S/M",
+    "category": "traction",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": null,
+    "priceMin": 26.33,
+    "priceMax": 26.33,
+    "image": "https://media.surewerx.com/asset/121dccf1-6a93-474b-8e5a-915dfe95ad7d/Low_Res_JPG/due-north.jpg",
+    "sizes": [
+      {
+        "sku": "V3551370-L/XL",
+        "size": "L/XL",
+        "upc": "17166983634",
+        "price": 26.33
+      },
+      {
+        "sku": "V3551370-S/M",
+        "size": "S/M",
+        "upc": "17166983627",
+        "price": 26.33
+      }
+    ]
+  },
+  {
+    "master": "V3553570",
+    "brand": "Due North",
+    "desc": "GripPro™ Spikeless Traction Aid Small/Medium",
+    "category": "traction",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": false,
+    "gripPro": true,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": null,
+    "priceMin": 39.34,
+    "priceMax": 39.34,
+    "image": "https://media.surewerx.com/asset/3c7a97cc-f5cc-44ab-a197-cd089433f531/Low_Res_JPG/V3553570.jpg",
+    "sizes": [
+      {
+        "sku": "V3553570-2XL",
+        "size": "2XL",
+        "upc": "626053645014",
+        "price": 39.34
+      },
+      {
+        "sku": "V3553570-L/XL",
+        "size": "L/XL",
+        "upc": "626053632328",
+        "price": 39.34
+      },
+      {
+        "sku": "V3553570-S/M",
+        "size": "S/M",
+        "upc": "626053632311",
+        "price": 39.34
+      }
+    ]
+  },
+  {
+    "master": "V5770170",
+    "brand": "K1 Series",
+    "desc": "Heelstop Traction Aid Intrinsic XL",
+    "category": "traction",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": true,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": null,
+    "priceMin": 51.02,
+    "priceMax": 51.02,
+    "image": "https://media.surewerx.com/asset/44f67cdf-26d9-47cd-8024-bb3bc33af244/Low_Res_JPG/V5770170_SR.jpg",
+    "sizes": [
+      {
+        "sku": "V5770170-2XL",
+        "size": "2XL",
+        "upc": "6417881123942",
+        "price": 51.02
+      },
+      {
+        "sku": "V5770170-L",
+        "size": "L",
+        "upc": "6417881123928",
+        "price": 51.02
+      },
+      {
+        "sku": "V5770170-M",
+        "size": "M",
+        "upc": "6417881123911",
+        "price": 51.02
+      },
+      {
+        "sku": "V5770170-XL",
+        "size": "XL",
+        "upc": "6417881123935",
+        "price": 51.02
+      }
+    ]
+  },
+  {
+    "master": "V6770170",
+    "brand": "K1 Series",
+    "desc": "Heelstop Traction Aid XL",
+    "category": "traction",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": null,
+    "priceMin": 40.34,
+    "priceMax": 40.34,
+    "image": "https://media.surewerx.com/asset/85c0de7d-dc5f-40d8-8745-4d85fc271c22/Low_Res_JPG/V6770170_SR.jpg",
+    "sizes": [
+      {
+        "sku": "V6770170-2XL",
+        "size": "2XL",
+        "upc": "6417881123546",
+        "price": 40.34
+      },
+      {
+        "sku": "V6770170-L",
+        "size": "L",
+        "upc": "6417881123416",
+        "price": 40.34
+      },
+      {
+        "sku": "V6770170-M",
+        "size": "M",
+        "upc": "6417881123409",
+        "price": 40.34
+      },
+      {
+        "sku": "V6770170-XL",
+        "size": "XL",
+        "upc": "6417881123447",
+        "price": 40.34
+      }
+    ]
+  },
+  {
+    "master": "V8770160",
+    "brand": "K1 Series",
+    "desc": "Original Mid-Sole Ice Cleat Intrinsic",
+    "category": "cleat",
+    "color": "INTRINSIC",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": true,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": null,
+    "priceMin": 51.55,
+    "priceMax": 51.55,
+    "image": "https://media.surewerx.com/asset/0f7b793c-5a09-4bd0-8614-8be29c24282b/Low_Res_JPG/V8770160_1.jpg",
+    "sizes": [
+      {
+        "sku": "V8770160-O/S",
+        "size": "O/S",
+        "upc": "620345950749",
+        "price": 51.55
+      }
+    ]
+  },
+  {
+    "master": "V8770260",
+    "brand": "K1 Series",
+    "desc": "Original Mid-Sole Ice Cleat Low-Profile Intrinsic",
+    "category": "cleat",
+    "color": "INTRINSIC",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": true,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": null,
+    "priceMin": 51.55,
+    "priceMax": 51.55,
+    "image": "https://media.surewerx.com/asset/ffd89aa8-0c2d-4735-8676-58a260afa987/Low_Res_JPG/V8770260_CU.jpg",
+    "sizes": [
+      {
+        "sku": "V8770260-O/S",
+        "size": "O/S",
+        "upc": "620345950763",
+        "price": 51.55
+      }
+    ]
+  },
+  {
+    "master": "V8770360",
+    "brand": "K1 Series",
+    "desc": "Original Mid-Sole Ice Cleat High-Profile Intrinsic",
+    "category": "cleat",
+    "color": "INTRINSIC",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": true,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": null,
+    "priceMin": 51.55,
+    "priceMax": 51.55,
+    "image": "https://media.surewerx.com/asset/ffd89aa8-0c2d-4735-8676-58a260afa987/Low_Res_JPG/V8770260_CU.jpg",
+    "sizes": [
+      {
+        "sku": "V8770360-O/S",
+        "size": "O/S",
+        "upc": "620345950459",
+        "price": 51.55
+      }
+    ]
+  },
+  {
+    "master": "V9553510",
+    "brand": "K1 Series",
+    "desc": "SG1 Traction Aid X-Small",
+    "category": "traction",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": null,
+    "priceMin": 42.6,
+    "priceMax": 42.6,
+    "image": "https://media.surewerx.com/asset/86e6f53d-5ee6-4702-a20c-5eb64fc42005/Low_Res_JPG/V9553510.jpg",
+    "sizes": [
+      {
+        "sku": "V9553510-L",
+        "size": "L",
+        "upc": "626053650551",
+        "price": 42.6
+      },
+      {
+        "sku": "V9553510-M",
+        "size": "M",
+        "upc": "626053650544",
+        "price": 42.6
+      },
+      {
+        "sku": "V9553510-S",
+        "size": "S",
+        "upc": "626053650537",
+        "price": 42.6
+      },
+      {
+        "sku": "V9553510-XL",
+        "size": "XL",
+        "upc": "626053650568",
+        "price": 42.6
+      },
+      {
+        "sku": "V9553510-XS",
+        "size": "XS",
+        "upc": "626053650520",
+        "price": 42.6
+      }
+    ]
+  },
+  {
+    "master": "V9770150",
+    "brand": "K1 Series",
+    "desc": "Original Mid-Sole Ice Cleat",
+    "category": "cleat",
+    "color": "HI-VIS",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": null,
+    "priceMin": 37.48,
+    "priceMax": 37.48,
+    "image": "https://media.surewerx.com/asset/101678fa-20f3-4562-8fc1-35e89f2f4003/Low_Res_JPG/V9770150_CU.jpg",
+    "sizes": [
+      {
+        "sku": "V9770150-O/S",
+        "size": "O/S",
+        "upc": "620345950343",
+        "price": 37.48
+      }
+    ]
+  },
+  {
+    "master": "V9770250",
+    "brand": "K1 Series",
+    "desc": "Original Mid-Sole Ice Cleat Low-Profile",
+    "category": "cleat",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": null,
+    "priceMin": 37.48,
+    "priceMax": 37.48,
+    "image": "https://media.surewerx.com/asset/101678fa-20f3-4562-8fc1-35e89f2f4003/Low_Res_JPG/V9770150_CU.jpg",
+    "sizes": [
+      {
+        "sku": "V9770250-O/S",
+        "size": "O/S",
+        "upc": "620345950756",
+        "price": 37.48
+      }
+    ]
+  },
+  {
+    "master": "V9770350",
+    "brand": "K1 Series",
+    "desc": "Original Mid-Sole Ice Cleat High-Profile",
+    "category": "cleat",
+    "color": "HI-VIS",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": null,
+    "priceMin": 37.48,
+    "priceMax": 37.48,
+    "image": "https://media.surewerx.com/asset/df5adbbb-9fe6-4fb7-9d56-0f0d7941a3bb/Low_Res_JPG/V9770350_2.jpg",
+    "sizes": [
+      {
+        "sku": "V9770350-O/S",
+        "size": "O/S",
+        "upc": "620345950435",
+        "price": 37.48
+      }
+    ]
+  },
+  {
+    "master": "V9770470",
+    "brand": "K1 Series",
+    "desc": "Original Mid-Sole Ice Cleat Black Strap",
+    "category": "cleat",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": null,
+    "priceMin": 37.48,
+    "priceMax": 37.48,
+    "image": "https://media.surewerx.com/asset/74627c3a-4983-45ee-97ce-71743c657071/Low_Res_JPG/V9770470_2.jpg",
+    "sizes": [
+      {
+        "sku": "V9770470-O/S",
+        "size": "O/S",
+        "upc": "620345950671",
+        "price": 37.48
+      }
+    ]
+  },
+  {
+    "master": "V9770570",
+    "brand": "K1 Series",
+    "desc": "Original Mid-Sole Ice Cleat Low-Profile Black Strap",
+    "category": "cleat",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": null,
+    "priceMin": 37.48,
+    "priceMax": 37.48,
+    "image": "https://media.surewerx.com/asset/74627c3a-4983-45ee-97ce-71743c657071/Low_Res_JPG/V9770470_2.jpg",
+    "sizes": [
+      {
+        "sku": "V9770570-O/S",
+        "size": "O/S",
+        "upc": "620345950428",
+        "price": 37.48
+      }
+    ]
+  },
+  {
+    "master": "V9770650",
+    "brand": "K1 Series",
+    "desc": "Mid-Sole Ice Cleat Slim",
+    "category": "cleat",
+    "color": "HI-VIS",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": null,
+    "priceMin": 39.84,
+    "priceMax": 39.84,
+    "image": "https://media.surewerx.com/asset/98236edd-74f5-4d85-b9a3-a5c697040e28/Low_Res_JPG/V9770650_2.jpg",
+    "sizes": [
+      {
+        "sku": "V9770650-O/S",
+        "size": "O/S",
+        "upc": "620345950473",
+        "price": 39.84
+      }
+    ]
+  },
+  {
+    "master": "V9770770",
+    "brand": "K1 Series",
+    "desc": "Original Mid-Sole Ice Cleat High-Profile Black Strap",
+    "category": "cleat",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": null,
+    "priceMin": 37.48,
+    "priceMax": 37.48,
+    "image": "https://media.surewerx.com/asset/2742b4c7-9534-464e-8382-d9d45e4a6953/Low_Res_JPG/V9770770_1.jpg",
+    "sizes": [
+      {
+        "sku": "V9770770-O/S",
+        "size": "O/S",
+        "upc": "620345950695",
+        "price": 37.48
+      }
+    ]
+  },
+  {
+    "master": "V9770870",
+    "brand": "K1 Series",
+    "desc": "Mid-Sole Ice Cleat Slim Black Strap",
+    "category": "cleat",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": null,
+    "priceMin": 39.84,
+    "priceMax": 39.84,
+    "image": "https://media.surewerx.com/asset/0f9ade9b-f4f2-47b7-86a4-d72f775c2f34/Low_Res_JPG/V9770870_2.jpg",
+    "sizes": [
+      {
+        "sku": "V9770870-O/S",
+        "size": "O/S",
+        "upc": "620345950848",
+        "price": 39.84
+      }
+    ]
+  },
+  {
+    "master": "ANN1",
+    "brand": "NEOS",
+    "desc": "NEOS 15 ADVENTURER ALL SEASON WP PERMA - WP PERMA ",
+    "category": "overshoe",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": true,
+    "spikes": false,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": true,
+    "slipResist": true,
+    "shaftHeight": "15\"",
+    "priceMin": 149.99,
+    "priceMax": 149.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_10c7b503-a50d-4b61-8e60-f6f7ba36a1af",
+    "sizes": [
+      {
+        "sku": "ANN1-2XL",
+        "size": "2XL",
+        "upc": "712197004722",
+        "price": 149.99
+      },
+      {
+        "sku": "ANN1-L",
+        "size": "L",
+        "upc": "712197004708",
+        "price": 149.99
+      },
+      {
+        "sku": "ANN1-M",
+        "size": "M",
+        "upc": "712197004692",
+        "price": 149.99
+      },
+      {
+        "sku": "ANN1-S",
+        "size": "S",
+        "upc": "712197004685",
+        "price": 149.99
+      },
+      {
+        "sku": "ANN1-XL",
+        "size": "XL",
+        "upc": "712197004715",
+        "price": 149.99
+      },
+      {
+        "sku": "ANN1-XS",
+        "size": "XS",
+        "upc": "712197004678",
+        "price": 149.99
+      }
+    ]
+  },
+  {
+    "master": "EXGG",
+    "brand": "NEOS",
+    "desc": "NEOS 11 EXPLORER-GLACIER TREK SPIKE - GLACIER TREK SPK OUTSOLE ",
+    "category": "overshoe",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": true,
+    "waterproof": true,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": "13\"",
+    "priceMin": 199.99,
+    "priceMax": 199.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_2c02d2fc-40a0-4959-a1a7-b221174eebe4",
+    "sizes": [
+      {
+        "sku": "EXGG-2XL",
+        "size": "2XL",
+        "upc": "86189150361",
+        "price": 199.99
+      },
+      {
+        "sku": "EXGG-3XL",
+        "size": "3XL",
+        "upc": "86189150378",
+        "price": 199.99
+      },
+      {
+        "sku": "EXGG-4XL",
+        "size": "4XL",
+        "upc": "86189150385",
+        "price": 199.99
+      },
+      {
+        "sku": "EXGG-L",
+        "size": "L",
+        "upc": "86189150347",
+        "price": 199.99
+      },
+      {
+        "sku": "EXGG-M",
+        "size": "M",
+        "upc": "86189150330",
+        "price": 199.99
+      },
+      {
+        "sku": "EXGG-S",
+        "size": "S",
+        "upc": "86189150323",
+        "price": 199.99
+      },
+      {
+        "sku": "EXGG-XL",
+        "size": "XL",
+        "upc": "86189150354",
+        "price": 199.99
+      }
+    ]
+  },
+  {
+    "master": "EXPG",
+    "brand": "NEOS",
+    "desc": "NEOS 11 EXPLORER WATERPROOF WINTER PERMA ",
+    "category": "overshoe",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": true,
+    "waterproof": true,
+    "spikes": false,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": true,
+    "slipResist": true,
+    "shaftHeight": "13\"",
+    "priceMin": 179.99,
+    "priceMax": 179.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_fe4aa33b-e123-4cee-a236-be97ff0f9424",
+    "sizes": [
+      {
+        "sku": "EXPG-2XL",
+        "size": "2XL",
+        "upc": "712197005125",
+        "price": 179.99
+      },
+      {
+        "sku": "EXPG-3XL",
+        "size": "3XL",
+        "upc": "712197005873",
+        "price": 179.99
+      },
+      {
+        "sku": "EXPG-L",
+        "size": "L",
+        "upc": "712197005101",
+        "price": 179.99
+      },
+      {
+        "sku": "EXPG-M",
+        "size": "M",
+        "upc": "712197005095",
+        "price": 179.99
+      },
+      {
+        "sku": "EXPG-S",
+        "size": "S",
+        "upc": "712197005088",
+        "price": 179.99
+      },
+      {
+        "sku": "EXPG-XL",
+        "size": "XL",
+        "upc": "712197005118",
+        "price": 179.99
+      },
+      {
+        "sku": "EXPG-XS",
+        "size": "XS",
+        "upc": "712197005071",
+        "price": 179.99
+      }
+    ]
+  },
+  {
+    "master": "KLN1BL",
+    "brand": "NEOS",
+    "desc": "NEOS KLONDIKE GP - MEN'S WP GPI - BLACK",
+    "category": "overshoe",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": true,
+    "waterproof": true,
+    "spikes": false,
+    "gripPro": true,
+    "definedHeel": false,
+    "secFriendly": true,
+    "slipResist": true,
+    "shaftHeight": "14\"",
+    "priceMin": 214.99,
+    "priceMax": 214.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_4500ef4d-39a3-4424-8301-94148d365f8a",
+    "sizes": [
+      {
+        "sku": "KLN1BL-2XL",
+        "size": "2XL",
+        "upc": "810151180113",
+        "price": 214.99
+      },
+      {
+        "sku": "KLN1BL-3XL",
+        "size": "3XL",
+        "upc": "810151180120",
+        "price": 214.99
+      },
+      {
+        "sku": "KLN1BL-4XL",
+        "size": "4XL",
+        "upc": "810151180137",
+        "price": 214.99
+      },
+      {
+        "sku": "KLN1BL-L",
+        "size": "L",
+        "upc": "810151180090",
+        "price": 214.99
+      },
+      {
+        "sku": "KLN1BL-M",
+        "size": "M",
+        "upc": "810151180083",
+        "price": 214.99
+      },
+      {
+        "sku": "KLN1BL-S",
+        "size": "S",
+        "upc": "810151180076",
+        "price": 214.99
+      },
+      {
+        "sku": "KLN1BL-XL",
+        "size": "XL",
+        "upc": "810151180106",
+        "price": 214.99
+      }
+    ]
+  },
+  {
+    "master": "N5P3",
+    "brand": "NEOS",
+    "desc": "NEOS 15 NAVIGATOR 5 EXPANDABLE WP WINTER VIBRAM NINJA ",
+    "category": "overshoe",
+    "color": "GREEN",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": true,
+    "waterproof": true,
+    "spikes": false,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": true,
+    "slipResist": true,
+    "shaftHeight": "15\" - 20\"",
+    "priceMin": 219.99,
+    "priceMax": 219.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_80b5fa69-1796-44b6-9d2b-1cfc2e198a70",
+    "sizes": [
+      {
+        "sku": "N5P3-2XL",
+        "size": "2XL",
+        "upc": "712197004555",
+        "price": 219.99
+      },
+      {
+        "sku": "N5P3-3XL",
+        "size": "3XL",
+        "upc": "86189030847",
+        "price": 219.99
+      },
+      {
+        "sku": "N5P3-4XL",
+        "size": "4XL",
+        "upc": "712197020692",
+        "price": 219.99
+      },
+      {
+        "sku": "N5P3-L",
+        "size": "L",
+        "upc": "712197004531",
+        "price": 219.99
+      },
+      {
+        "sku": "N5P3-M",
+        "size": "M",
+        "upc": "712197004524",
+        "price": 219.99
+      },
+      {
+        "sku": "N5P3-S",
+        "size": "S",
+        "upc": "712197004517",
+        "price": 219.99
+      },
+      {
+        "sku": "N5P3-XL",
+        "size": "XL",
+        "upc": "712197004548",
+        "price": 219.99
+      },
+      {
+        "sku": "N5P3-XS",
+        "size": "XS",
+        "upc": "712197004500",
+        "price": 219.99
+      }
+    ]
+  },
+  {
+    "master": "N5P3G",
+    "brand": "NEOS",
+    "desc": "NEOS 15 NAVIGATOR-GLACIER TREK SPK OUTSOLE ",
+    "category": "overshoe",
+    "color": "GREEN",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": true,
+    "waterproof": true,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": "15\" - 20\"",
+    "priceMin": 224.99,
+    "priceMax": 224.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_ac8d6743-4fb7-4613-bb11-8e2e598d545b",
+    "sizes": [
+      {
+        "sku": "N5P3G-2XL",
+        "size": "2XL",
+        "upc": "86189150286",
+        "price": 224.99
+      },
+      {
+        "sku": "N5P3G-3XL",
+        "size": "3XL",
+        "upc": "86189150293",
+        "price": 224.99
+      },
+      {
+        "sku": "N5P3G-4XL",
+        "size": "4XL",
+        "upc": "86189150309",
+        "price": 224.99
+      },
+      {
+        "sku": "N5P3G-L",
+        "size": "L",
+        "upc": "86189150262",
+        "price": 224.99
+      },
+      {
+        "sku": "N5P3G-M",
+        "size": "M",
+        "upc": "86189150255",
+        "price": 224.99
+      },
+      {
+        "sku": "N5P3G-S",
+        "size": "S",
+        "upc": "86189150248",
+        "price": 224.99
+      },
+      {
+        "sku": "N5P3G-XL",
+        "size": "XL",
+        "upc": "86189150279",
+        "price": 224.99
+      },
+      {
+        "sku": "N5P3G-XS",
+        "size": "XS",
+        "upc": "86189150231",
+        "price": 224.99
+      }
+    ]
+  },
+  {
+    "master": "VINGPBL",
+    "brand": "NEOS",
+    "desc": "NEOS VOYAGER GP - BLACK WP GPI ",
+    "category": "overshoe",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": true,
+    "waterproof": true,
+    "spikes": false,
+    "gripPro": true,
+    "definedHeel": false,
+    "secFriendly": true,
+    "slipResist": true,
+    "shaftHeight": "14\"",
+    "priceMin": 169.99,
+    "priceMax": 169.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_7c8f9ebd-c1b0-43d7-a818-ed3b374aea95",
+    "sizes": [
+      {
+        "sku": "VINGPBL-2XL",
+        "size": "2XL",
+        "upc": "810151180335",
+        "price": 169.99
+      },
+      {
+        "sku": "VINGPBL-3XL",
+        "size": "3XL",
+        "upc": "810151180342",
+        "price": 169.99
+      },
+      {
+        "sku": "VINGPBL-4XL",
+        "size": "4XL",
+        "upc": "810151180359",
+        "price": 169.99
+      },
+      {
+        "sku": "VINGPBL-L",
+        "size": "L",
+        "upc": "810151180311",
+        "price": 169.99
+      },
+      {
+        "sku": "VINGPBL-M",
+        "size": "M",
+        "upc": "810151180304",
+        "price": 169.99
+      },
+      {
+        "sku": "VINGPBL-S",
+        "size": "S",
+        "upc": "810151180298",
+        "price": 169.99
+      },
+      {
+        "sku": "VINGPBL-XL",
+        "size": "XL",
+        "upc": "810151180328",
+        "price": 169.99
+      }
+    ]
+  },
+  {
+    "master": "VIS1",
+    "brand": "NEOS",
+    "desc": "NEOS 11 VILLAGER NYLON ALL SEASON WATERPROOF SUPER-LITE OUTSOLE",
+    "category": "overshoe",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": true,
+    "spikes": false,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": true,
+    "slipResist": true,
+    "shaftHeight": "10.5\"",
+    "priceMin": 124.99,
+    "priceMax": 124.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_87747037-7097-4ba2-8e50-112a7e6763f1",
+    "sizes": [
+      {
+        "sku": "VIS1-2XL",
+        "size": "2XL",
+        "upc": "712197006054",
+        "price": 124.99
+      },
+      {
+        "sku": "VIS1-L",
+        "size": "L",
+        "upc": "712197006030",
+        "price": 124.99
+      },
+      {
+        "sku": "VIS1-M",
+        "size": "M",
+        "upc": "712197006023",
+        "price": 124.99
+      },
+      {
+        "sku": "VIS1-S",
+        "size": "S",
+        "upc": "712197006016",
+        "price": 124.99
+      },
+      {
+        "sku": "VIS1-XL",
+        "size": "XL",
+        "upc": "712197006047",
+        "price": 124.99
+      },
+      {
+        "sku": "VIS1-XS",
+        "size": "XS",
+        "upc": "712197006009",
+        "price": 124.99
+      }
+    ]
+  },
+  {
+    "master": "VNG1",
+    "brand": "NEOS",
+    "desc": "NEOS 11 VOYAGER-GLACIER TREK SPIKE OUTSOLE SPK OUTSOLE",
+    "category": "overshoe",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": true,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": "11\"",
+    "priceMin": 179.99,
+    "priceMax": 179.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_dfaaeb31-1eaa-412d-b4d7-c3f26b5e0d35",
+    "sizes": [
+      {
+        "sku": "VNG1-2XL",
+        "size": "2XL",
+        "upc": "86189150200",
+        "price": 179.99
+      },
+      {
+        "sku": "VNG1-3XL",
+        "size": "3XL",
+        "upc": "86189150217",
+        "price": 179.99
+      },
+      {
+        "sku": "VNG1-4XL",
+        "size": "4XL",
+        "upc": "86189150224",
+        "price": 179.99
+      },
+      {
+        "sku": "VNG1-L",
+        "size": "L",
+        "upc": "86189150187",
+        "price": 179.99
+      },
+      {
+        "sku": "VNG1-M",
+        "size": "M",
+        "upc": "86189150170",
+        "price": 179.99
+      },
+      {
+        "sku": "VNG1-S",
+        "size": "S",
+        "upc": "86189150163",
+        "price": 179.99
+      },
+      {
+        "sku": "VNG1-XL",
+        "size": "XL",
+        "upc": "86189150194",
+        "price": 179.99
+      },
+      {
+        "sku": "VNG1-XS",
+        "size": "XS",
+        "upc": "86189150408",
+        "price": 179.99
+      }
+    ]
+  },
+  {
+    "master": "VNG1HEEL",
+    "brand": "NEOS",
+    "desc": "NEOS 11 VOYAGER-GLACIER TREK SPK W/ HEEL OUTSOLE SPK W/HEEL OUTSOLE ",
+    "category": "overshoe",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": true,
+    "waterproof": true,
+    "spikes": true,
+    "gripPro": false,
+    "definedHeel": true,
+    "secFriendly": false,
+    "slipResist": true,
+    "shaftHeight": "12\"",
+    "priceMin": 189.99,
+    "priceMax": 189.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_02fcdc55-124f-423a-96bf-218015642e40",
+    "sizes": [
+      {
+        "sku": "VNG1HEEL-2XL",
+        "size": "2XL",
+        "upc": "86189149938",
+        "price": 189.99
+      },
+      {
+        "sku": "VNG1HEEL-3XL",
+        "size": "3XL",
+        "upc": "86189150040",
+        "price": 189.99
+      },
+      {
+        "sku": "VNG1HEEL-4XL",
+        "size": "4XL",
+        "upc": "86189150156",
+        "price": 189.99
+      },
+      {
+        "sku": "VNG1HEEL-L",
+        "size": "L",
+        "upc": "86189149839",
+        "price": 189.99
+      },
+      {
+        "sku": "VNG1HEEL-M",
+        "size": "M",
+        "upc": "86189149822",
+        "price": 189.99
+      },
+      {
+        "sku": "VNG1HEEL-S",
+        "size": "S",
+        "upc": "86189149815",
+        "price": 189.99
+      },
+      {
+        "sku": "VNG1HEEL-XL",
+        "size": "XL",
+        "upc": "86189149846",
+        "price": 189.99
+      }
+    ]
+  },
+  {
+    "master": "VNN1",
+    "brand": "NEOS",
+    "desc": "NEOS 10 VOYAGER NYLON ALL SEASON WATERPROOF PERMA ",
+    "category": "overshoe",
+    "color": "BLACK",
+    "isAccessory": false,
+    "compatibility": null,
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": true,
+    "spikes": false,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": true,
+    "slipResist": true,
+    "shaftHeight": "11\"",
+    "priceMin": 149.99,
+    "priceMax": 149.99,
+    "image": "https://media.surewerx.com/asset/9de740c9-d6f7-4144-898d-da873db49e42/2000_JPG/VNN1.jpg",
+    "sizes": [
+      {
+        "sku": "VNN1-2XL",
+        "size": "2XL",
+        "upc": "712197004609",
+        "price": 149.99
+      },
+      {
+        "sku": "VNN1-3XL",
+        "size": "3XL",
+        "upc": "712197006726",
+        "price": 149.99
+      },
+      {
+        "sku": "VNN1-L",
+        "size": "L",
+        "upc": "712197004586",
+        "price": 149.99
+      },
+      {
+        "sku": "VNN1-M",
+        "size": "M",
+        "upc": "712197004579",
+        "price": 149.99
+      },
+      {
+        "sku": "VNN1-S",
+        "size": "S",
+        "upc": "712197004562",
+        "price": 149.99
+      },
+      {
+        "sku": "VNN1-XL",
+        "size": "XL",
+        "upc": "712197004593",
+        "price": 149.99
+      },
+      {
+        "sku": "VNN1-XS",
+        "size": "XS",
+        "upc": "712197005057",
+        "price": 149.99
+      }
+    ]
+  },
+  {
+    "master": "GSRCRBTP",
+    "brand": "NEOS",
+    "desc": "NEOS TUNGSTEN CARBIDE SPIKE",
+    "category": "accessory",
+    "color": "SILVER",
+    "isAccessory": true,
+    "compatibility": "NEOS W/ GLACIER TREK CLEATS",
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": false,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": false,
+    "shaftHeight": null,
+    "priceMin": 34.99,
+    "priceMax": 34.99,
+    "image": "https://media.surewerx.com/asset/53c610e9-a5b8-4d44-b952-4080d9ffcf6d/2000_JPG/GSRCRBTP_CU2.jpg",
+    "sizes": [
+      {
+        "sku": "GSRCRBTP-O/S",
+        "size": "O/S",
+        "upc": "198311019993",
+        "price": 34.99
+      }
+    ]
+  },
+  {
+    "master": "GSRCRBTP-TL",
+    "brand": "NEOS",
+    "desc": "NEOS TUNGSTEN CARBIDE SPIKE TL",
+    "category": "accessory",
+    "color": "SILVER",
+    "isAccessory": true,
+    "compatibility": "NEOS W/ GLACIER TREK CLEATS",
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": false,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": false,
+    "shaftHeight": null,
+    "priceMin": 34.99,
+    "priceMax": 34.99,
+    "image": "https://media.surewerx.com/asset/117ce702-0e99-4d59-b364-2798e58f68b3/2000_JPG/GSRCRBTP-TL_CU1.jpg",
+    "sizes": [
+      {
+        "sku": "GSRCRBTP-TL-O/S",
+        "size": "O/S",
+        "upc": "198311026380",
+        "price": 34.99
+      }
+    ]
+  },
+  {
+    "master": "GSRCSLV",
+    "brand": "NEOS",
+    "desc": "GLACIER TREK SPK REPLACEMENT",
+    "category": "accessory",
+    "color": "BLACK",
+    "isAccessory": true,
+    "compatibility": "NEOS W/ GLACIER TREK CLEATS",
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": false,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": false,
+    "shaftHeight": null,
+    "priceMin": 24.99,
+    "priceMax": 24.99,
+    "image": "https://media.surewerx.com/asset/19acf288-33d2-4daf-abdf-81ecc7a993aa/Low_Res_JPG/GSRCSLV.jpg",
+    "sizes": [
+      {
+        "sku": "GSRCSLV-O/S",
+        "size": "O/S",
+        "upc": "86189150392",
+        "price": 24.99
+      }
+    ]
+  },
+  {
+    "master": "GSRINTR",
+    "brand": "NEOS",
+    "desc": "NEOS GT INTRINSIC COPPER SPIKES",
+    "category": "accessory",
+    "color": "COPPER",
+    "isAccessory": true,
+    "compatibility": "NEOS W/ GLACIER TREK CLEATS",
+    "intrinsic": true,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": false,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": false,
+    "shaftHeight": null,
+    "priceMin": 49.99,
+    "priceMax": 49.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_e2a6d1ed-caae-4d86-a5ea-6943939178c7",
+    "sizes": [
+      {
+        "sku": "GSRINTR-O/S",
+        "size": "O/S",
+        "upc": "810151180069",
+        "price": 49.99
+      }
+    ]
+  },
+  {
+    "master": "NSPD",
+    "brand": "NEOS",
+    "desc": "NEOS SHOE PAD - BLACK",
+    "category": "accessory",
+    "color": "BLACK",
+    "isAccessory": true,
+    "compatibility": "ALL NEOS",
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": false,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": false,
+    "shaftHeight": null,
+    "priceMin": 24.99,
+    "priceMax": 24.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_607168d7-d9ca-4a02-9e1a-2b0dcd62468f",
+    "sizes": [
+      {
+        "sku": "NSPD-2XL",
+        "size": "2XL",
+        "upc": "810151180267",
+        "price": 24.99
+      },
+      {
+        "sku": "NSPD-3XL",
+        "size": "3XL",
+        "upc": "810151180274",
+        "price": 24.99
+      },
+      {
+        "sku": "NSPD-4XL",
+        "size": "4XL",
+        "upc": "810151180281",
+        "price": 24.99
+      },
+      {
+        "sku": "NSPD-L",
+        "size": "L",
+        "upc": "810151180243",
+        "price": 24.99
+      },
+      {
+        "sku": "NSPD-M",
+        "size": "M",
+        "upc": "810151180236",
+        "price": 24.99
+      },
+      {
+        "sku": "NSPD-S",
+        "size": "S",
+        "upc": "810151180229",
+        "price": 24.99
+      },
+      {
+        "sku": "NSPD-XL",
+        "size": "XL",
+        "upc": "810151180250",
+        "price": 24.99
+      },
+      {
+        "sku": "NSPD-XS",
+        "size": "XS",
+        "upc": "810151180212",
+        "price": 24.99
+      }
+    ]
+  },
+  {
+    "master": "V3550770",
+    "brand": "Due North",
+    "desc": "Ice Diamond Replacement Spikes for Due North Traction Aids – 6pk",
+    "category": "accessory",
+    "color": "Blue",
+    "isAccessory": true,
+    "compatibility": "Due North models w/ replaceable spikes",
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": false,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": false,
+    "shaftHeight": null,
+    "priceMin": 6.23,
+    "priceMax": 6.23,
+    "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_a85e1ac9-06cd-4093-8dde-7471182bfd5d",
+    "sizes": [
+      {
+        "sku": "V3550770-O/S",
+        "size": "O/S",
+        "upc": "017166974465",
+        "price": 6.23
+      }
+    ]
+  },
+  {
+    "master": "V3550870",
+    "brand": "Due North",
+    "desc": "Retention Strap for All-Purpose Industrial Traction Aid",
+    "category": "accessory",
+    "color": "Black",
+    "isAccessory": true,
+    "compatibility": "All Due North",
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": false,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": false,
+    "shaftHeight": null,
+    "priceMin": 6.85,
+    "priceMax": 6.85,
+    "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_bde259f1-8350-4ff1-a52f-57279ebdc611",
+    "sizes": [
+      {
+        "sku": "V3550870-O/S",
+        "size": "O/S",
+        "upc": "017166982545",
+        "price": 6.85
+      }
+    ]
+  },
+  {
+    "master": "V7770170",
+    "brand": "K1",
+    "desc": "K1SPC SPACER/SHIM ORIGINAL - O/S",
+    "category": "accessory",
+    "color": "Black",
+    "isAccessory": true,
+    "compatibility": "Original & high profile K1",
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": false,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": false,
+    "shaftHeight": null,
+    "priceMin": 4.68,
+    "priceMax": 4.68,
+    "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_3116e6ff-e539-459b-994d-5db95fa72133",
+    "sizes": [
+      {
+        "sku": "V7770170-O/S",
+        "size": "O/S",
+        "upc": "620345950527",
+        "price": 4.68
+      }
+    ]
+  },
+  {
+    "master": "V7770270",
+    "brand": "K1",
+    "desc": "K1SPC-LP SPACER/SHIM LOW PROFILE - O/S",
+    "category": "accessory",
+    "color": "Black",
+    "isAccessory": true,
+    "compatibility": "Low profile K1",
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": false,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": false,
+    "shaftHeight": null,
+    "priceMin": 4.68,
+    "priceMax": 4.68,
+    "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_bd2b683b-46f3-4e5f-aaf1-98a1d5428447",
+    "sizes": [
+      {
+        "sku": "V7770270-O/S",
+        "size": "O/S",
+        "upc": "620345950510",
+        "price": 4.68
+      }
+    ]
+  },
+  {
+    "master": "V4770170",
+    "brand": "K1",
+    "desc": "K1XLES EXTENSION STRAP - XL",
+    "category": "accessory",
+    "color": "Black",
+    "isAccessory": true,
+    "compatibility": "K1 Heelstop",
+    "intrinsic": false,
+    "insulated": false,
+    "waterproof": false,
+    "spikes": false,
+    "gripPro": false,
+    "definedHeel": false,
+    "secFriendly": false,
+    "slipResist": false,
+    "shaftHeight": null,
+    "priceMin": 4.65,
+    "priceMax": 4.65,
+    "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_b142bb0f-df6d-4040-80c2-e3120891db72",
+    "sizes": [
+      {
+        "sku": "V4770170-S/L",
+        "size": "S/L",
+        "upc": "6417881123454",
+        "price": 4.65
+      },
+      {
+        "sku": "V4770170-XL",
+        "size": "XL",
+        "upc": "6417881123591",
+        "price": 4.65
+      }
+    ]
+  }
+]
