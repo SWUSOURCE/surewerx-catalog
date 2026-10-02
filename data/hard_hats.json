@@ -1,0 +1,3614 @@
+[
+  {
+    "series": null,
+    "master": "14502",
+    "brand": "Jackson Safety",
+    "desc": "225 Plus Winterliner for Hard Hat - Blue",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Blue/Red",
+    "accMaterial": "Nylon|Polyester Fleece",
+    "accTempRange": "32° to 0°F (0° to -20° C)",
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 13.45,
+    "upc": "626053603069",
+    "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_88a52cf8-7d07-4ec9-a7c2-de9154f97371",
+    "sizes": [
+      {
+        "sku": "14502",
+        "size": "One Size",
+        "price": 13.45,
+        "upc": "626053603069"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "14434",
+    "brand": "Jackson Safety",
+    "desc": "2-Point Chin Strap for SC-6, Sentry III, Charger Hard Hat",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Black",
+    "accMaterial": "Polyester",
+    "accTempRange": null,
+    "accFitsHardHatType": "Front Brim",
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 7.95,
+    "upc": "626053602987",
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_98d6faf8-5017-4356-9008-595e53b39ad1",
+    "sizes": [
+      {
+        "sku": "14434",
+        "size": "One Size",
+        "price": 7.95,
+        "upc": "626053602987"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "14499",
+    "brand": "Jackson Safety",
+    "desc": "325 Ultra Winterliner for Hard Hat - Blue",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Blue/Black",
+    "accMaterial": "Acrylic Fleece|NylonKnit|Cotton twill",
+    "accTempRange": "0° to -20°F (-20° to -28° C)",
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 25.4,
+    "upc": "626053603045",
+    "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_4b2860e4-05c2-471a-b66d-f2a2d873b9f5",
+    "sizes": [
+      {
+        "sku": "14499",
+        "size": "One Size",
+        "price": 25.4,
+        "upc": "626053603045"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "15973",
+    "brand": "Jackson Safety",
+    "desc": "386 Hard Hat Adapter",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Black",
+    "accMaterial": null,
+    "accTempRange": null,
+    "accFitsHardHatType": "Front Brim",
+    "accAdapterType": "Non-Slotted",
+    "accFitsWindowType": null,
+    "price": 31.05,
+    "upc": "626053603410",
+    "image": "https://media.surewerx.com/m/14802b5c4b7755fa/2000_JPG-15973.jpg",
+    "sizes": [
+      {
+        "sku": "15973",
+        "size": "One Size",
+        "price": 31.05,
+        "upc": "626053603410"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "14501",
+    "brand": "Jackson Safety",
+    "desc": "400 Ultra Winterliner for Hard Hat - Blue",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Blue",
+    "accMaterial": "Acrylic Fleece|Cotton twill",
+    "accTempRange": "0° to -20°F (-20° to -28° C)",
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 22.75,
+    "upc": "626053603052",
+    "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_939f45bd-1b40-4730-8c50-7931399e8ca2",
+    "sizes": [
+      {
+        "sku": "14501",
+        "size": "One Size",
+        "price": 22.75,
+        "upc": "626053603052"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "20832",
+    "brand": "Jackson Safety",
+    "desc": "4-point Chin Strap Blockhead FG Series Hard Hats",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Black",
+    "accMaterial": null,
+    "accTempRange": null,
+    "accFitsHardHatType": "Front Brim|Full Brim",
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 2.95,
+    "upc": "626053622695",
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_6dc5913d-6575-4e64-b805-e83215250545",
+    "sizes": [
+      {
+        "sku": "20832",
+        "size": "One Size",
+        "price": 2.95,
+        "upc": "626053622695"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "22532",
+    "brand": "Jackson Safety",
+    "desc": "4-point Chin Strap for BLOCKHEAD2 and SENTRY2 Helmets ",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Black",
+    "accMaterial": "PU Leather",
+    "accTempRange": null,
+    "accFitsHardHatType": "Front Brim|Full Brim|Safety Helmet",
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 14.95,
+    "upc": "626053690519",
+    "image": "https://media.surewerx.com/asset/07d624fe-85eb-4e3f-8019-c6b8e588fe4c/2000_JPG/22532.jpg",
+    "sizes": [
+      {
+        "sku": "22532",
+        "size": "One Size",
+        "price": 14.95,
+        "upc": "626053690519"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "22932",
+    "brand": "Jackson Safety",
+    "desc": "4-point Chin Strap for CH2-300 CH-2-400V Climbing Safety Helmet ",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": null,
+    "accMaterial": "PU Leather",
+    "accTempRange": null,
+    "accFitsHardHatType": "Safety Helmet",
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 14.15,
+    "upc": "626053651589",
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_d74679fa-f912-433e-9136-1d52c2186568",
+    "sizes": [
+      {
+        "sku": "22932",
+        "size": "One Size",
+        "price": 14.15,
+        "upc": "626053651589"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "20932",
+    "brand": "Jackson Safety",
+    "desc": "4-point Chin Strap for CH-300, CH-400 Hard Hat",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": null,
+    "accMaterial": "High-Density Polyethylene (HDPE)",
+    "accTempRange": null,
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 10,
+    "upc": "626053622640",
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_11e068c6-dcf5-4104-b8a4-ce9e4c15a615",
+    "sizes": [
+      {
+        "sku": "20932",
+        "size": "One Size",
+        "price": 10,
+        "upc": "626053622640"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "18446",
+    "brand": "Jackson Safety",
+    "desc": "4-Point Chin Strap for SC-6, Sentry III, Charger Hard Hat",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Black",
+    "accMaterial": "Nylon",
+    "accTempRange": null,
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 7.35,
+    "upc": "626053603564",
+    "image": "https://media.surewerx.com/asset/99dadcd5-989a-4bfd-a544-81b92a9d1420/Low_Res_JPG/18446.jpg",
+    "sizes": [
+      {
+        "sku": "18446",
+        "size": "One Size",
+        "price": 7.35,
+        "upc": "626053603564"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "22132",
+    "brand": "Jackson Safety",
+    "desc": "4-point Chin StrType for XS2-500 Type2+ Safety Helmet ",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Black",
+    "accMaterial": "PU Leather",
+    "accTempRange": null,
+    "accFitsHardHatType": "Climbing|Safety Helmet",
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 14.95,
+    "upc": "626053655525",
+    "image": "https://media.surewerx.com/asset/6ff16282-f513-4b6e-afb1-e657a205ee85/2000_JPG/22132.jpg",
+    "sizes": [
+      {
+        "sku": "22132",
+        "size": "One Size",
+        "price": 14.95,
+        "upc": "626053655525"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "20230",
+    "brand": "Jackson Safety",
+    "desc": "4-point Ratchet Suspension for Advantage Hard Hat",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": null,
+    "accMaterial": "High-Density Polyethylene (HDPE)",
+    "accTempRange": null,
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 10.95,
+    "upc": "626053622701",
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_4efc50ee-4dcd-46d9-b906-e5a41d6537f3",
+    "sizes": [
+      {
+        "sku": "20230",
+        "size": "One Size",
+        "price": 10.95,
+        "upc": "626053622701"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "20630",
+    "brand": "Jackson Safety",
+    "desc": "4-Point Ratchet Suspension for Blockhead FG Hard Hat",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": null,
+    "accMaterial": "High-Density Polyethylene (HDPE)",
+    "accTempRange": null,
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 18.05,
+    "upc": "626053622688",
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_c1e7b2ba-1dd2-400e-9ad1-5a23ba4d6ae8",
+    "sizes": [
+      {
+        "sku": "20630",
+        "size": "One Size",
+        "price": 18.05,
+        "upc": "626053622688"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "20422",
+    "brand": "Jackson Safety",
+    "desc": "4-Point Ratchet Suspension for Charger Hard Hat",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Gray",
+    "accMaterial": "Nylon",
+    "accTempRange": null,
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 17.45,
+    "upc": "626053603786",
+    "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_fb9203e0-30d6-43db-847e-5c64653631b9",
+    "sizes": [
+      {
+        "sku": "20422",
+        "size": "One Size",
+        "price": 17.45,
+        "upc": "626053603786"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "14936",
+    "brand": "Jackson Safety",
+    "desc": "4-Point Ratchet Suspension for SC-6 Hard Hat",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Gray",
+    "accMaterial": "Nylon",
+    "accTempRange": null,
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 18.15,
+    "upc": "626053603281",
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_cde0811f-98a2-43a3-b8fb-9274661f306a",
+    "sizes": [
+      {
+        "sku": "14936",
+        "size": "One Size",
+        "price": 18.15,
+        "upc": "626053603281"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "14459",
+    "brand": "Jackson Safety",
+    "desc": "4-Point Ratchet Suspension for Western Outlaw Hard Hat",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Gray",
+    "accMaterial": "Nylon",
+    "accTempRange": null,
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 18.55,
+    "upc": "626053603922",
+    "image": "",
+    "sizes": [
+      {
+        "sku": "14459",
+        "size": "One Size",
+        "price": 18.55,
+        "upc": "626053603922"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "20194",
+    "brand": "Jackson Safety",
+    "desc": "4-pt Pin lock Suspension for C10 Bump Cap",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "White",
+    "accMaterial": "Nylon",
+    "accTempRange": null,
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 7.55,
+    "upc": "626053603663",
+    "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_50c7fb60-9b22-4466-94f2-95b526e7587b",
+    "sizes": [
+      {
+        "sku": "20194",
+        "size": "One Size",
+        "price": 7.55,
+        "upc": "626053603663"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "16767",
+    "brand": "Jackson Safety",
+    "desc": "695 NPR Winterliner - Blue",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Blue/Red",
+    "accMaterial": "Cotton|Nomex",
+    "accTempRange": "0° to -20°F (-20° to -28° C)",
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 78.55,
+    "upc": "626053603502",
+    "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_4c93ef7f-6d7b-4da4-b5d4-be4afbdc83c6",
+    "sizes": [
+      {
+        "sku": "16767",
+        "size": "One Size",
+        "price": 78.55,
+        "upc": "626053603502"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "22530",
+    "brand": "Jackson Safety",
+    "desc": "6-point Comfort Plus 370 suspension for BLOCKHEAD2 and SENTRY2 Helmets",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Black/Grey",
+    "accMaterial": "Low-Density Polyethylene(LDPE)",
+    "accTempRange": null,
+    "accFitsHardHatType": "Front Brim|Full Brim|Safety Helmet",
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 34.95,
+    "upc": "626053690502",
+    "image": "https://media.surewerx.com/asset/65c4d402-9b8b-40f5-95f9-436f7cee190c/2000_JPG/22530.jpg",
+    "sizes": [
+      {
+        "sku": "22530",
+        "size": "One Size",
+        "price": 34.95,
+        "upc": "626053690502"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "22130",
+    "brand": "Jackson Safety",
+    "desc": "6-point Comfort Plus 370 suspension for XS2-500 Type 2+Safety Helmet",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Black/Grey",
+    "accMaterial": "Low-Density Polyethylene(LDPE)",
+    "accTempRange": null,
+    "accFitsHardHatType": "Climbing|Safety Helmet",
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 34.95,
+    "upc": "626053655792",
+    "image": "https://media.surewerx.com/asset/e089f679-5b22-41c4-807e-062cdf2cc3ba/2000_JPG/22130.jpg",
+    "sizes": [
+      {
+        "sku": "22130",
+        "size": "One Size",
+        "price": 34.95,
+        "upc": "626053655792"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "14426",
+    "brand": "Jackson Safety",
+    "desc": "6-Point Ratchet Suspension for Sentry III Hard Hat",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Gray",
+    "accMaterial": "Nylon",
+    "accTempRange": null,
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 19.05,
+    "upc": "626053602963",
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_50a92f0d-0578-4c29-8967-e94aed50776b",
+    "sizes": [
+      {
+        "sku": "14426",
+        "size": "One Size",
+        "price": 19.05,
+        "upc": "626053602963"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "14494",
+    "brand": "Jackson Safety",
+    "desc": "AA-7 Windgard Head Liner for Hard Hats",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Navy Blue",
+    "accMaterial": "NylonKnit",
+    "accTempRange": "32° to 0°F (0°to -20°C)",
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 6.5,
+    "upc": "626053603939",
+    "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_69f91bca-215f-45a5-890a-a286400f7a5c",
+    "sizes": [
+      {
+        "sku": "14494",
+        "size": "One Size",
+        "price": 6.5,
+        "upc": "626053603939"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "14495",
+    "brand": "Jackson Safety",
+    "desc": "AA-7 Windgard Head Liner for Hard Hats",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Orange",
+    "accMaterial": "NylonKnit",
+    "accTempRange": "32° to 0°F (0°to -20°C)",
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 6.35,
+    "upc": "626053603014",
+    "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_91fce79b-5f92-4c3c-aca7-125ee71fdaea",
+    "sizes": [
+      {
+        "sku": "14495",
+        "size": "One Size",
+        "price": 6.35,
+        "upc": "626053603014"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "16756",
+    "brand": "Jackson Safety",
+    "desc": "AA-7 Windgard Head Protection for Hard Hats - Red",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Red",
+    "accMaterial": "NylonKnit",
+    "accTempRange": "32° to 0°F (0° to -20° C)",
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 5.7,
+    "upc": "626053603441",
+    "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_622b0a67-ac95-408d-be5e-c47953f08983",
+    "sizes": [
+      {
+        "sku": "16756",
+        "size": "One Size",
+        "price": 5.7,
+        "upc": "626053603441"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "14496",
+    "brand": "Jackson Safety",
+    "desc": "AA-8 Windgard Head Liner for Hard Hats - Red",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Red",
+    "accMaterial": "NylonKnit",
+    "accTempRange": "32° to 0°F (0° to -20° C)",
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 7.15,
+    "upc": "626053603021",
+    "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_e1a9125a-e429-4cf2-aa7c-7414246731dc",
+    "sizes": [
+      {
+        "sku": "14496",
+        "size": "One Size",
+        "price": 7.15,
+        "upc": "626053603021"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "14497",
+    "brand": "Jackson Safety",
+    "desc": "AA-9 Windgard Head Liner for Hard Hat - Navy Blue",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Navy Blue",
+    "accMaterial": "NylonKnit",
+    "accTempRange": "32° to 0°F (0°to -20°C)",
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 11.05,
+    "upc": "626053603038",
+    "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_0b3ca579-2103-4a5f-a8e0-1b6c3dc6e758",
+    "sizes": [
+      {
+        "sku": "14497",
+        "size": "One Size",
+        "price": 11.05,
+        "upc": "626053603038"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "16757",
+    "brand": "Jackson Safety",
+    "desc": "AA-9 Windgard Head Protection for Hard Hat - Red",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Red",
+    "accMaterial": "NylonKnit",
+    "accTempRange": "0° to -20°F (-20° to -28° C)",
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 10.15,
+    "upc": "626053603458",
+    "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_5646e875-2639-48d5-a96a-0e0ba4190d4f",
+    "sizes": [
+      {
+        "sku": "16757",
+        "size": "One Size",
+        "price": 10.15,
+        "upc": "626053603458"
+      }
+    ]
+  },
+  {
+    "master": "Advantage Cap-Style Hard Hat – Non-Vented",
+    "series": "Advantage Cap-Style Hard Hat – Non-Vented",
+    "brand": "Jackson Safety",
+    "desc": "Advantage Cap-Style Hard Hat – Non-Vented",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 1",
+    "electricalClass": "E",
+    "reverseDonning": true,
+    "headStyle": "Cap Style",
+    "shellMaterial": "HDPE",
+    "suspensionType": "4 pt.",
+    "suspensionAdj": "Ratcheting",
+    "slotted": true,
+    "headBandType": "Foam-Backed Absorbent",
+    "energyAbsorption": "N/A",
+    "certifications": "ANSI Z89.1, Type 1, Class C, G & E|Meets and Exceeds CSA Z94.1, Type 1, Class E",
+    "features": [
+      "Attachment points for chin straps",
+      "ComfortPad",
+      "Dielectric",
+      "Slotted",
+      "Reverse Donning"
+    ],
+    "priceMin": 13.55,
+    "priceMax": 13.55,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_2cfc4ca4-2138-410b-820c-2811f0094c7d",
+    "colors": [
+      {
+        "sku": "20202",
+        "color": "Blue",
+        "size": "Blue",
+        "price": 13.55,
+        "upc": "626053620875",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_2cfc4ca4-2138-410b-820c-2811f0094c7d"
+      },
+      {
+        "sku": "20209",
+        "color": "Green",
+        "size": "Green",
+        "price": 13.55,
+        "upc": null,
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_2cfc4ca4-2138-410b-820c-2811f0094c7d"
+      },
+      {
+        "sku": "20205",
+        "color": "Hi-Vis Orange",
+        "size": "Hi-Vis Orange",
+        "price": 13.55,
+        "upc": "626053620905",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_2cfc4ca4-2138-410b-820c-2811f0094c7d"
+      },
+      {
+        "sku": "20203",
+        "color": "Orange",
+        "size": "Orange",
+        "price": 13.55,
+        "upc": "626053620882",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_2cfc4ca4-2138-410b-820c-2811f0094c7d"
+      },
+      {
+        "sku": "20204",
+        "color": "Red",
+        "size": "Red",
+        "price": 13.55,
+        "upc": "626053620899",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_2cfc4ca4-2138-410b-820c-2811f0094c7d"
+      },
+      {
+        "sku": "20200",
+        "color": "White",
+        "size": "White",
+        "price": 13.55,
+        "upc": "626053620851",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_2cfc4ca4-2138-410b-820c-2811f0094c7d"
+      },
+      {
+        "sku": "20201",
+        "color": "Yellow",
+        "size": "Yellow",
+        "price": 13.55,
+        "upc": "626053620868",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_2cfc4ca4-2138-410b-820c-2811f0094c7d"
+      }
+    ]
+  },
+  {
+    "master": "Advantage Cap-Style Hard Hat – Vented",
+    "series": "Advantage Cap-Style Hard Hat – Vented",
+    "brand": "Jackson Safety",
+    "desc": "Advantage Cap-Style Hard Hat – Vented",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 1",
+    "electricalClass": "C",
+    "reverseDonning": true,
+    "headStyle": "Cap Style",
+    "shellMaterial": "HDPE",
+    "suspensionType": "4 pt.",
+    "suspensionAdj": "Ratcheting",
+    "slotted": true,
+    "headBandType": "Foam-Backed Absorbent",
+    "energyAbsorption": "N/A",
+    "certifications": "ANSI Z89.1, Type 1, Class C|Meets and Exceeds CSA Z94.1, Type 1, Class C",
+    "features": [
+      "Attachment points for chin straps",
+      "ComfortPad",
+      "Slotted",
+      "Reverse Donning"
+    ],
+    "priceMin": 15.55,
+    "priceMax": 15.55,
+    "image": "https://media.surewerx.com/m/0c990fae498b0449/2000_JPG-20221.jpg",
+    "colors": [
+      {
+        "sku": "20222",
+        "color": "Blue",
+        "size": "Blue",
+        "price": 15.55,
+        "upc": "626053620936",
+        "image": "https://media.surewerx.com/m/0c990fae498b0449/2000_JPG-20221.jpg"
+      },
+      {
+        "sku": "20229",
+        "color": "Green",
+        "size": "Green",
+        "price": 15.55,
+        "upc": "626053692292",
+        "image": "https://media.surewerx.com/m/0c990fae498b0449/2000_JPG-20221.jpg"
+      },
+      {
+        "sku": "20225",
+        "color": "Hi-Vis Orange",
+        "size": "Hi-Vis Orange",
+        "price": 15.55,
+        "upc": "626053620967",
+        "image": "https://media.surewerx.com/m/0c990fae498b0449/2000_JPG-20221.jpg"
+      },
+      {
+        "sku": "20224",
+        "color": "Red",
+        "size": "Red",
+        "price": 15.55,
+        "upc": "626053620950",
+        "image": "https://media.surewerx.com/m/0c990fae498b0449/2000_JPG-20221.jpg"
+      },
+      {
+        "sku": "20220",
+        "color": "White",
+        "size": "White",
+        "price": 15.55,
+        "upc": "626053620912",
+        "image": "https://media.surewerx.com/m/0c990fae498b0449/2000_JPG-20221.jpg"
+      },
+      {
+        "sku": "20221",
+        "color": "Yellow",
+        "size": "Yellow",
+        "price": 15.55,
+        "upc": "626053620929",
+        "image": "https://media.surewerx.com/m/0c990fae498b0449/2000_JPG-20221.jpg"
+      }
+    ]
+  },
+  {
+    "master": "Advantage Full-Brim Hard Hat – Non-Vented",
+    "series": "Advantage Full-Brim Hard Hat – Non-Vented",
+    "brand": "Jackson Safety",
+    "desc": "Advantage Full-Brim Hard Hat – Non-Vented",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 1",
+    "electricalClass": "E",
+    "reverseDonning": true,
+    "headStyle": "Full Brim",
+    "shellMaterial": "HDPE",
+    "suspensionType": "4 pt.",
+    "suspensionAdj": "Ratcheting",
+    "slotted": false,
+    "headBandType": "Foam-Backed Absorbent",
+    "energyAbsorption": "N/A",
+    "certifications": "ANSI Z89.1, Type 1, Class C, G & E|Meets and Exceeds CSA Z94.1, Type 1, Class E",
+    "features": [
+      "Attachment points for chin straps",
+      "ComfortPad",
+      "Dielectric",
+      "Non-Slotted"
+    ],
+    "priceMin": 17.75,
+    "priceMax": 17.75,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_2e5ce333-bdc8-4f8d-bea0-0424318b412a",
+    "colors": [
+      {
+        "sku": "20802",
+        "color": "Blue",
+        "size": "Blue",
+        "price": 17.75,
+        "upc": "626053620998",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_2e5ce333-bdc8-4f8d-bea0-0424318b412a"
+      },
+      {
+        "sku": "20809",
+        "color": "Green",
+        "size": "Green",
+        "price": 17.75,
+        "upc": "626053692308",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_2e5ce333-bdc8-4f8d-bea0-0424318b412a"
+      },
+      {
+        "sku": "20805",
+        "color": "Hi-Vis Orange",
+        "size": "Hi-Vis Orange",
+        "price": 17.75,
+        "upc": "626053621025",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_2e5ce333-bdc8-4f8d-bea0-0424318b412a"
+      },
+      {
+        "sku": "20803",
+        "color": "Blue|Orange",
+        "size": "Blue|Orange",
+        "price": 17.75,
+        "upc": "626053621001",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_2e5ce333-bdc8-4f8d-bea0-0424318b412a"
+      },
+      {
+        "sku": "20804",
+        "color": "Red",
+        "size": "Red",
+        "price": 17.75,
+        "upc": "626053621018",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_2e5ce333-bdc8-4f8d-bea0-0424318b412a"
+      },
+      {
+        "sku": "20800",
+        "color": "White",
+        "size": "White",
+        "price": 17.75,
+        "upc": "626053620974",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_2e5ce333-bdc8-4f8d-bea0-0424318b412a"
+      },
+      {
+        "sku": "20801",
+        "color": "Yellow",
+        "size": "Yellow",
+        "price": 17.75,
+        "upc": "626053620981",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_2e5ce333-bdc8-4f8d-bea0-0424318b412a"
+      }
+    ]
+  },
+  {
+    "master": "Advantage Full-Brim Hard Hat – Vented",
+    "series": "Advantage Full-Brim Hard Hat – Vented",
+    "brand": "Jackson Safety",
+    "desc": "Advantage Full-Brim Hard Hat – Vented",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 1",
+    "electricalClass": "C",
+    "reverseDonning": false,
+    "headStyle": "Full Brim",
+    "shellMaterial": "HDPE",
+    "suspensionType": "4 pt.",
+    "suspensionAdj": "Ratcheting",
+    "slotted": false,
+    "headBandType": "Foam-Backed Absorbent",
+    "energyAbsorption": "N/A",
+    "certifications": "ANSI Z89.1, Type 1, Class C|Meets and Exceeds CSA Z94.1, Type 1, Class C",
+    "features": [
+      "Attachment points for chin straps",
+      "ComfortPad",
+      "Non-Slotted"
+    ],
+    "priceMin": 19.75,
+    "priceMax": 19.75,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_c021672e-1a3c-4115-89f5-cc78d0b5892d",
+    "colors": [
+      {
+        "sku": "20822",
+        "color": "Blue",
+        "size": "Blue",
+        "price": 19.75,
+        "upc": "626053621056",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_c021672e-1a3c-4115-89f5-cc78d0b5892d"
+      },
+      {
+        "sku": "20829",
+        "color": "Green",
+        "size": "Green",
+        "price": 19.75,
+        "upc": "626053692315",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_c021672e-1a3c-4115-89f5-cc78d0b5892d"
+      },
+      {
+        "sku": "20825",
+        "color": "Hi-Vis Orange",
+        "size": "Hi-Vis Orange",
+        "price": 19.75,
+        "upc": "626053621087",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_c021672e-1a3c-4115-89f5-cc78d0b5892d"
+      },
+      {
+        "sku": "20823",
+        "color": "Orange",
+        "size": "Orange",
+        "price": 19.75,
+        "upc": "626053621063",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_c021672e-1a3c-4115-89f5-cc78d0b5892d"
+      },
+      {
+        "sku": "20824",
+        "color": "Red",
+        "size": "Red",
+        "price": 19.75,
+        "upc": "626053621070",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_c021672e-1a3c-4115-89f5-cc78d0b5892d"
+      },
+      {
+        "sku": "20820",
+        "color": "White",
+        "size": "White",
+        "price": 19.75,
+        "upc": "626053621032",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_c021672e-1a3c-4115-89f5-cc78d0b5892d"
+      },
+      {
+        "sku": "20821",
+        "color": "Yellow",
+        "size": "Yellow",
+        "price": 19.75,
+        "upc": "626053621049",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_c021672e-1a3c-4115-89f5-cc78d0b5892d"
+      }
+    ]
+  },
+  {
+    "master": "Blockhead® FG Fiberglass Full Brim Hard Hat – Non-Vented",
+    "series": "Blockhead® FG Fiberglass Full Brim Hard Hat – Non-Vented",
+    "brand": "Jackson Safety",
+    "desc": "Blockhead® FG Fiberglass Full Brim Hard Hat – Non-Vented",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 1",
+    "electricalClass": null,
+    "reverseDonning": false,
+    "headStyle": "Full Brim",
+    "shellMaterial": "Fiberglass",
+    "suspensionType": "4 pt.",
+    "suspensionAdj": "370 Speed Dial™ Ratcheting Headgear",
+    "slotted": false,
+    "headBandType": "Foam-Backed Absorbent",
+    "energyAbsorption": "N/A",
+    "certifications": "ANSI Z89.1, Class C, G, & E|Meets and Exceeds CSA Z94.1, Type 1, Class E",
+    "features": [
+      "Attachment points for chin straps",
+      "ComfortPad",
+      "Dielectric",
+      "Sun Protection",
+      "Non-Slotted"
+    ],
+    "priceMin": 49.85,
+    "priceMax": 49.85,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_31504be1-3748-4c17-9ed4-2308eb626ba4",
+    "colors": [
+      {
+        "sku": "20600",
+        "color": "Carbon Fiber - Silver",
+        "size": "Carbon Fiber - Silver",
+        "price": 49.85,
+        "upc": null,
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_31504be1-3748-4c17-9ed4-2308eb626ba4"
+      }
+    ]
+  },
+  {
+    "master": "Blockhead® FG Full Brim Hard Hat – Vented",
+    "series": "Blockhead® FG Full Brim Hard Hat – Vented",
+    "brand": "Jackson Safety",
+    "desc": "Blockhead® FG Full Brim Hard Hat – Vented",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 1",
+    "electricalClass": "C",
+    "reverseDonning": false,
+    "headStyle": "Full Brim",
+    "shellMaterial": "Fiberglass",
+    "suspensionType": "4 pt.",
+    "suspensionAdj": "370 Speed Dial™ Ratcheting Headgear",
+    "slotted": false,
+    "headBandType": "Foam-Backed Absorbent",
+    "energyAbsorption": "N/A",
+    "certifications": "ANSI Z89.1, Type 1, Class C|Meets and Exceeds CSA Z94.1, Type 1, Class C",
+    "features": [
+      "Attachment points for chin straps",
+      "ComfortPad",
+      "Dielectric",
+      "Sun Protection",
+      "Non-Slotted"
+    ],
+    "priceMin": 49.85,
+    "priceMax": 49.85,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_a6160075-2df4-471f-a4f7-874137d40237",
+    "colors": [
+      {
+        "sku": "20620",
+        "color": "Carbon Fiber - Silver",
+        "size": "Carbon Fiber - Silver",
+        "price": 49.85,
+        "upc": null,
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_a6160075-2df4-471f-a4f7-874137d40237"
+      }
+    ]
+  },
+  {
+    "master": "BLOCKHEAD2 Type 2 Full Brim Safety Helmet – Non-Vented",
+    "series": "BLOCKHEAD2 Type 2 Full Brim Safety Helmet – Non-Vented",
+    "brand": "Jackson Safety",
+    "desc": "BLOCKHEAD2 Type 2 Full Brim Safety Helmet – Non-Vented",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 2",
+    "electricalClass": "E",
+    "reverseDonning": false,
+    "headStyle": "Full Brim",
+    "shellMaterial": "ABS",
+    "suspensionType": "6 pt.",
+    "suspensionAdj": "370 Speed Dial™ Ratcheting Headgear",
+    "slotted": true,
+    "headBandType": "Cushioned",
+    "energyAbsorption": "EPP",
+    "certifications": "ANSI Z89.1, Type 2, Class E|HT|LT|Meets and Exceeds CSA Z94.1, Type 2, Class E",
+    "features": [
+      "Chin Strap",
+      "ComfortPad",
+      "Dielectric",
+      "Slotted",
+      "Anti-microbial Head Band",
+      "Anti-microbial Comfort Pad",
+      "Synthetic Leather Chin Strap"
+    ],
+    "priceMin": 74.95,
+    "priceMax": 74.95,
+    "image": "https://media.surewerx.com/asset/685677e6-de17-4550-bba6-595639ea5515/2000_JPG/22501.jpg",
+    "colors": [
+      {
+        "sku": "22504",
+        "color": "Black",
+        "size": "Black",
+        "price": 74.95,
+        "upc": "626053650247",
+        "image": "https://media.surewerx.com/asset/685677e6-de17-4550-bba6-595639ea5515/2000_JPG/22501.jpg"
+      },
+      {
+        "sku": "22502",
+        "color": "Blue",
+        "size": "Blue",
+        "price": 74.95,
+        "upc": "626053650223",
+        "image": "https://media.surewerx.com/asset/685677e6-de17-4550-bba6-595639ea5515/2000_JPG/22501.jpg"
+      },
+      {
+        "sku": "22508",
+        "color": "Gray",
+        "size": "Gray",
+        "price": 74.95,
+        "upc": "626053650285",
+        "image": "https://media.surewerx.com/asset/685677e6-de17-4550-bba6-595639ea5515/2000_JPG/22501.jpg"
+      },
+      {
+        "sku": "22509",
+        "color": "Green",
+        "size": "Green",
+        "price": 74.95,
+        "upc": "626053650292",
+        "image": "https://media.surewerx.com/asset/685677e6-de17-4550-bba6-595639ea5515/2000_JPG/22501.jpg"
+      },
+      {
+        "sku": "22506",
+        "color": "Hi-Vis Green",
+        "size": "Hi-Vis Green",
+        "price": 74.95,
+        "upc": "626053650261",
+        "image": "https://media.surewerx.com/asset/685677e6-de17-4550-bba6-595639ea5515/2000_JPG/22501.jpg"
+      },
+      {
+        "sku": "22503",
+        "color": "Hi-Vis Orange",
+        "size": "Hi-Vis Orange",
+        "price": 74.95,
+        "upc": "626053650230",
+        "image": "https://media.surewerx.com/asset/685677e6-de17-4550-bba6-595639ea5515/2000_JPG/22501.jpg"
+      },
+      {
+        "sku": "22507",
+        "color": "Red",
+        "size": "Red",
+        "price": 74.95,
+        "upc": "626053650278",
+        "image": "https://media.surewerx.com/asset/685677e6-de17-4550-bba6-595639ea5515/2000_JPG/22501.jpg"
+      },
+      {
+        "sku": "22505",
+        "color": "Tan",
+        "size": "Tan",
+        "price": 74.95,
+        "upc": "626053650254",
+        "image": "https://media.surewerx.com/asset/685677e6-de17-4550-bba6-595639ea5515/2000_JPG/22501.jpg"
+      },
+      {
+        "sku": "22500",
+        "color": "White",
+        "size": "White",
+        "price": 74.95,
+        "upc": "626053650209",
+        "image": "https://media.surewerx.com/asset/685677e6-de17-4550-bba6-595639ea5515/2000_JPG/22501.jpg"
+      },
+      {
+        "sku": "22501",
+        "color": "Yellow",
+        "size": "Yellow",
+        "price": 74.95,
+        "upc": "626053650216",
+        "image": "https://media.surewerx.com/asset/685677e6-de17-4550-bba6-595639ea5515/2000_JPG/22501.jpg"
+      }
+    ]
+  },
+  {
+    "master": "BLOCKHEAD2 Type 2 Full Brim Safety Helmet – Vented",
+    "series": "BLOCKHEAD2 Type 2 Full Brim Safety Helmet – Vented",
+    "brand": "Jackson Safety",
+    "desc": "BLOCKHEAD2 Type 2 Full Brim Safety Helmet – Vented",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 2",
+    "electricalClass": "C",
+    "reverseDonning": false,
+    "headStyle": "Full Brim",
+    "shellMaterial": "ABS",
+    "suspensionType": "6 pt.",
+    "suspensionAdj": "370 Speed Dial™ Ratcheting Headgear",
+    "slotted": true,
+    "headBandType": "Cushioned",
+    "energyAbsorption": "EPP",
+    "certifications": "ANSI Z89.1, Type 2, Class C|HT|LT|EN12492 4.2.4|Meets and Exceeds CSA Z94.1, Type 2, Class C",
+    "features": [
+      "Chin Strap",
+      "ComfortPad",
+      "Slotted",
+      "Anti-microbial Head Band",
+      "Anti-microbial Comfort Pad",
+      "Synthetic Leather Chin Strap"
+    ],
+    "priceMin": 74.95,
+    "priceMax": 74.95,
+    "image": "https://media.surewerx.com/asset/71f4cb79-71c6-48b6-853a-5f466e9d6ad5/2000_JPG/22521.jpg",
+    "colors": [
+      {
+        "sku": "22524",
+        "color": "Black",
+        "size": "Black",
+        "price": 74.95,
+        "upc": "626053650346",
+        "image": "https://media.surewerx.com/asset/71f4cb79-71c6-48b6-853a-5f466e9d6ad5/2000_JPG/22521.jpg"
+      },
+      {
+        "sku": "22522",
+        "color": "Blue",
+        "size": "Blue",
+        "price": 74.95,
+        "upc": "626053650322",
+        "image": "https://media.surewerx.com/asset/71f4cb79-71c6-48b6-853a-5f466e9d6ad5/2000_JPG/22521.jpg"
+      },
+      {
+        "sku": "22528",
+        "color": "Gray",
+        "size": "Gray",
+        "price": 74.95,
+        "upc": "626053650384",
+        "image": "https://media.surewerx.com/asset/71f4cb79-71c6-48b6-853a-5f466e9d6ad5/2000_JPG/22521.jpg"
+      },
+      {
+        "sku": "22529",
+        "color": "Green",
+        "size": "Green",
+        "price": 74.95,
+        "upc": "626053650391",
+        "image": "https://media.surewerx.com/asset/71f4cb79-71c6-48b6-853a-5f466e9d6ad5/2000_JPG/22521.jpg"
+      },
+      {
+        "sku": "22526",
+        "color": "Hi-Vis Green",
+        "size": "Hi-Vis Green",
+        "price": 74.95,
+        "upc": "626053650360",
+        "image": "https://media.surewerx.com/asset/71f4cb79-71c6-48b6-853a-5f466e9d6ad5/2000_JPG/22521.jpg"
+      },
+      {
+        "sku": "22523",
+        "color": "Hi-Vis Orange",
+        "size": "Hi-Vis Orange",
+        "price": 74.95,
+        "upc": "626053650339",
+        "image": "https://media.surewerx.com/asset/71f4cb79-71c6-48b6-853a-5f466e9d6ad5/2000_JPG/22521.jpg"
+      },
+      {
+        "sku": "22527",
+        "color": "Red",
+        "size": "Red",
+        "price": 74.95,
+        "upc": "626053650377",
+        "image": "https://media.surewerx.com/asset/71f4cb79-71c6-48b6-853a-5f466e9d6ad5/2000_JPG/22521.jpg"
+      },
+      {
+        "sku": "22525",
+        "color": "Tan",
+        "size": "Tan",
+        "price": 74.95,
+        "upc": "626053650353",
+        "image": "https://media.surewerx.com/asset/71f4cb79-71c6-48b6-853a-5f466e9d6ad5/2000_JPG/22521.jpg"
+      },
+      {
+        "sku": "22520",
+        "color": "White",
+        "size": "White",
+        "price": 74.95,
+        "upc": "626053650308",
+        "image": "https://media.surewerx.com/asset/71f4cb79-71c6-48b6-853a-5f466e9d6ad5/2000_JPG/22521.jpg"
+      },
+      {
+        "sku": "22521",
+        "color": "Yellow",
+        "size": "Yellow",
+        "price": 74.95,
+        "upc": "626053650315",
+        "image": "https://media.surewerx.com/asset/71f4cb79-71c6-48b6-853a-5f466e9d6ad5/2000_JPG/22521.jpg"
+      }
+    ]
+  },
+  {
+    "master": "C10 Series Bump Cap",
+    "series": "C10 Series Bump Cap",
+    "brand": "Jackson Safety",
+    "desc": "C10 Series Bump Cap",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": null,
+    "electricalClass": null,
+    "reverseDonning": false,
+    "headStyle": "Safety Helmet",
+    "shellMaterial": "HDPE",
+    "suspensionType": "4 pt.",
+    "suspensionAdj": "Pinlock",
+    "slotted": false,
+    "headBandType": "Cushioned",
+    "energyAbsorption": "EPP",
+    "certifications": null,
+    "features": [],
+    "priceMin": 8.55,
+    "priceMax": 8.55,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_48cc9e41-e665-425f-994c-fa85f656e50b",
+    "colors": [
+      {
+        "sku": "14813",
+        "color": "Blue",
+        "size": "Blue",
+        "price": 8.55,
+        "upc": "626053603151",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_48cc9e41-e665-425f-994c-fa85f656e50b"
+      },
+      {
+        "sku": "14812",
+        "color": "Green",
+        "size": "Green",
+        "price": 8.55,
+        "upc": "626053603144",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_48cc9e41-e665-425f-994c-fa85f656e50b"
+      },
+      {
+        "sku": "14816",
+        "color": "Grey",
+        "size": "Grey",
+        "price": 8.55,
+        "upc": "626053603182",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_48cc9e41-e665-425f-994c-fa85f656e50b"
+      },
+      {
+        "sku": "14814",
+        "color": "Orange",
+        "size": "Orange",
+        "price": 8.55,
+        "upc": "626053603168",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_48cc9e41-e665-425f-994c-fa85f656e50b"
+      },
+      {
+        "sku": "14815",
+        "color": "Red",
+        "size": "Red",
+        "price": 8.55,
+        "upc": "626053603175",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_48cc9e41-e665-425f-994c-fa85f656e50b"
+      },
+      {
+        "sku": "14811",
+        "color": "White",
+        "size": "White",
+        "price": 8.55,
+        "upc": "626053603137",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_48cc9e41-e665-425f-994c-fa85f656e50b"
+      },
+      {
+        "sku": "14809",
+        "color": "Yellow",
+        "size": "Yellow",
+        "price": 8.55,
+        "upc": "626053603120",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_48cc9e41-e665-425f-994c-fa85f656e50b"
+      }
+    ]
+  },
+  {
+    "master": "C10 Series Bump Cap with Face Shield Attachment",
+    "series": "C10 Series Bump Cap with Face Shield Attachment",
+    "brand": "Jackson Safety",
+    "desc": "C10 Series Bump Cap with Face Shield Attachment",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": null,
+    "electricalClass": null,
+    "reverseDonning": false,
+    "headStyle": "Safety Helmet",
+    "shellMaterial": "HDPE",
+    "suspensionType": "4 pt.",
+    "suspensionAdj": "Pinlock",
+    "slotted": false,
+    "headBandType": "Cushioned",
+    "energyAbsorption": "EPP",
+    "certifications": null,
+    "features": [
+      "Face Shield Attachement"
+    ],
+    "priceMin": 17.05,
+    "priceMax": 17.05,
+    "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_7065fbb9-64ca-4099-a3d6-6ff6fe2a53d7",
+    "colors": [
+      {
+        "sku": "20188",
+        "color": "Blue",
+        "size": "Blue",
+        "price": 17.05,
+        "upc": "626053603625",
+        "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_7065fbb9-64ca-4099-a3d6-6ff6fe2a53d7"
+      },
+      {
+        "sku": "20189",
+        "color": "Green",
+        "size": "Green",
+        "price": 17.05,
+        "upc": "626053603632",
+        "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_7065fbb9-64ca-4099-a3d6-6ff6fe2a53d7"
+      },
+      {
+        "sku": "20193",
+        "color": "Gray",
+        "size": "Gray",
+        "price": 17.05,
+        "upc": null,
+        "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_7065fbb9-64ca-4099-a3d6-6ff6fe2a53d7"
+      },
+      {
+        "sku": "20192",
+        "color": "Orange",
+        "size": "Orange",
+        "price": 17.05,
+        "upc": "626053603656",
+        "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_7065fbb9-64ca-4099-a3d6-6ff6fe2a53d7"
+      },
+      {
+        "sku": "20191",
+        "color": "Red",
+        "size": "Red",
+        "price": 17.05,
+        "upc": "626053603649",
+        "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_7065fbb9-64ca-4099-a3d6-6ff6fe2a53d7"
+      },
+      {
+        "sku": "20186",
+        "color": "White",
+        "size": "White",
+        "price": 17.05,
+        "upc": "626053603601",
+        "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_7065fbb9-64ca-4099-a3d6-6ff6fe2a53d7"
+      },
+      {
+        "sku": "20187",
+        "color": "Yellow",
+        "size": "Yellow",
+        "price": 17.05,
+        "upc": "626053603618",
+        "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_7065fbb9-64ca-4099-a3d6-6ff6fe2a53d7"
+      }
+    ]
+  },
+  {
+    "master": "CH-2-300 Type 2 Safety Helmet - Non-Vented",
+    "series": "CH-2-300 Type 2 Safety Helmet - Non-Vented",
+    "brand": "Jackson Safety",
+    "desc": "CH-2-300 Type 2 Safety Helmet - Non-Vented",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 2",
+    "electricalClass": "E",
+    "reverseDonning": false,
+    "headStyle": "Safety Helmet",
+    "shellMaterial": "PC + ABS",
+    "suspensionType": "6 pt.",
+    "suspensionAdj": "Rapid Dial",
+    "slotted": true,
+    "headBandType": "Cushioned",
+    "energyAbsorption": "EPS",
+    "certifications": "ANSI Z89.1, Type 2, Class E|EN397 European Standards",
+    "features": [
+      "Chin Strap",
+      "ComfortPad",
+      "Dielectric",
+      "EPS foam impact liner",
+      "Slotted",
+      "Face Shield Attachement"
+    ],
+    "priceMin": 69.95,
+    "priceMax": 69.95,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_df9e3858-7072-4512-aca1-d42b430a13f6",
+    "colors": [
+      {
+        "sku": "22902",
+        "color": "Blue",
+        "size": "Blue",
+        "price": 69.95,
+        "upc": null,
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_df9e3858-7072-4512-aca1-d42b430a13f6"
+      },
+      {
+        "sku": "22903",
+        "color": "Hi-Vis Orange",
+        "size": "Hi-Vis Orange",
+        "price": 69.95,
+        "upc": null,
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_df9e3858-7072-4512-aca1-d42b430a13f6"
+      },
+      {
+        "sku": "22901",
+        "color": "Yellow",
+        "size": "Yellow",
+        "price": 69.95,
+        "upc": null,
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_df9e3858-7072-4512-aca1-d42b430a13f6"
+      }
+    ]
+  },
+  {
+    "master": "CH-2-400V Type 2 Safety Helmet - Vented",
+    "series": "CH-2-400V Type 2 Safety Helmet - Vented",
+    "brand": "Jackson Safety",
+    "desc": "CH-2-400V Type 2 Safety Helmet - Vented",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 2",
+    "electricalClass": "C",
+    "reverseDonning": false,
+    "headStyle": "Safety Helmet",
+    "shellMaterial": "PC + ABS",
+    "suspensionType": "6 pt.",
+    "suspensionAdj": "Rapid Dial",
+    "slotted": true,
+    "headBandType": "Cushioned",
+    "energyAbsorption": "EPS",
+    "certifications": "ANSI Z89.1, Type 2, Class C",
+    "features": [
+      "Chin Strap",
+      "ComfortPad",
+      "Dielectric",
+      "EPS foam impact liner",
+      "Slotted",
+      "Face Shield Attachement"
+    ],
+    "priceMin": 69.95,
+    "priceMax": 69.95,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_f91be230-d4c0-4604-ad15-13ab4c9cfbed",
+    "colors": [
+      {
+        "sku": "22922",
+        "color": "Blue",
+        "size": "Blue",
+        "price": 69.95,
+        "upc": null,
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_f91be230-d4c0-4604-ad15-13ab4c9cfbed"
+      },
+      {
+        "sku": "22923",
+        "color": "Hi-Vis Orange",
+        "size": "Hi-Vis Orange",
+        "price": 69.95,
+        "upc": null,
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_f91be230-d4c0-4604-ad15-13ab4c9cfbed"
+      },
+      {
+        "sku": "22927",
+        "color": "Red",
+        "size": "Red",
+        "price": 69.95,
+        "upc": null,
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_f91be230-d4c0-4604-ad15-13ab4c9cfbed"
+      },
+      {
+        "sku": "22920",
+        "color": "White",
+        "size": "White",
+        "price": 69.95,
+        "upc": null,
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_f91be230-d4c0-4604-ad15-13ab4c9cfbed"
+      },
+      {
+        "sku": "22921",
+        "color": "Yellow",
+        "size": "Yellow",
+        "price": 69.95,
+        "upc": null,
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_f91be230-d4c0-4604-ad15-13ab4c9cfbed"
+      }
+    ]
+  },
+  {
+    "master": "CH300 Industrial Climbing-Style Hard Hat – Non-Vented",
+    "series": "CH300 Industrial Climbing-Style Hard Hat – Non-Vented",
+    "brand": "Jackson Safety",
+    "desc": "CH300 Industrial Climbing-Style Hard Hat – Non-Vented",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 1",
+    "electricalClass": "E",
+    "reverseDonning": false,
+    "headStyle": "Climbing Inspired",
+    "shellMaterial": "HDPE",
+    "suspensionType": "6 pt.",
+    "suspensionAdj": "Rapid Dial",
+    "slotted": true,
+    "headBandType": "Foam-Backed Absorbent",
+    "energyAbsorption": "N/A",
+    "certifications": "ANSI Z89.1, Type 1, Class C, G & E|EN397 European Standards|Meets and Exceeds CSA Z94.1, Type 1, Class E",
+    "features": [
+      "Chin Strap",
+      "ComfortPad",
+      "Dielectric",
+      "Slotted",
+      "Headlamp/Headband Clips"
+    ],
+    "priceMin": 33.55,
+    "priceMax": 33.55,
+    "image": "https://media.surewerx.com/asset/09cf7216-4663-44cf-9c26-b77dd20dbbc1/2000_JPG/20901.jpg",
+    "colors": [
+      {
+        "sku": "20907",
+        "color": "Black",
+        "size": "Black",
+        "price": 33.55,
+        "upc": "626053621124",
+        "image": "https://media.surewerx.com/asset/09cf7216-4663-44cf-9c26-b77dd20dbbc1/2000_JPG/20901.jpg"
+      },
+      {
+        "sku": "20902",
+        "color": "Blue",
+        "size": "Blue",
+        "price": 33.55,
+        "upc": "626053692261",
+        "image": "https://media.surewerx.com/asset/09cf7216-4663-44cf-9c26-b77dd20dbbc1/2000_JPG/20901.jpg"
+      },
+      {
+        "sku": "20906",
+        "color": "Hi-Vis Green",
+        "size": "Hi-Vis Green",
+        "price": 33.55,
+        "upc": "626053632038",
+        "image": "https://media.surewerx.com/asset/09cf7216-4663-44cf-9c26-b77dd20dbbc1/2000_JPG/20901.jpg"
+      },
+      {
+        "sku": "20903",
+        "color": "Orange",
+        "size": "Orange",
+        "price": 33.55,
+        "upc": "626053621117",
+        "image": "https://media.surewerx.com/asset/09cf7216-4663-44cf-9c26-b77dd20dbbc1/2000_JPG/20901.jpg"
+      },
+      {
+        "sku": "20900",
+        "color": "White",
+        "size": "White",
+        "price": 33.55,
+        "upc": "626053621094",
+        "image": "https://media.surewerx.com/asset/09cf7216-4663-44cf-9c26-b77dd20dbbc1/2000_JPG/20901.jpg"
+      },
+      {
+        "sku": "20901",
+        "color": "Yellow",
+        "size": "Yellow",
+        "price": 33.55,
+        "upc": "626053621100",
+        "image": "https://media.surewerx.com/asset/09cf7216-4663-44cf-9c26-b77dd20dbbc1/2000_JPG/20901.jpg"
+      }
+    ]
+  },
+  {
+    "master": "CH-350 Industrial Climbing Hard Hat - Flip-Up Wraparound Visor - Non-Vented - Type 1",
+    "series": "CH-350 Industrial Climbing Hard Hat - Flip-Up Wraparound Visor - Non-Vented - Type 1",
+    "brand": "Jackson Safety",
+    "desc": "CH-350 Industrial Climbing Hard Hat - Flip-Up Wraparound Visor - Non-Vented - Type 1",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 1",
+    "electricalClass": null,
+    "reverseDonning": false,
+    "headStyle": "Safety Helmet",
+    "shellMaterial": "HDPE",
+    "suspensionType": "6 pt.",
+    "suspensionAdj": "370 Speed Dial™ Ratcheting Headgear",
+    "slotted": true,
+    "headBandType": "Cushioned",
+    "energyAbsorption": "EPP",
+    "certifications": "ANSI Z87.1+ High Impact|ANSI Z89.1, Type 1, Class C, G & E|Meets and Exceeds CSA Z94.1, Type 1, Class E",
+    "features": [
+      "Chin Strap",
+      "ComfortPad",
+      "Dielectric",
+      "Slotted",
+      "Wrap-Around Polycarbonate Flip-Up Visor"
+    ],
+    "priceMin": 90.25,
+    "priceMax": 90.25,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_22d1164b-4e2f-42a8-8931-3ec10288c754",
+    "colors": [
+      {
+        "sku": "20957",
+        "color": "Black",
+        "size": "Black",
+        "price": 90.25,
+        "upc": null,
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_22d1164b-4e2f-42a8-8931-3ec10288c754"
+      },
+      {
+        "sku": "20953",
+        "color": "Orange",
+        "size": "Orange",
+        "price": 90.25,
+        "upc": null,
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_22d1164b-4e2f-42a8-8931-3ec10288c754"
+      },
+      {
+        "sku": "20950",
+        "color": "White",
+        "size": "White",
+        "price": 90.25,
+        "upc": null,
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_22d1164b-4e2f-42a8-8931-3ec10288c754"
+      },
+      {
+        "sku": "20951",
+        "color": "Yellow",
+        "size": "Yellow",
+        "price": 90.25,
+        "upc": null,
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_22d1164b-4e2f-42a8-8931-3ec10288c754"
+      },
+      {
+        "sku": "20956",
+        "color": "Hi-Vis Green",
+        "size": "Hi-Vis Green",
+        "price": 90.25,
+        "upc": null,
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_22d1164b-4e2f-42a8-8931-3ec10288c754"
+      }
+    ]
+  },
+  {
+    "master": "CH400 Industrial Climbing-Style Hard Hat – Vented",
+    "series": "CH400 Industrial Climbing-Style Hard Hat – Vented",
+    "brand": "Jackson Safety",
+    "desc": "CH400 Industrial Climbing-Style Hard Hat – Vented",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 1",
+    "electricalClass": "C",
+    "reverseDonning": false,
+    "headStyle": "Climbing Inspired",
+    "shellMaterial": "ABS",
+    "suspensionType": "6 pt.",
+    "suspensionAdj": "Rapid Dial",
+    "slotted": true,
+    "headBandType": "Foam-Backed Absorbent",
+    "energyAbsorption": "N/A",
+    "certifications": "ANSI Z89.1, Type 1, Class C|Meets and Exceeds CSA Z94.1, Type 1, Class C",
+    "features": [
+      "Chin Strap",
+      "ComfortPad",
+      "Sliding Vents",
+      "Slotted",
+      "Headlamp/Headband Clips"
+    ],
+    "priceMin": 46.55,
+    "priceMax": 46.55,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_33d033ee-4f15-4a1d-9d25-dbe49ae95ea7",
+    "colors": [
+      {
+        "sku": "20927",
+        "color": "Black",
+        "size": "Black",
+        "price": 46.55,
+        "upc": "626053621162",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_33d033ee-4f15-4a1d-9d25-dbe49ae95ea7"
+      },
+      {
+        "sku": "20922",
+        "color": "Blue",
+        "size": "Blue",
+        "price": 46.55,
+        "upc": "626053692278",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_33d033ee-4f15-4a1d-9d25-dbe49ae95ea7"
+      },
+      {
+        "sku": "20926",
+        "color": "Hi-Vis Green",
+        "size": "Hi-Vis Green",
+        "price": 46.55,
+        "upc": "626053632045",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_33d033ee-4f15-4a1d-9d25-dbe49ae95ea7"
+      },
+      {
+        "sku": "20923",
+        "color": "Orange",
+        "size": "Orange",
+        "price": 46.55,
+        "upc": "626053621155",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_33d033ee-4f15-4a1d-9d25-dbe49ae95ea7"
+      },
+      {
+        "sku": "20920",
+        "color": "White",
+        "size": "White",
+        "price": 46.55,
+        "upc": "626053621131",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_33d033ee-4f15-4a1d-9d25-dbe49ae95ea7"
+      },
+      {
+        "sku": "20921",
+        "color": "Yellow",
+        "size": "Yellow",
+        "price": 46.55,
+        "upc": "626053621148",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_33d033ee-4f15-4a1d-9d25-dbe49ae95ea7"
+      }
+    ]
+  },
+  {
+    "master": "CH-450V Industrial Climbing Hard Hat - Flip-Up Wraparound Visor - Vented - Type 1",
+    "series": "CH-450V Industrial Climbing Hard Hat - Flip-Up Wraparound Visor - Vented - Type 1",
+    "brand": "Jackson Safety",
+    "desc": "CH-450V Industrial Climbing Hard Hat - Flip-Up Wraparound Visor - Vented - Type 1",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 1",
+    "electricalClass": "C",
+    "reverseDonning": false,
+    "headStyle": "Safety Helmet",
+    "shellMaterial": "PC + ABS",
+    "suspensionType": "6 pt.",
+    "suspensionAdj": "370 Speed Dial™ Ratcheting Headgear",
+    "slotted": true,
+    "headBandType": "Cushioned",
+    "energyAbsorption": "EPP",
+    "certifications": "ANSI Z87.1+ High Impact|ANSI Z89.1, Type 1, Class C|Meets and Exceeds CSA Z94.1, Type 1, Class C",
+    "features": [
+      "Chin Strap",
+      "ComfortPad",
+      "Sliding Vents",
+      "Slotted",
+      "Wrap-Around Polycarbonate Flip-Up Visor"
+    ],
+    "priceMin": 103.25,
+    "priceMax": 103.25,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_9cbc6011-920a-4c59-a7cd-d9e2a02554f3",
+    "colors": [
+      {
+        "sku": "20977",
+        "color": "Black",
+        "size": "Black",
+        "price": 103.25,
+        "upc": null,
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_9cbc6011-920a-4c59-a7cd-d9e2a02554f3"
+      },
+      {
+        "sku": "20976",
+        "color": "Hi-Vis Green",
+        "size": "Hi-Vis Green",
+        "price": 103.25,
+        "upc": null,
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_9cbc6011-920a-4c59-a7cd-d9e2a02554f3"
+      },
+      {
+        "sku": "20973",
+        "color": "Orange",
+        "size": "Orange",
+        "price": 103.25,
+        "upc": null,
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_9cbc6011-920a-4c59-a7cd-d9e2a02554f3"
+      },
+      {
+        "sku": "20970",
+        "color": "White",
+        "size": "White",
+        "price": 103.25,
+        "upc": null,
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_9cbc6011-920a-4c59-a7cd-d9e2a02554f3"
+      },
+      {
+        "sku": "20971",
+        "color": "Yellow",
+        "size": "Yellow",
+        "price": 103.25,
+        "upc": null,
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_9cbc6011-920a-4c59-a7cd-d9e2a02554f3"
+      }
+    ]
+  },
+  {
+    "master": "Charger Hard Hat - Front Brim Style",
+    "series": "Charger Hard Hat - Front Brim Style",
+    "brand": "Jackson Safety",
+    "desc": "Charger Hard Hat - Front Brim Style",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 1",
+    "electricalClass": null,
+    "reverseDonning": true,
+    "headStyle": "Cap Style",
+    "shellMaterial": "HDPE",
+    "suspensionType": "4 pt.",
+    "suspensionAdj": "Ratcheting",
+    "slotted": true,
+    "headBandType": "Foam-Backed Absorbent",
+    "energyAbsorption": "N/A",
+    "certifications": "ANSI Z89.1, Type 1, Class C, G & E",
+    "features": [
+      "Attachment points for chin straps",
+      "Dielectric",
+      "Slotted",
+      "Reverse Donning"
+    ],
+    "priceMin": 17.25,
+    "priceMax": 17.25,
+    "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_7f0689c5-e077-49ae-978d-ba26c382f5e3",
+    "colors": [
+      {
+        "sku": "20393",
+        "color": "Blue",
+        "size": "Blue",
+        "price": 17.25,
+        "upc": "626053603687",
+        "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_7f0689c5-e077-49ae-978d-ba26c382f5e3"
+      },
+      {
+        "sku": "20397",
+        "color": "Gray",
+        "size": "Gray",
+        "price": 17.25,
+        "upc": "626053603724",
+        "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_7f0689c5-e077-49ae-978d-ba26c382f5e3"
+      },
+      {
+        "sku": "20395",
+        "color": "Orange",
+        "size": "Orange",
+        "price": 17.25,
+        "upc": "626053603700",
+        "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_7f0689c5-e077-49ae-978d-ba26c382f5e3"
+      },
+      {
+        "sku": "20403",
+        "color": "Pink",
+        "size": "Pink",
+        "price": 17.25,
+        "upc": "626053603755",
+        "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_7f0689c5-e077-49ae-978d-ba26c382f5e3"
+      },
+      {
+        "sku": "20398",
+        "color": "Hi-Vis Orange",
+        "size": "Hi-Vis Orange",
+        "price": 17.25,
+        "upc": "626053603731",
+        "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_7f0689c5-e077-49ae-978d-ba26c382f5e3"
+      },
+      {
+        "sku": "20394",
+        "color": "Red",
+        "size": "Red",
+        "price": 17.25,
+        "upc": "626053603694",
+        "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_7f0689c5-e077-49ae-978d-ba26c382f5e3"
+      },
+      {
+        "sku": "20392",
+        "color": "White",
+        "size": "White",
+        "price": 17.25,
+        "upc": "626053603670",
+        "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_7f0689c5-e077-49ae-978d-ba26c382f5e3"
+      },
+      {
+        "sku": "20401",
+        "color": "Yellow",
+        "size": "Yellow",
+        "price": 17.25,
+        "upc": "626053604042",
+        "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_7f0689c5-e077-49ae-978d-ba26c382f5e3"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "22933",
+    "brand": "Jackson Safety",
+    "desc": "Comfort pad for CH-2-300 CH-2-400V Climbing Safety Helmet ",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Black",
+    "accMaterial": "Moisture-Wicking Polyester/Foam",
+    "accTempRange": null,
+    "accFitsHardHatType": "Safety Helmet",
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 9.55,
+    "upc": "626053651596",
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_60aca404-8dd5-4448-b18c-ceca9864c1fc",
+    "sizes": [
+      {
+        "sku": "22933",
+        "size": "One Size",
+        "price": 9.55,
+        "upc": "626053651596"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "22133",
+    "brand": "Jackson Safety",
+    "desc": "Comfort pad for XS2-500 Type2+ Safety Helmet ",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Black",
+    "accMaterial": "Anti-Mircrobial Polyester/Foam",
+    "accTempRange": null,
+    "accFitsHardHatType": "Front Brim|Full Brim|Climbing|Safety Helmet",
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 6.95,
+    "upc": "626053655822",
+    "image": "https://media.surewerx.com/asset/ba673365-94b9-419e-888a-3f7251b3b332/2000_JPG/22133.jpg",
+    "sizes": [
+      {
+        "sku": "22133",
+        "size": "One Size",
+        "price": 6.95,
+        "upc": "626053655822"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "16750",
+    "brand": "Jackson Safety",
+    "desc": "Drybrow Sweatband 8.7\" x 1.6\" x 0.2\"",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Blue",
+    "accMaterial": "Cotton",
+    "accTempRange": null,
+    "accFitsHardHatType": "Front Brim|Full Brim|Climbing|Safety Helmet",
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 42.25,
+    "upc": "626053603434",
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_c1326c63-7b3d-4d66-8b7b-de84f2f2df7f",
+    "sizes": [
+      {
+        "sku": "16750",
+        "size": "One Size",
+        "price": 42.25,
+        "upc": "626053603434"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "20930",
+    "brand": "Jackson Safety",
+    "desc": "Headgear CH-300, CH-400 Hard Hat",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": null,
+    "accMaterial": "High-Density Polyethylene (HDPE)",
+    "accTempRange": null,
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 16.25,
+    "upc": "626053622626",
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_03e849eb-ed04-47ad-a015-efce30f8c196",
+    "sizes": [
+      {
+        "sku": "20930",
+        "size": "One Size",
+        "price": 16.25,
+        "upc": "626053622626"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "22930",
+    "brand": "Jackson Safety",
+    "desc": "Headgear for CH2-300 CH-2-400V Climbing Safety Helmet ",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Black|Gray",
+    "accMaterial": "Low-Density Polyethylene(LDPE)",
+    "accTempRange": null,
+    "accFitsHardHatType": "Safety Helmet",
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 19.15,
+    "upc": "626053651565",
+    "image": "https://media.surewerx.com/m/66fc6fbddfa96b92/2000_JPG-22930.jpg",
+    "sizes": [
+      {
+        "sku": "22930",
+        "size": "One Size",
+        "price": 19.15,
+        "upc": "626053651565"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "39478",
+    "brand": "Jackson Safety",
+    "desc": "HH Interchange System (HHIS) Climbing Master Kit - Welding Helmet Adaptor - Face Shield Crown",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Black/Red",
+    "accMaterial": "PC + ABS",
+    "accTempRange": null,
+    "accFitsHardHatType": "Front Brim|Climbing|Safety Helmet",
+    "accAdapterType": "HHIS",
+    "accFitsWindowType": "Universal Pin",
+    "price": 33.85,
+    "upc": "626053647117",
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_4396b1ce-34dc-441a-b7b2-d15184def9fc",
+    "sizes": [
+      {
+        "sku": "39478",
+        "size": "One Size",
+        "price": 33.85,
+        "upc": "626053647117"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "38425",
+    "brand": "Jackson Safety",
+    "desc": "HH Interchange System (HHIS) Face Shield Kit",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Black/Red",
+    "accMaterial": "PC + ABS",
+    "accTempRange": null,
+    "accFitsHardHatType": "Front Brim|Climbing|Safety Helmet",
+    "accAdapterType": "HHIS",
+    "accFitsWindowType": "Universal Pin",
+    "price": 25.45,
+    "upc": "626053603878",
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_668c4386-3a49-4221-a17b-9761afc0fd01",
+    "sizes": [
+      {
+        "sku": "38425",
+        "size": "One Size",
+        "price": 25.45,
+        "upc": "626053603878"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "39476",
+    "brand": "Jackson Safety",
+    "desc": "HH Interchange System (HHIS) Hard Hat, Pair",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Black/Red",
+    "accMaterial": "PC + ABS",
+    "accTempRange": null,
+    "accFitsHardHatType": "Front Brim|Climbing|Safety Helmet",
+    "accAdapterType": "HHIS",
+    "accFitsWindowType": null,
+    "price": 9.3,
+    "upc": "626053603885",
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_684355ee-84f4-4a1a-97c3-096455d39fc3",
+    "sizes": [
+      {
+        "sku": "39476",
+        "size": "One Size",
+        "price": 9.3,
+        "upc": "626053603885"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "39477",
+    "brand": "Jackson Safety",
+    "desc": "HH Interchange System (HHIS) Master Kit - Welding Helmet Adaptor - Face Shield Crown",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Black/Red",
+    "accMaterial": "PC + ABS",
+    "accTempRange": null,
+    "accFitsHardHatType": "Front Brim|Climbing|Safety Helmet",
+    "accAdapterType": "HHIS",
+    "accFitsWindowType": "Universal Pin",
+    "price": 33.8,
+    "upc": "626053603892",
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_1eb1c1f9-9f9b-435d-b6fc-bf08c1f6fd22",
+    "sizes": [
+      {
+        "sku": "39477",
+        "size": "One Size",
+        "price": 33.8,
+        "upc": "626053603892"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "38423",
+    "brand": "Jackson Safety",
+    "desc": "HH Interchange System (HHIS) Replacement Kit QUAD500 Series",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Black/Red",
+    "accMaterial": "PC + ABS",
+    "accTempRange": null,
+    "accFitsHardHatType": "Front Brim|Climbing|Safety Helmet",
+    "accAdapterType": "HHIS",
+    "accFitsWindowType": "Specialty Pattern",
+    "price": 20.45,
+    "upc": "626053610623",
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_aead2191-0874-4363-a748-4628d2668ddf",
+    "sizes": [
+      {
+        "sku": "38423",
+        "size": "One Size",
+        "price": 20.45,
+        "upc": "626053610623"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "38426",
+    "brand": "Jackson Safety",
+    "desc": "HH Interchange System (HHIS) Welding Helmet Kit",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Black/Red",
+    "accMaterial": "PC + ABS",
+    "accTempRange": null,
+    "accFitsHardHatType": "Front Brim|Climbing|Safety Helmet",
+    "accAdapterType": "HHIS",
+    "accFitsWindowType": "Specialty Pattern",
+    "price": 16.05,
+    "upc": "626053605513",
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_cd0c6c60-07d3-4f56-a562-56424b03672f",
+    "sizes": [
+      {
+        "sku": "38426",
+        "size": "One Size",
+        "price": 16.05,
+        "upc": "626053605513"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "38429",
+    "brand": "Jackson Safety",
+    "desc": "HH Interchange System (HHIS) Welding Helmet Kit for Full Brim Safety Helmet",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Black/Red",
+    "accMaterial": "PC + ABS",
+    "accTempRange": null,
+    "accFitsHardHatType": "Full Brim|Safety Helmet",
+    "accAdapterType": "HHIS",
+    "accFitsWindowType": "Specialty Pattern",
+    "price": 16.05,
+    "upc": "626053669676",
+    "image": "https://media.surewerx.com/asset/d0b4e8c1-bf17-4ef9-9710-91e16386c559/2000_JPG/38429.jpg",
+    "sizes": [
+      {
+        "sku": "38429",
+        "size": "One Size",
+        "price": 16.05,
+        "upc": "626053669676"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "38424",
+    "brand": "Jackson Safety",
+    "desc": "HH Interchange System (HHIS) Welding Helmet Kit for MAXVIEW",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Black/Red",
+    "accMaterial": "PC + ABS",
+    "accTempRange": null,
+    "accFitsHardHatType": "Front Brim|Climbing|Safety Helmet",
+    "accAdapterType": "HHIS",
+    "accFitsWindowType": "Specialty Pattern",
+    "price": 20.5,
+    "upc": "626053610630",
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_0e29a7e7-520d-41e1-ac15-d21b1e62d32b",
+    "sizes": [
+      {
+        "sku": "38424",
+        "size": "One Size",
+        "price": 20.5,
+        "upc": "626053610630"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "38428",
+    "brand": "Jackson Safety",
+    "desc": "HH Interchange System (HHIS) Welding Helmet Kit for Safety Helmet",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Black/Red",
+    "accMaterial": "PC + ABS",
+    "accTempRange": null,
+    "accFitsHardHatType": "Front Brim|Climbing|Safety Helmet",
+    "accAdapterType": "HHIS",
+    "accFitsWindowType": "Specialty Pattern",
+    "price": 16.05,
+    "upc": "626053669669",
+    "image": "https://media.surewerx.com/asset/88ebd493-d372-4eee-9046-9af7725c6254/2000_JPG/38428.jpg",
+    "sizes": [
+      {
+        "sku": "38428",
+        "size": "One Size",
+        "price": 16.05,
+        "upc": "626053669669"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "22137",
+    "brand": "Jackson Safety",
+    "desc": "Hi- Vis Reflective Tape for XS2-500 Type2+ Safety Helmet",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Reflective Silver",
+    "accMaterial": "Microprismatic Conspicuity Tape",
+    "accTempRange": null,
+    "accFitsHardHatType": "Front Brim|Full Brim|Climbing|Safety Helmet",
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 9.95,
+    "upc": "626053655860",
+    "image": "",
+    "sizes": [
+      {
+        "sku": "22137",
+        "size": "One Size",
+        "price": 9.95,
+        "upc": "626053655860"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "22937",
+    "brand": "Jackson Safety",
+    "desc": "Hi-Vis Reflective Tape for CH2-300 CH-2-400V Climbing Safety Helmet",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Silver",
+    "accMaterial": "Microprismatic Conspicuity Tape",
+    "accTempRange": null,
+    "accFitsHardHatType": "Front Brim|Full Brim|Climbing|Safety Helmet",
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 6.15,
+    "upc": "626053651619",
+    "image": "",
+    "sizes": [
+      {
+        "sku": "22937",
+        "size": "One Size",
+        "price": 6.15,
+        "upc": "626053651619"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "14504",
+    "brand": "Jackson Safety",
+    "desc": "Nomex Hood Winterliner for Hard Hat - White",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "White",
+    "accMaterial": "Nomex",
+    "accTempRange": "45° to 32°F or 8° to 0°C",
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 54.8,
+    "upc": "626053603083",
+    "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_9dc9cc6a-828f-443e-820b-9acaa6763230",
+    "sizes": [
+      {
+        "sku": "14504",
+        "size": "One Size",
+        "price": 54.8,
+        "upc": "626053603083"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "20936",
+    "brand": "Jackson Safety",
+    "desc": "Red Reflector (Mounts to CH-400V Dual Rear Slots)",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": null,
+    "accMaterial": null,
+    "accTempRange": null,
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 7.95,
+    "upc": "626053622671",
+    "image": "https://media.surewerx.com/m/6f88bbf6a10d879b/2000_JPG-20936.jpg",
+    "sizes": [
+      {
+        "sku": "20936",
+        "size": "One Size",
+        "price": 7.95,
+        "upc": "626053622671"
+      }
+    ]
+  },
+  {
+    "master": "SC-6 Cap-Style Hard Hat",
+    "series": "SC-6 Cap-Style Hard Hat",
+    "brand": "Jackson Safety",
+    "desc": "SC-6 Cap-Style Hard Hat",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 1",
+    "electricalClass": null,
+    "reverseDonning": true,
+    "headStyle": "Cap Style",
+    "shellMaterial": "HDPE",
+    "suspensionType": "4 pt.",
+    "suspensionAdj": "370 Speed Dial™ Ratcheting Headgear",
+    "slotted": true,
+    "headBandType": "Foam-Backed Absorbent",
+    "energyAbsorption": "N/A",
+    "certifications": "ANSI Z89.1, Type 1, Class C, G & E|Certified to CSA Z94.1, Type 1, Class E|Reverse Donning",
+    "features": [
+      "Attachment points for chin straps",
+      "ComfortPad",
+      "Dielectric",
+      "Slotted",
+      "Reverse Donning"
+    ],
+    "priceMin": 19.25,
+    "priceMax": 19.25,
+    "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_a2b23688-53eb-4279-aee1-4631fb7e618e",
+    "colors": [
+      {
+        "sku": "14838",
+        "color": "Blue",
+        "size": "Blue",
+        "price": 19.25,
+        "upc": "626053603229",
+        "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_a2b23688-53eb-4279-aee1-4631fb7e618e"
+      },
+      {
+        "sku": "14837",
+        "color": "Green",
+        "size": "Green",
+        "price": 19.25,
+        "upc": "626053603212",
+        "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_a2b23688-53eb-4279-aee1-4631fb7e618e"
+      },
+      {
+        "sku": "14842",
+        "color": "Gray",
+        "size": "Gray",
+        "price": 19.25,
+        "upc": "626053603250",
+        "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_a2b23688-53eb-4279-aee1-4631fb7e618e"
+      },
+      {
+        "sku": "14843",
+        "color": "Hi-Vis Orange",
+        "size": "Hi-Vis Orange",
+        "price": 19.25,
+        "upc": "626053603267",
+        "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_a2b23688-53eb-4279-aee1-4631fb7e618e"
+      },
+      {
+        "sku": "14839",
+        "color": "Orange",
+        "size": "Orange",
+        "price": 19.25,
+        "upc": "626053603236",
+        "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_a2b23688-53eb-4279-aee1-4631fb7e618e"
+      },
+      {
+        "sku": "14841",
+        "color": "Red",
+        "size": "Red",
+        "price": 19.25,
+        "upc": "626053603243",
+        "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_a2b23688-53eb-4279-aee1-4631fb7e618e"
+      },
+      {
+        "sku": "14834",
+        "color": "White",
+        "size": "White",
+        "price": 19.25,
+        "upc": "626053603205",
+        "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_a2b23688-53eb-4279-aee1-4631fb7e618e"
+      },
+      {
+        "sku": "14833",
+        "color": "Yellow",
+        "size": "Yellow",
+        "price": 19.25,
+        "upc": "626053603953",
+        "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_a2b23688-53eb-4279-aee1-4631fb7e618e"
+      }
+    ]
+  },
+  {
+    "master": "SC-6 Hard Hats - Front Brim Style",
+    "series": "SC-6 Hard Hats - Front Brim Style",
+    "brand": "Jackson Safety",
+    "desc": "SC-6 Hard Hats - Front Brim Style",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 1",
+    "electricalClass": null,
+    "reverseDonning": true,
+    "headStyle": "Cap Style",
+    "shellMaterial": "HDPE",
+    "suspensionType": "4 pt.",
+    "suspensionAdj": "370 Speed Dial™ Ratcheting Headgear",
+    "slotted": true,
+    "headBandType": "Foam-Backed Absorbent",
+    "energyAbsorption": "N/A",
+    "certifications": "ANSI Z89.1, Type 1, Class C, G & E|Certified to CSA Z94.1, Type 1, Class E|Reverse Donning",
+    "features": [
+      "Attachment points for chin straps",
+      "ComfortPad",
+      "Dielectric",
+      "Slotted",
+      "Reverse Donning"
+    ],
+    "priceMin": 19.25,
+    "priceMax": 19.25,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_370fa5f7-8b59-4aed-850e-d34b83ccf23a",
+    "colors": [
+      {
+        "sku": "14836",
+        "color": "Brown",
+        "size": "Brown",
+        "price": 19.25,
+        "upc": "None",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_370fa5f7-8b59-4aed-850e-d34b83ccf23a"
+      },
+      {
+        "sku": "14845",
+        "color": "Lime",
+        "size": "Lime",
+        "price": 19.25,
+        "upc": "024886326931",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_370fa5f7-8b59-4aed-850e-d34b83ccf23a"
+      }
+    ]
+  },
+  {
+    "master": "Sentry III Hard Hats - Front Brim Style",
+    "series": "Sentry III Hard Hats - Front Brim Style",
+    "brand": "Jackson Safety",
+    "desc": "Sentry III Hard Hats - Front Brim Style",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 1",
+    "electricalClass": null,
+    "reverseDonning": true,
+    "headStyle": "Cap Style",
+    "shellMaterial": "HDPE",
+    "suspensionType": "6 pt.",
+    "suspensionAdj": "Ratcheting",
+    "slotted": true,
+    "headBandType": "Foam-Backed Absorbent",
+    "energyAbsorption": "N/A",
+    "certifications": "ANSI Z89.1, Type 1, Class C, G & E|Reverse Donning",
+    "features": [
+      "Attachment points for chin straps",
+      "Dielectric",
+      "Slotted",
+      "Reverse Donning"
+    ],
+    "priceMin": 22.7,
+    "priceMax": 22.75,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_35065226-748f-49ed-bb08-7a53a3df1939",
+    "colors": [
+      {
+        "sku": "14416",
+        "color": "Blue",
+        "size": "Blue",
+        "price": 22.7,
+        "upc": "626053602918",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_35065226-748f-49ed-bb08-7a53a3df1939"
+      },
+      {
+        "sku": "14423",
+        "color": "Hi-Vis Orange",
+        "size": "Hi-Vis Orange",
+        "price": 22.7,
+        "upc": "626053602956",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_35065226-748f-49ed-bb08-7a53a3df1939"
+      },
+      {
+        "sku": "14462",
+        "color": "Lime",
+        "size": "Lime",
+        "price": 22.75,
+        "upc": "626053603007",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_35065226-748f-49ed-bb08-7a53a3df1939"
+      },
+      {
+        "sku": "14420",
+        "color": "Orange",
+        "size": "Orange",
+        "price": 22.7,
+        "upc": "626053602949",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_35065226-748f-49ed-bb08-7a53a3df1939"
+      },
+      {
+        "sku": "14418",
+        "color": "Red",
+        "size": "Red",
+        "price": 22.7,
+        "upc": "626053602925",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_35065226-748f-49ed-bb08-7a53a3df1939"
+      },
+      {
+        "sku": "14409",
+        "color": "White",
+        "size": "White",
+        "price": 22.7,
+        "upc": "626053602888",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_35065226-748f-49ed-bb08-7a53a3df1939"
+      },
+      {
+        "sku": "14407",
+        "color": "Yellow",
+        "size": "Yellow",
+        "price": 22.7,
+        "upc": "626053602871",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_35065226-748f-49ed-bb08-7a53a3df1939"
+      }
+    ]
+  },
+  {
+    "master": "SENTRY2 Type 2 Cap-Style Safety Helmet – Non-Vented",
+    "series": "SENTRY2 Type 2 Cap-Style Safety Helmet – Non-Vented",
+    "brand": "Jackson Safety",
+    "desc": "SENTRY2 Type 2 Cap-Style Safety Helmet – Non-Vented",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 2",
+    "electricalClass": "E",
+    "reverseDonning": true,
+    "headStyle": "Cap Style",
+    "shellMaterial": "ABS",
+    "suspensionType": "6 pt.",
+    "suspensionAdj": "370 Speed Dial™ Ratcheting Headgear",
+    "slotted": true,
+    "headBandType": "Cushioned",
+    "energyAbsorption": "EPP",
+    "certifications": "ANSI Z89.1, Type 2, Class E|HT|LT|Reverse Donning|Meets and Exceeds CSA Z94.1, Type 2, Class E",
+    "features": [
+      "Chin Strap",
+      "ComfortPad",
+      "Dielectric",
+      "Slotted",
+      "Reverse Donning",
+      "Anti-microbial Head Band",
+      "Anti-microbial Comfort Pad",
+      "Synthetic Leather Chin Strap"
+    ],
+    "priceMin": 64.95,
+    "priceMax": 64.95,
+    "image": "https://media.surewerx.com/asset/497a0a63-7044-4cf9-86f9-c973e547442a/2000_JPG/22301.jpg",
+    "colors": [
+      {
+        "sku": "22304",
+        "color": "Black",
+        "size": "Black",
+        "price": 64.95,
+        "upc": "626053650049",
+        "image": "https://media.surewerx.com/asset/497a0a63-7044-4cf9-86f9-c973e547442a/2000_JPG/22301.jpg"
+      },
+      {
+        "sku": "22302",
+        "color": "Blue",
+        "size": "Blue",
+        "price": 64.95,
+        "upc": "626053650025",
+        "image": "https://media.surewerx.com/asset/497a0a63-7044-4cf9-86f9-c973e547442a/2000_JPG/22301.jpg"
+      },
+      {
+        "sku": "22308",
+        "color": "Gray",
+        "size": "Gray",
+        "price": 64.95,
+        "upc": "626053650087",
+        "image": "https://media.surewerx.com/asset/497a0a63-7044-4cf9-86f9-c973e547442a/2000_JPG/22301.jpg"
+      },
+      {
+        "sku": "22309",
+        "color": "Green",
+        "size": "Green",
+        "price": 64.95,
+        "upc": "626053650094",
+        "image": "https://media.surewerx.com/asset/497a0a63-7044-4cf9-86f9-c973e547442a/2000_JPG/22301.jpg"
+      },
+      {
+        "sku": "22306",
+        "color": "Hi-Vis Green",
+        "size": "Hi-Vis Green",
+        "price": 64.95,
+        "upc": "626053650063",
+        "image": "https://media.surewerx.com/asset/497a0a63-7044-4cf9-86f9-c973e547442a/2000_JPG/22301.jpg"
+      },
+      {
+        "sku": "22303",
+        "color": "Hi-Vis Orange",
+        "size": "Hi-Vis Orange",
+        "price": 64.95,
+        "upc": "626053650032",
+        "image": "https://media.surewerx.com/asset/497a0a63-7044-4cf9-86f9-c973e547442a/2000_JPG/22301.jpg"
+      },
+      {
+        "sku": "22307",
+        "color": "Red",
+        "size": "Red",
+        "price": 64.95,
+        "upc": "626053650070",
+        "image": "https://media.surewerx.com/asset/497a0a63-7044-4cf9-86f9-c973e547442a/2000_JPG/22301.jpg"
+      },
+      {
+        "sku": "22305",
+        "color": "Tan",
+        "size": "Tan",
+        "price": 64.95,
+        "upc": "626053650056",
+        "image": "https://media.surewerx.com/asset/497a0a63-7044-4cf9-86f9-c973e547442a/2000_JPG/22301.jpg"
+      },
+      {
+        "sku": "22300",
+        "color": "White",
+        "size": "White",
+        "price": 64.95,
+        "upc": "626053650001",
+        "image": "https://media.surewerx.com/asset/497a0a63-7044-4cf9-86f9-c973e547442a/2000_JPG/22301.jpg"
+      },
+      {
+        "sku": "22301",
+        "color": "Yellow",
+        "size": "Yellow",
+        "price": 64.95,
+        "upc": "626053650018",
+        "image": "https://media.surewerx.com/asset/497a0a63-7044-4cf9-86f9-c973e547442a/2000_JPG/22301.jpg"
+      }
+    ]
+  },
+  {
+    "master": "SENTRY2 Type 2 Cap-Style Safety Helmet – Vented",
+    "series": "SENTRY2 Type 2 Cap-Style Safety Helmet – Vented",
+    "brand": "Jackson Safety",
+    "desc": "SENTRY2 Type 2 Cap-Style Safety Helmet – Vented",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 2",
+    "electricalClass": "C",
+    "reverseDonning": true,
+    "headStyle": "Cap Style",
+    "shellMaterial": "ABS",
+    "suspensionType": "6 pt.",
+    "suspensionAdj": "370 Speed Dial™ Ratcheting Headgear",
+    "slotted": true,
+    "headBandType": "Cushioned",
+    "energyAbsorption": "EPP",
+    "certifications": "ANSI Z89.1, Type 2, Class C|HT|LT|Reverse Donning|Meets and Exceeds CSA Z94.1, Type 2, Class C",
+    "features": [
+      "Chin Strap",
+      "ComfortPad",
+      "Slotted",
+      "Reverse Donning",
+      "Anti-microbial Head Band",
+      "Anti-microbial Comfort Pad",
+      "Synthetic Leather Chin Strap"
+    ],
+    "priceMin": 64.95,
+    "priceMax": 64.95,
+    "image": "https://media.surewerx.com/asset/2059e383-2f76-406c-8a1a-e983e3c339ca/2000_JPG/22321.jpg",
+    "colors": [
+      {
+        "sku": "22324",
+        "color": "Black",
+        "size": "Black",
+        "price": 64.95,
+        "upc": "626053650148",
+        "image": "https://media.surewerx.com/asset/2059e383-2f76-406c-8a1a-e983e3c339ca/2000_JPG/22321.jpg"
+      },
+      {
+        "sku": "22322",
+        "color": "Blue",
+        "size": "Blue",
+        "price": 64.95,
+        "upc": "626053650124",
+        "image": "https://media.surewerx.com/asset/2059e383-2f76-406c-8a1a-e983e3c339ca/2000_JPG/22321.jpg"
+      },
+      {
+        "sku": "22328",
+        "color": "Gray",
+        "size": "Gray",
+        "price": 64.95,
+        "upc": "626053650186",
+        "image": "https://media.surewerx.com/asset/2059e383-2f76-406c-8a1a-e983e3c339ca/2000_JPG/22321.jpg"
+      },
+      {
+        "sku": "22329",
+        "color": "Green",
+        "size": "Green",
+        "price": 64.95,
+        "upc": "626053650193",
+        "image": "https://media.surewerx.com/asset/2059e383-2f76-406c-8a1a-e983e3c339ca/2000_JPG/22321.jpg"
+      },
+      {
+        "sku": "22326",
+        "color": "Hi-Vis Green",
+        "size": "Hi-Vis Green",
+        "price": 64.95,
+        "upc": "626053650162",
+        "image": "https://media.surewerx.com/asset/2059e383-2f76-406c-8a1a-e983e3c339ca/2000_JPG/22321.jpg"
+      },
+      {
+        "sku": "22323",
+        "color": "Hi-Vis Orange",
+        "size": "Hi-Vis Orange",
+        "price": 64.95,
+        "upc": "626053650131",
+        "image": "https://media.surewerx.com/asset/2059e383-2f76-406c-8a1a-e983e3c339ca/2000_JPG/22321.jpg"
+      },
+      {
+        "sku": "22327",
+        "color": "Red",
+        "size": "Red",
+        "price": 64.95,
+        "upc": "626053650179",
+        "image": "https://media.surewerx.com/asset/2059e383-2f76-406c-8a1a-e983e3c339ca/2000_JPG/22321.jpg"
+      },
+      {
+        "sku": "22325",
+        "color": "Tan",
+        "size": "Tan",
+        "price": 64.95,
+        "upc": "626053650155",
+        "image": "https://media.surewerx.com/asset/2059e383-2f76-406c-8a1a-e983e3c339ca/2000_JPG/22321.jpg"
+      },
+      {
+        "sku": "22320",
+        "color": "White",
+        "size": "White",
+        "price": 64.95,
+        "upc": "626053650100",
+        "image": "https://media.surewerx.com/asset/2059e383-2f76-406c-8a1a-e983e3c339ca/2000_JPG/22321.jpg"
+      },
+      {
+        "sku": "22321",
+        "color": "Yellow",
+        "size": "Yellow",
+        "price": 64.95,
+        "upc": "626053650117",
+        "image": "https://media.surewerx.com/asset/2059e383-2f76-406c-8a1a-e983e3c339ca/2000_JPG/22321.jpg"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "14460",
+    "brand": "Jackson Safety",
+    "desc": "Sun Shade Adapter, Full Brim Hard Hat - Gray Polycarbonate",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Smoke",
+    "accMaterial": null,
+    "accTempRange": null,
+    "accFitsHardHatType": "Full Brim",
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 42.35,
+    "upc": "626053644345",
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_5e641d07-c146-41a0-8024-28195af1babd",
+    "sizes": [
+      {
+        "sku": "14460",
+        "size": "One Size",
+        "price": 42.35,
+        "upc": "626053644345"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "14461",
+    "brand": "Jackson Safety",
+    "desc": "Sun Shade Adapter, Full Brim Hard Hat - Green Polycarbonate",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Green",
+    "accMaterial": null,
+    "accTempRange": null,
+    "accFitsHardHatType": "Full Brim",
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 42.35,
+    "upc": "626053602994",
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_cf8167de-1be8-4ea0-ae33-5849368ffe81",
+    "sizes": [
+      {
+        "sku": "14461",
+        "size": "One Size",
+        "price": 42.35,
+        "upc": "626053602994"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "20931",
+    "brand": "Jackson Safety",
+    "desc": "Sweatband for CH-300, CH-400 Climbing Hard Hat",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": null,
+    "accMaterial": "Foam",
+    "accTempRange": null,
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 1.9,
+    "upc": "626053622633",
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_c63162c1-49b4-4134-9ba0-b329d1551cac",
+    "sizes": [
+      {
+        "sku": "20931",
+        "size": "One Size",
+        "price": 1.9,
+        "upc": "626053622633"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "14958",
+    "brand": "Jackson Safety",
+    "desc": "Sweatband for SC-6 Hard Hat",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": null,
+    "accMaterial": "Cotton",
+    "accTempRange": null,
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 4.7,
+    "upc": "626053603403",
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_a67939b9-cdff-4ca8-9c77-daba00308662",
+    "sizes": [
+      {
+        "sku": "14958",
+        "size": "One Size",
+        "price": 4.7,
+        "upc": "626053603403"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "14429",
+    "brand": "Jackson Safety",
+    "desc": "Sweatband for Sentry III - Charger - Outlaw (12 PK)",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Black/Green",
+    "accMaterial": "Foam",
+    "accTempRange": null,
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 12.35,
+    "upc": "626053602970",
+    "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_37debda8-de10-4b9d-a7da-1dae147f7723",
+    "sizes": [
+      {
+        "sku": "14429",
+        "size": "One Size",
+        "price": 12.35,
+        "upc": "626053602970"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "22131",
+    "brand": "Jackson Safety",
+    "desc": "Sweatband for XS2-500 Type2+ Safety Helmet ",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Black",
+    "accMaterial": "Anti-Mircrobial Polyester/Foam",
+    "accTempRange": null,
+    "accFitsHardHatType": "Front Brim|Full Brim|Climbing|Safety Helmet",
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 34.95,
+    "upc": "626053655518",
+    "image": "https://media.surewerx.com/asset/6f800c38-1f04-4fb0-a085-5b3f10dedae0/2000_JPG/22131.jpg",
+    "sizes": [
+      {
+        "sku": "22131",
+        "size": "One Size",
+        "price": 34.95,
+        "upc": "626053655518"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "22134",
+    "brand": "Jackson Safety",
+    "desc": "Visor Kit for XS2-500 Type2+ Safety Helmet - Clear - AF",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Smoke/Black",
+    "accMaterial": "Polycarbonate",
+    "accTempRange": null,
+    "accFitsHardHatType": "Climbing|Safety Helmet",
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 24.95,
+    "upc": "626053655839",
+    "image": "",
+    "sizes": [
+      {
+        "sku": "22134",
+        "size": "One Size",
+        "price": 24.95,
+        "upc": "626053655839"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "22135",
+    "brand": "Jackson Safety",
+    "desc": "Visor Kit for XS2-500 Type2+ Safety Helmet - Smoke - AF",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Clear/Black",
+    "accMaterial": "Polycarbonate",
+    "accTempRange": null,
+    "accFitsHardHatType": "Climbing|Safety Helmet",
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 24.95,
+    "upc": "626053655846",
+    "image": "",
+    "sizes": [
+      {
+        "sku": "22135",
+        "size": "One Size",
+        "price": 24.95,
+        "upc": "626053655846"
+      }
+    ]
+  },
+  {
+    "master": "Western Outlaw Hard Hat - Western Brim Style",
+    "series": "Western Outlaw Hard Hat - Western Brim Style",
+    "brand": "Jackson Safety",
+    "desc": "Western Outlaw Hard Hat - Western Brim Style",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 1",
+    "electricalClass": null,
+    "reverseDonning": false,
+    "headStyle": "Western Outlaw",
+    "shellMaterial": "HDPE",
+    "suspensionType": "4 pt.",
+    "suspensionAdj": "Ratcheting",
+    "slotted": false,
+    "headBandType": "Foam-Backed Absorbent",
+    "energyAbsorption": "N/A",
+    "certifications": "ANSI Z89.1, Type 1, Class C, G & E",
+    "features": [
+      "Dielectric",
+      "Sun Protection"
+    ],
+    "priceMin": 45.35,
+    "priceMax": 45.35,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_721592ec-dfad-4abd-b933-f7af90cbb7f6",
+    "colors": [
+      {
+        "sku": "17330",
+        "color": "Black",
+        "size": "Black",
+        "price": 45.35,
+        "upc": "626053603540",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_721592ec-dfad-4abd-b933-f7af90cbb7f6"
+      },
+      {
+        "sku": "19525",
+        "color": "Gray",
+        "size": "Gray",
+        "price": 45.35,
+        "upc": "626053603595",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_721592ec-dfad-4abd-b933-f7af90cbb7f6"
+      },
+      {
+        "sku": "19502",
+        "color": "Tan",
+        "size": "Tan",
+        "price": 45.35,
+        "upc": "626053603588",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_721592ec-dfad-4abd-b933-f7af90cbb7f6"
+      },
+      {
+        "sku": "19500",
+        "color": "White",
+        "size": "White",
+        "price": 45.35,
+        "upc": "626053603571",
+        "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_721592ec-dfad-4abd-b933-f7af90cbb7f6"
+      }
+    ]
+  },
+  {
+    "series": null,
+    "master": "16760",
+    "brand": "Jackson Safety",
+    "desc": "Wind Jammer IV for Hard Hats - Gray",
+    "kind": "accessory",
+    "isAccessory": true,
+    "color": "Grey",
+    "accMaterial": "Acrylic Fleece",
+    "accTempRange": "0° to -20°F (-20° to -28° C)",
+    "accFitsHardHatType": null,
+    "accAdapterType": null,
+    "accFitsWindowType": null,
+    "price": 11.55,
+    "upc": "626053603465",
+    "image": "https://asset-prod1a-use.productmarketingcloud.com/api/assetstorage/1895_3ba77896-ca3b-47c7-bcb0-8e1cbc9aa1df",
+    "sizes": [
+      {
+        "sku": "16760",
+        "size": "One Size",
+        "price": 11.55,
+        "upc": "626053603465"
+      }
+    ]
+  },
+  {
+    "master": "XS2-500 Type 2 Safety Helmet – Flip–Up Visor – Non-Vented",
+    "series": "XS2-500 Type 2 Safety Helmet – Flip–Up Visor – Non-Vented",
+    "brand": "Jackson Safety",
+    "desc": "XS2-500 Type 2 Safety Helmet – Flip–Up Visor – Non-Vented",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 2",
+    "electricalClass": "E",
+    "reverseDonning": false,
+    "headStyle": "Safety Helmet",
+    "shellMaterial": "ABS",
+    "suspensionType": "6 pt.",
+    "suspensionAdj": "370 Speed Dial™ Ratcheting Headgear",
+    "slotted": true,
+    "headBandType": "Cushioned",
+    "energyAbsorption": "EPP",
+    "certifications": "ANSI Z87.1+ High Impact|ANSI Z89.1, Type 2, Class E|HT|LT|EN12492 4.2.4|Meets and Exceeds CSA Z94.1, Type 2, Class E",
+    "features": [
+      "Chin Strap",
+      "ComfortPad",
+      "Dielectric",
+      "Slotted",
+      "Wrap-Around Polycarbonate Flip-Up Visor",
+      "Anti-microbial Head Band",
+      "Anti-microbial Comfort Pad",
+      "Synthetic Leather Chin Strap"
+    ],
+    "priceMin": 99.95,
+    "priceMax": 99.95,
+    "image": "https://media.surewerx.com/asset/c436ba7e-a0c3-4829-a219-22218f98d595/2000_JPG/22151.jpg",
+    "colors": [
+      {
+        "sku": "22154",
+        "color": "Black",
+        "size": "Black",
+        "price": 99.95,
+        "upc": "626053655570",
+        "image": "https://media.surewerx.com/asset/c436ba7e-a0c3-4829-a219-22218f98d595/2000_JPG/22151.jpg"
+      },
+      {
+        "sku": "22152",
+        "color": "Blue",
+        "size": "Blue",
+        "price": 99.95,
+        "upc": "626053655556",
+        "image": "https://media.surewerx.com/asset/c436ba7e-a0c3-4829-a219-22218f98d595/2000_JPG/22151.jpg"
+      },
+      {
+        "sku": "22158",
+        "color": "Gray",
+        "size": "Gray",
+        "price": 99.95,
+        "upc": "626053655617",
+        "image": "https://media.surewerx.com/asset/c436ba7e-a0c3-4829-a219-22218f98d595/2000_JPG/22151.jpg"
+      },
+      {
+        "sku": "22156",
+        "color": "Hi-Vis Green",
+        "size": "Hi-Vis Green",
+        "price": 99.95,
+        "upc": "626053655594",
+        "image": "https://media.surewerx.com/asset/c436ba7e-a0c3-4829-a219-22218f98d595/2000_JPG/22151.jpg"
+      },
+      {
+        "sku": "22153",
+        "color": "Hi-Vis Orange",
+        "size": "Hi-Vis Orange",
+        "price": 99.95,
+        "upc": "626053655563",
+        "image": "https://media.surewerx.com/asset/c436ba7e-a0c3-4829-a219-22218f98d595/2000_JPG/22151.jpg"
+      },
+      {
+        "sku": "22157",
+        "color": "Red",
+        "size": "Red",
+        "price": 99.95,
+        "upc": "626053655600",
+        "image": "https://media.surewerx.com/asset/c436ba7e-a0c3-4829-a219-22218f98d595/2000_JPG/22151.jpg"
+      },
+      {
+        "sku": "22150",
+        "color": "White",
+        "size": "White",
+        "price": 99.95,
+        "upc": "626053655532",
+        "image": "https://media.surewerx.com/asset/c436ba7e-a0c3-4829-a219-22218f98d595/2000_JPG/22151.jpg"
+      },
+      {
+        "sku": "22151",
+        "color": "Yellow",
+        "size": "Yellow",
+        "price": 99.95,
+        "upc": "626053655549",
+        "image": "https://media.surewerx.com/asset/c436ba7e-a0c3-4829-a219-22218f98d595/2000_JPG/22151.jpg"
+      }
+    ]
+  },
+  {
+    "master": "XS2-500 Type 2 Safety Helmet – Flip–Up Visor – Vented",
+    "series": "XS2-500 Type 2 Safety Helmet – Flip–Up Visor – Vented",
+    "brand": "Jackson Safety",
+    "desc": "XS2-500 Type 2 Safety Helmet – Flip–Up Visor – Vented",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 2",
+    "electricalClass": "C",
+    "reverseDonning": false,
+    "headStyle": "Safety Helmet",
+    "shellMaterial": "ABS",
+    "suspensionType": "6 pt.",
+    "suspensionAdj": "370 Speed Dial™ Ratcheting Headgear",
+    "slotted": true,
+    "headBandType": "Cushioned",
+    "energyAbsorption": "EPP",
+    "certifications": "ANSI Z87.1+ High Impact| ANSI Z89.1, Type 2, Class C|HT|LT|EN12492 4.2.4|Meets and Exceeds CSA Z94.1, Type 2, Class C",
+    "features": [
+      "Chin Strap",
+      "ComfortPad",
+      "Slotted",
+      "Wrap-Around Polycarbonate Flip-Up Visor",
+      "Anti-microbial Head Band",
+      "Anti-microbial Comfort Pad",
+      "Synthetic Leather Chin Strap"
+    ],
+    "priceMin": 99.95,
+    "priceMax": 99.95,
+    "image": "https://media.surewerx.com/asset/6d5eeb23-eef4-4da0-8024-543b92b13a80/2000_JPG/22171.jpg",
+    "colors": [
+      {
+        "sku": "22174",
+        "color": "Black",
+        "size": "Black",
+        "price": 99.95,
+        "upc": "626053655709",
+        "image": "https://media.surewerx.com/asset/6d5eeb23-eef4-4da0-8024-543b92b13a80/2000_JPG/22171.jpg"
+      },
+      {
+        "sku": "22172",
+        "color": "Blue",
+        "size": "Blue",
+        "price": 99.95,
+        "upc": "626053655686",
+        "image": "https://media.surewerx.com/asset/6d5eeb23-eef4-4da0-8024-543b92b13a80/2000_JPG/22171.jpg"
+      },
+      {
+        "sku": "22178",
+        "color": "Gray",
+        "size": "Gray",
+        "price": 99.95,
+        "upc": "626053655747",
+        "image": "https://media.surewerx.com/asset/6d5eeb23-eef4-4da0-8024-543b92b13a80/2000_JPG/22171.jpg"
+      },
+      {
+        "sku": "22176",
+        "color": "Hi-Vis Green",
+        "size": "Hi-Vis Green",
+        "price": 99.95,
+        "upc": "626053655723",
+        "image": "https://media.surewerx.com/asset/6d5eeb23-eef4-4da0-8024-543b92b13a80/2000_JPG/22171.jpg"
+      },
+      {
+        "sku": "22173",
+        "color": "Hi-Vis Orange",
+        "size": "Hi-Vis Orange",
+        "price": 99.95,
+        "upc": "626053655693",
+        "image": "https://media.surewerx.com/asset/6d5eeb23-eef4-4da0-8024-543b92b13a80/2000_JPG/22171.jpg"
+      },
+      {
+        "sku": "22177",
+        "color": "Red",
+        "size": "Red",
+        "price": 99.95,
+        "upc": "626053655730",
+        "image": "https://media.surewerx.com/asset/6d5eeb23-eef4-4da0-8024-543b92b13a80/2000_JPG/22171.jpg"
+      },
+      {
+        "sku": "22170",
+        "color": "White",
+        "size": "White",
+        "price": 99.95,
+        "upc": "626053655662",
+        "image": "https://media.surewerx.com/asset/6d5eeb23-eef4-4da0-8024-543b92b13a80/2000_JPG/22171.jpg"
+      },
+      {
+        "sku": "22171",
+        "color": "Yellow",
+        "size": "Yellow",
+        "price": 99.95,
+        "upc": "626053655679",
+        "image": "https://media.surewerx.com/asset/6d5eeb23-eef4-4da0-8024-543b92b13a80/2000_JPG/22171.jpg"
+      }
+    ]
+  },
+  {
+    "master": "XS2-500 Type 2 Safety Helmet – Non-Vented",
+    "series": "XS2-500 Type 2 Safety Helmet – Non-Vented",
+    "brand": "Jackson Safety",
+    "desc": "XS2-500 Type 2 Safety Helmet – Non-Vented",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 2",
+    "electricalClass": "E",
+    "reverseDonning": false,
+    "headStyle": "Safety Helmet",
+    "shellMaterial": "ABS",
+    "suspensionType": "6 pt.",
+    "suspensionAdj": "370 Speed Dial™ Ratcheting Headgear",
+    "slotted": true,
+    "headBandType": "Cushioned",
+    "energyAbsorption": "EPP",
+    "certifications": "ANSI Z89.1, Type 2, Class E|HT|LT|EN12492 4.2.4|Meets and Exceeds CSA Z94.1, Type 2, Class E",
+    "features": [
+      "Chin Strap",
+      "ComfortPad",
+      "Dielectric",
+      "Slotted",
+      "Anti-microbial Head Band",
+      "Anti-microbial Comfort Pad",
+      "Synthetic Leather Chin Strap",
+      "Headlamp/Headband Clips"
+    ],
+    "priceMin": 89.95,
+    "priceMax": 89.95,
+    "image": "https://media.surewerx.com/asset/de10211d-e340-45db-8786-c3024c2fc48e/2000_JPG/22101.jpg",
+    "colors": [
+      {
+        "sku": "22104",
+        "color": "Black",
+        "size": "Black",
+        "price": 89.95,
+        "upc": "626053655310",
+        "image": "https://media.surewerx.com/asset/de10211d-e340-45db-8786-c3024c2fc48e/2000_JPG/22101.jpg"
+      },
+      {
+        "sku": "22102",
+        "color": "Blue",
+        "size": "Blue",
+        "price": 89.95,
+        "upc": "626053655297",
+        "image": "https://media.surewerx.com/asset/de10211d-e340-45db-8786-c3024c2fc48e/2000_JPG/22101.jpg"
+      },
+      {
+        "sku": "22108",
+        "color": "Gray",
+        "size": "Gray",
+        "price": 89.95,
+        "upc": "626053655358",
+        "image": "https://media.surewerx.com/asset/de10211d-e340-45db-8786-c3024c2fc48e/2000_JPG/22101.jpg"
+      },
+      {
+        "sku": "22109",
+        "color": "Green",
+        "size": "Green",
+        "price": 89.95,
+        "upc": "626053655365",
+        "image": "https://media.surewerx.com/asset/de10211d-e340-45db-8786-c3024c2fc48e/2000_JPG/22101.jpg"
+      },
+      {
+        "sku": "22106",
+        "color": "Hi-Vis Green",
+        "size": "Hi-Vis Green",
+        "price": 89.95,
+        "upc": "626053655334",
+        "image": "https://media.surewerx.com/asset/de10211d-e340-45db-8786-c3024c2fc48e/2000_JPG/22101.jpg"
+      },
+      {
+        "sku": "22103",
+        "color": "Hi-Vis Orange",
+        "size": "Hi-Vis Orange",
+        "price": 89.95,
+        "upc": "626053655303",
+        "image": "https://media.surewerx.com/asset/de10211d-e340-45db-8786-c3024c2fc48e/2000_JPG/22101.jpg"
+      },
+      {
+        "sku": "22107",
+        "color": "Red",
+        "size": "Red",
+        "price": 89.95,
+        "upc": "626053655341",
+        "image": "https://media.surewerx.com/asset/de10211d-e340-45db-8786-c3024c2fc48e/2000_JPG/22101.jpg"
+      },
+      {
+        "sku": "22105",
+        "color": "Tan",
+        "size": "Tan",
+        "price": 89.95,
+        "upc": "626053655327",
+        "image": "https://media.surewerx.com/asset/de10211d-e340-45db-8786-c3024c2fc48e/2000_JPG/22101.jpg"
+      },
+      {
+        "sku": "22100",
+        "color": "White",
+        "size": "White",
+        "price": 89.95,
+        "upc": "626053655273",
+        "image": "https://media.surewerx.com/asset/de10211d-e340-45db-8786-c3024c2fc48e/2000_JPG/22101.jpg"
+      },
+      {
+        "sku": "22101",
+        "color": "Yellow",
+        "size": "Yellow",
+        "price": 89.95,
+        "upc": "626053655280",
+        "image": "https://media.surewerx.com/asset/de10211d-e340-45db-8786-c3024c2fc48e/2000_JPG/22101.jpg"
+      }
+    ]
+  },
+  {
+    "master": "XS2-500 Type 2 Safety Helmet – Vented",
+    "series": "XS2-500 Type 2 Safety Helmet – Vented",
+    "brand": "Jackson Safety",
+    "desc": "XS2-500 Type 2 Safety Helmet – Vented",
+    "kind": "series",
+    "isAccessory": false,
+    "impactType": "TYPE 2",
+    "electricalClass": "C",
+    "reverseDonning": false,
+    "headStyle": "Safety Helmet",
+    "shellMaterial": "ABS",
+    "suspensionType": "6 pt.",
+    "suspensionAdj": "370 Speed Dial™ Ratcheting Headgear",
+    "slotted": true,
+    "headBandType": "Cushioned",
+    "energyAbsorption": "EPP",
+    "certifications": "ANSI Z89.1, Type 2, Class C|HT|LT|EN12492 4.2.4|Meets and Exceeds CSA Z94.1, Type 2, Class C",
+    "features": [
+      "Chin Strap",
+      "ComfortPad",
+      "Slotted",
+      "Anti-microbial Head Band",
+      "Anti-microbial Comfort Pad",
+      "Synthetic Leather Chin Strap",
+      "Headlamp/Headband Clips"
+    ],
+    "priceMin": 89.95,
+    "priceMax": 89.95,
+    "image": "https://media.surewerx.com/asset/8b1f165f-400d-4269-bf1f-c63f6e09afa3/2000_JPG/22121.jpg",
+    "colors": [
+      {
+        "sku": "22124",
+        "color": "Black",
+        "size": "Black",
+        "price": 89.95,
+        "upc": "626053655440",
+        "image": "https://media.surewerx.com/asset/8b1f165f-400d-4269-bf1f-c63f6e09afa3/2000_JPG/22121.jpg"
+      },
+      {
+        "sku": "22122",
+        "color": "Blue",
+        "size": "Blue",
+        "price": 89.95,
+        "upc": "626053655426",
+        "image": "https://media.surewerx.com/asset/8b1f165f-400d-4269-bf1f-c63f6e09afa3/2000_JPG/22121.jpg"
+      },
+      {
+        "sku": "22128",
+        "color": "Gray",
+        "size": "Gray",
+        "price": 89.95,
+        "upc": "626053655488",
+        "image": "https://media.surewerx.com/asset/8b1f165f-400d-4269-bf1f-c63f6e09afa3/2000_JPG/22121.jpg"
+      },
+      {
+        "sku": "22129",
+        "color": "Green",
+        "size": "Green",
+        "price": 89.95,
+        "upc": "626053655495",
+        "image": "https://media.surewerx.com/asset/8b1f165f-400d-4269-bf1f-c63f6e09afa3/2000_JPG/22121.jpg"
+      },
+      {
+        "sku": "22126",
+        "color": "Hi-Vis Green",
+        "size": "Hi-Vis Green",
+        "price": 89.95,
+        "upc": "626053655464",
+        "image": "https://media.surewerx.com/asset/8b1f165f-400d-4269-bf1f-c63f6e09afa3/2000_JPG/22121.jpg"
+      },
+      {
+        "sku": "22123",
+        "color": "Hi-Vis Orange",
+        "size": "Hi-Vis Orange",
+        "price": 89.95,
+        "upc": "626053655433",
+        "image": "https://media.surewerx.com/asset/8b1f165f-400d-4269-bf1f-c63f6e09afa3/2000_JPG/22121.jpg"
+      },
+      {
+        "sku": "22127",
+        "color": "Red",
+        "size": "Red",
+        "price": 89.95,
+        "upc": "626053655471",
+        "image": "https://media.surewerx.com/asset/8b1f165f-400d-4269-bf1f-c63f6e09afa3/2000_JPG/22121.jpg"
+      },
+      {
+        "sku": "22125",
+        "color": "Tan",
+        "size": "Tan",
+        "price": 89.95,
+        "upc": "626053655457",
+        "image": "https://media.surewerx.com/asset/8b1f165f-400d-4269-bf1f-c63f6e09afa3/2000_JPG/22121.jpg"
+      },
+      {
+        "sku": "22120",
+        "color": "White",
+        "size": "White",
+        "price": 89.95,
+        "upc": "626053655402",
+        "image": "https://media.surewerx.com/asset/8b1f165f-400d-4269-bf1f-c63f6e09afa3/2000_JPG/22121.jpg"
+      },
+      {
+        "sku": "22121",
+        "color": "Yellow",
+        "size": "Yellow",
+        "price": 89.95,
+        "upc": "626053655419",
+        "image": "https://media.surewerx.com/asset/8b1f165f-400d-4269-bf1f-c63f6e09afa3/2000_JPG/22121.jpg"
+      }
+    ]
+  }
+]
