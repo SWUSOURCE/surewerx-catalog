@@ -1376,6 +1376,18 @@ async function loadFootwearData() {
   try {
     const res = await fetch('/data/footwear.json');
     const data = await res.json();
+    // Narrowest to widest, so the width dropdown reads N, B, D, W, E, EE, 2E, 4E, 6E.
+    // M (medium) sits with D. Any code not listed goes last, alphabetically.
+    const WIDTH_ORDER = ['N', 'B', 'D', 'M', 'W', 'E', 'EE', '2E', '4E', '6E'];
+    const widthRank = (code) => {
+      const i = WIDTH_ORDER.indexOf(String(code ?? '').trim().toUpperCase());
+      return i === -1 ? 99 : i;
+    };
+    for (const p of data) {
+      if (Array.isArray(p.widths)) {
+        p.widths.sort((a, b) => widthRank(a.code) - widthRank(b.code) || String(a.code).localeCompare(String(b.code)));
+      }
+    }
     FOOTWEAR_PRODUCTS.push(...data);
   } catch (err) {
     console.error('Failed to load footwear catalog:', err);
