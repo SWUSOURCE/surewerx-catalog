@@ -16128,7 +16128,7 @@
     "baseColor": "BLACK",
     "gender": "MEN'S",
     "sizeRange": "D, 2E, 4E (7-12, 13, 14, 15, 16, 17, 18)",
-    "bigWide": "NO",
+    "bigWide": "YES",
     "toe": "COMPOSITE",
     "ehsd": "EH",
     "puncture": false,
