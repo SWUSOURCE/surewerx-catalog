@@ -16136,7 +16136,7 @@
     "insulated": false,
     "metGuard": "NO",
     "heatResist": false,
-    "slipResist": false,
+    "slipResist": true,
     "secFriendly": false,
     "noMetal": false,
     "definedHeel": "NO",
