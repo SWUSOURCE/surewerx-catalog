@@ -641,6 +641,55 @@ function fmtPrice(n) { return n == null ? '—' : '$' + Number(n).toFixed(2); }
 
 function activeCategory() { return CATEGORIES[state.cat]; }
 
+/* ---------- Size ordering (smallest to largest) ----------
+ * Handles plain numbers (7, 10.5), apparel letters (2XS ... 5XL, combos like S/M or 2/3XL),
+ * insole codes (M6/W8, M1011/W1213, W567 ...), and one-size values (O/S, Fit-All) which go last. */
+function sizeKey(label) {
+  const t = String(label ?? '').trim().toUpperCase().replace(/\s+/g, '');
+  if (/^\d+(\.\d+)?$/.test(t)) return [0, parseFloat(t)];
+  // Insole codes: M = men's, W = women's (women's size is men's + 2). Digits run together for ranges.
+  const ins = t.match(/^(?:M(\d+))?\/?(?:W(\d+))?$/);
+  if (ins && (ins[1] || ins[2])) {
+    const parse = (d) => {
+      if (d.length === 1) return [+d, false];
+      if (d.length === 2) return (+d >= 10 && +d <= 15) ? [+d, false] : [+d[0], true];
+      if (d.length === 3) return [+d[0], true];
+      return [+d.slice(0, 2), true];
+    };
+    if (ins[1]) { const [n, range] = parse(ins[1]); return [0, n + (range ? 0.5 : 0)]; }
+    const [n, range] = parse(ins[2]); return [0, n - 2 + (range ? 0.5 : 0)];
+  }
+  // Apparel letters.
+  const one = (tok) => {
+    const m = tok.match(/^(\d)?(XS|XL|S|M|L)$/) || tok.match(/^(X{2,3})(S|L)$/);
+    if (!m) return null;
+    if (m[1] && m[1].startsWith('X')) { const n = m[1].length + 0; return m[2] === 'S' ? 3 - n + 0 : 6 + n - 1; }
+    const n = m[1] ? +m[1] : 1;
+    const base = { XS: 2, S: 3, M: 4, L: 5, XL: 6 }[m[2]];
+    if (m[2] === 'XS') return 3 - n;          // XS=2, 2XS=1, 3XS=0
+    if (m[2] === 'XL') return 5 + n;          // XL=6, 2XL=7, 3XL=8 ...
+    return base;
+  };
+  if (/^(O\/S|OS|ONESIZE|FIT-?ALL|UNIVERSAL)$/.test(t)) return [3, 0];
+  const parts = t.split('/');
+  const vals = parts.map((p, i) => {
+    let v = one(p);
+    if (v === null && /^\d$/.test(p) && parts[i + 1]) {      // "2/3XL": borrow the suffix from the last part
+      const suffix = parts[parts.length - 1].replace(/^\d/, '');
+      v = one(p + suffix);
+    }
+    return v;
+  });
+  if (vals.length && vals.every(v => v !== null)) return [2, vals.reduce((a, b) => a + b, 0) / vals.length];
+  return [4, 0, t];
+}
+function compareSizes(a, b) {
+  const ka = sizeKey(a), kb = sizeKey(b);
+  return (ka[0] - kb[0]) || (ka[1] - kb[1]) || String(a).localeCompare(String(b), undefined, { numeric: true });
+}
+function bySizeLabel(a, b) { return compareSizes(a.size, b.size); }
+function smallestSize(list) { return list && list.length ? [...list].sort(bySizeLabel)[0] : null; }
+
 /* ---------- Widths / sizes helpers ---------- */
 function allSizesOf(p, cfg) {
   if (cfg.hasWidths) return p.widths.flatMap(w => w.sizes);
@@ -654,12 +703,12 @@ function getSelection(p, cfg) {
   if (cfg.hasWidths) {
     if (!sel || !p.widths.find(w => w.code === sel.width)) {
       const w0 = p.widths[0];
-      sel = { width: w0.code, size: w0.sizes[0] ? w0.sizes[0].sku : null };
+      sel = { width: w0.code, size: smallestSize(w0.sizes)?.sku ?? null };
       selection.set(key, sel);
     }
   } else {
     if (!sel) {
-      sel = { size: p.sizes[0] ? p.sizes[0].sku : null };
+      sel = { size: smallestSize(p.sizes)?.sku ?? null };
       selection.set(key, sel);
     }
   }
@@ -790,7 +839,7 @@ function cardTemplate(p) {
          </select>`
       : `<div class="static-field">${escapeHtml(p.widths[0].code)}</div>`;
     const activeWidth = p.widths.find(w => w.code === sel.width) || p.widths[0];
-    const sortedSizes = [...activeWidth.sizes].sort((a, b) => (parseFloat(a.size) || 0) - (parseFloat(b.size) || 0));
+    const sortedSizes = [...activeWidth.sizes].sort(bySizeLabel);
     const sizeField = sortedSizes.length > 1
       ? `<select class="size-select" data-master="${escapeHtml(p.master)}">
            ${sortedSizes.map(s => `<option value="${escapeHtml(s.sku)}" ${s.sku === sel.size ? 'selected' : ''}>${escapeHtml(s.size)}</option>`).join('')}
@@ -801,7 +850,7 @@ function cardTemplate(p) {
         <div class="config-field"><label>Size</label>${sizeField}</div>
       </div></div>`;
   } else if (p.sizes && p.sizes.length > 1) {
-    const sortedSizes = [...p.sizes].sort((a, b) => (parseFloat(a.size) || 0) - (parseFloat(b.size) || 0) || String(a.size).localeCompare(String(b.size)));
+    const sortedSizes = [...p.sizes].sort(bySizeLabel);
     const sizeField = `<select class="size-select" data-master="${escapeHtml(p.master)}">
         ${sortedSizes.map(s => `<option value="${escapeHtml(s.sku)}" ${s.sku === sel.size ? 'selected' : ''}>${escapeHtml(s.size)}</option>`).join('')}
       </select>`;
@@ -1087,7 +1136,7 @@ function renderGrid() {
     sel.addEventListener('change', e => {
       const p = cfg.data.find(pr => pr.master === sel.dataset.master);
       const w = p.widths.find(w => w.code === e.target.value);
-      selection.set(selKey(p), { width: w.code, size: w.sizes[0] ? w.sizes[0].sku : null });
+      selection.set(selKey(p), { width: w.code, size: smallestSize(w.sizes)?.sku ?? null });
       renderGrid();
     });
   });
