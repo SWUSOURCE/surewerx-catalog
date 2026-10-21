@@ -23371,5 +23371,225 @@
         ]
       }
     ]
+  },
+  {
+    "master": "AW4000",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK AMP - MEN'S SOFT TOE EH SR SF - BUNGEE",
+    "color": "BUNGEE",
+    "baseColor": "BROWN",
+    "gender": "MEN'S",
+    "sizeRange": "7-11,12,13,14",
+    "bigWide": "YES",
+    "toe": "SOFT",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "ATHLETIC LOW",
+    "priceMin": 104.99,
+    "priceMax": 104.99,
+    "image": "https://media.surewerx.com/asset/e2057070-86c3-4cb6-a1f8-c1afd023fffe/PNG/AW4000_RS.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW4000-10.5D",
+            "size": "10.5",
+            "upc": "198311035580",
+            "price": 104.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4000-10D",
+            "size": "10",
+            "upc": "198311035573",
+            "price": 104.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4000-11.5D",
+            "size": "11.5",
+            "upc": "198311035603",
+            "price": 104.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4000-11D",
+            "size": "11",
+            "upc": "198311035597",
+            "price": 104.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4000-12D",
+            "size": "12",
+            "upc": "198311035610",
+            "price": 104.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4000-13D",
+            "size": "13",
+            "upc": "198311035627",
+            "price": 104.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4000-14D",
+            "size": "14",
+            "upc": "198311035634",
+            "price": 104.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4000-7.5D",
+            "size": "7.5",
+            "upc": "198311035528",
+            "price": 104.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4000-7D",
+            "size": "7",
+            "upc": "198311035511",
+            "price": 104.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4000-8.5D",
+            "size": "8.5",
+            "upc": "198311035542",
+            "price": 104.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4000-8D",
+            "size": "8",
+            "upc": "198311035535",
+            "price": 104.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4000-9.5D",
+            "size": "9.5",
+            "upc": "198311035566",
+            "price": 104.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4000-9D",
+            "size": "9",
+            "upc": "198311035559",
+            "price": 104.99,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW4000-10.5EE",
+            "size": "10.5",
+            "upc": "198311035719",
+            "price": 104.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4000-10EE",
+            "size": "10",
+            "upc": "198311035702",
+            "price": 104.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4000-11.5EE",
+            "size": "11.5",
+            "upc": "198311035733",
+            "price": 104.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4000-11EE",
+            "size": "11",
+            "upc": "198311035726",
+            "price": 104.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4000-12EE",
+            "size": "12",
+            "upc": "198311035740",
+            "price": 104.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4000-13EE",
+            "size": "13",
+            "upc": "198311035757",
+            "price": 104.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4000-14EE",
+            "size": "14",
+            "upc": "198311035764",
+            "price": 104.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4000-7.5EE",
+            "size": "7.5",
+            "upc": "198311035658",
+            "price": 104.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4000-7EE",
+            "size": "7",
+            "upc": "198311035641",
+            "price": 104.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4000-8.5EE",
+            "size": "8.5",
+            "upc": "198311035672",
+            "price": 104.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4000-8EE",
+            "size": "8",
+            "upc": "198311035665",
+            "price": 104.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4000-9.5EE",
+            "size": "9.5",
+            "upc": "198311035696",
+            "price": 104.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4000-9EE",
+            "size": "9",
+            "upc": "198311035689",
+            "price": 104.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
   }
 ]
