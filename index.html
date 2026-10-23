@@ -466,7 +466,7 @@ const CATEGORIES = {
       if (p.noMetal) b.push({ txt: 'NO METAL', on: false });
       return b;
     },
-    metaOf: p => [norm(p.gender), norm(p.toe) ? norm(p.toe) + ' Toe' : null, norm(p.silhouette)].filter(Boolean).join(' · '),
+    metaOf: p => [norm(p.gender), norm(p.toe) ? norm(p.toe) + ' TOE' : null, norm(p.silhouette)].filter(Boolean).join(' · '),
     csvHeaders: ['SKU', 'Master Model', 'Brand', 'Description', 'Width', 'Size', 'UPC', 'MSRP'],
     csvRow: it => [it.sku, it.master, it.brand, it.desc, it.width || '', it.size, it.upc || '', it.price != null ? it.price : ''],
   },
