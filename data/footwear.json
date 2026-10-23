@@ -2,28 +2,28 @@
   {
     "master": "AW5050",
     "brand": "AIRWALK",
-    "desc": "AIRWALK CAMINO INT MET - WOMEN'S CT EH",
-    "color": "DARK COFFEE/BLACK",
-    "baseColor": "BROWN",
-    "gender": "WOMEN'S",
-    "sizeRange": "B, D (6-10, 11)",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
     "bigWide": "NO",
     "toe": "COMPOSITE",
     "ehsd": "EH",
     "puncture": false,
     "waterproof": false,
     "insulated": false,
-    "metGuard": "Internal",
+    "metGuard": "NO",
     "heatResist": false,
     "slipResist": true,
     "secFriendly": true,
     "noMetal": true,
     "definedHeel": "NO",
-    "upper": "Leather",
+    "upper": "CANVAS",
     "silhouette": "Lifestyle Low",
-    "priceMin": 129.99,
+    "priceMin": 109.99,
     "priceMax": 129.99,
-    "image": "https://media.surewerx.com/asset/f960bd58-70c5-4aed-a685-958eabdb2ce1/AW5050_RS.jpg",
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f997",
     "widths": [
       {
         "code": "B",
@@ -172,6 +172,18 @@
             "upc": "198311002476",
             "price": 129.99,
             "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW5030-10.5EE",
+            "size": "10.5",
+            "upc": "810151182421",
+            "price": 109.99,
+            "width": "EE"
           }
         ]
       }
@@ -10271,28 +10283,28 @@
   {
     "master": "A8214",
     "brand": "AVENGER",
-    "desc": "AVENGER FRAMER MAX WELLINGTON - WMN'S CT EH",
+    "desc": "AVENGER FRAMER MAX PR MID - WMN'S CT EH",
     "color": "BROWN",
     "baseColor": "BROWN",
     "gender": "WOMEN'S",
-    "sizeRange": "B, D (5-10, 11)",
+    "sizeRange": "B, D (6-10, 11)",
     "bigWide": "NO",
     "toe": "COMPOSITE",
     "ehsd": "EH",
-    "puncture": false,
-    "waterproof": false,
+    "puncture": true,
+    "waterproof": true,
     "insulated": false,
     "metGuard": "NO",
     "heatResist": false,
-    "slipResist": false,
-    "secFriendly": false,
-    "noMetal": false,
-    "definedHeel": "NO",
-    "upper": "Leather",
-    "silhouette": "Wellington",
-    "priceMin": 159.99,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "LEATHER",
+    "silhouette": "Mid Boot",
+    "priceMin": 0,
     "priceMax": 159.99,
-    "image": "https://media.surewerx.com/asset/620c2c28-c914-4d27-93d2-061f476201f2/2000_JPG/A8214_RS.jpg",
+    "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
     "widths": [
       {
         "code": "B",
@@ -10379,6 +10391,13 @@
             "size": "11",
             "upc": "198311022757",
             "price": 159.99,
+            "width": "B"
+          },
+          {
+            "sku": "A8210-5.5B",
+            "size": "5.5",
+            "upc": "198311057186",
+            "price": 0,
             "width": "B"
           }
         ]
@@ -23587,6 +23606,4764 @@
             "upc": "198311035689",
             "price": 104.99,
             "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW4001",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK AMP - MEN'S SOFT TOE EH SR SF - BLACK/FORGED IRON",
+    "color": "Black/Forged Iron",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D,EE (7-12,13,14)",
+    "bigWide": "NO",
+    "toe": "SOFT",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Athletic Low",
+    "priceMin": 104.99,
+    "priceMax": 104.99,
+    "image": "https://media.surewerx.com/asset/5cffd3d5-bdeb-479f-8622-de139150084b/PNG/AW4001_RS.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW4001-10.5D",
+            "size": "10.5",
+            "upc": "198311035849",
+            "price": 104.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4001-10D",
+            "size": "10",
+            "upc": "198311035832",
+            "price": 104.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4001-11.5D",
+            "size": "11.5",
+            "upc": "198311035863",
+            "price": 104.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4001-11D",
+            "size": "11",
+            "upc": "198311035856",
+            "price": 104.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4001-12D",
+            "size": "12",
+            "upc": "198311035870",
+            "price": 104.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4001-13D",
+            "size": "13",
+            "upc": "198311035887",
+            "price": 104.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4001-14D",
+            "size": "14",
+            "upc": "198311035894",
+            "price": 104.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4001-7.5D",
+            "size": "7.5",
+            "upc": "198311035788",
+            "price": 104.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4001-7D",
+            "size": "7",
+            "upc": "198311035771",
+            "price": 104.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4001-8.5D",
+            "size": "8.5",
+            "upc": "198311035801",
+            "price": 104.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4001-8D",
+            "size": "8",
+            "upc": "198311035795",
+            "price": 104.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4001-9.5D",
+            "size": "9.5",
+            "upc": "198311035825",
+            "price": 104.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4001-9D",
+            "size": "9",
+            "upc": "198311035818",
+            "price": 104.99,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW4001-10.5EE",
+            "size": "10.5",
+            "upc": "198311035979",
+            "price": 104.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4001-10EE",
+            "size": "10",
+            "upc": "198311035962",
+            "price": 104.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4001-11.5EE",
+            "size": "11.5",
+            "upc": "198311035993",
+            "price": 104.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4001-11EE",
+            "size": "11",
+            "upc": "198311035986",
+            "price": 104.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4001-12EE",
+            "size": "12",
+            "upc": "198311036006",
+            "price": 104.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4001-13EE",
+            "size": "13",
+            "upc": "198311036013",
+            "price": 104.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4001-14EE",
+            "size": "14",
+            "upc": "198311036020",
+            "price": 104.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4001-7.5EE",
+            "size": "7.5",
+            "upc": "198311035917",
+            "price": 104.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4001-7EE",
+            "size": "7",
+            "upc": "198311035900",
+            "price": 104.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4001-8.5EE",
+            "size": "8.5",
+            "upc": "198311035931",
+            "price": 104.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4001-8EE",
+            "size": "8",
+            "upc": "198311035924",
+            "price": 104.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4001-9.5EE",
+            "size": "9.5",
+            "upc": "198311035955",
+            "price": 104.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4001-9EE",
+            "size": "9",
+            "upc": "198311035948",
+            "price": 104.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW4004",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK AMP MID - MEN'S SOFT TOE EH SR SF - BLACK/FORGED IRON",
+    "color": "BLACK/FORGED IRON",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D,EE (7-12,13,14)",
+    "bigWide": "NO",
+    "toe": "SOFT",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Athletic Mid",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://media.surewerx.com/asset/6446f676-5973-414a-bd9d-bcf0da0aee28/PNG/AW4004_RS.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW4004-7D",
+            "size": "10.5",
+            "upc": "198311036365",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4004-8D",
+            "size": "10",
+            "upc": "198311036358",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4004-9D",
+            "size": "11.5",
+            "upc": "198311036389",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4004-10D",
+            "size": "11",
+            "upc": "198311036372",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4004-11D",
+            "size": "12",
+            "upc": "198311036396",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4004-12D",
+            "size": "13",
+            "upc": "198311036402",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4004-14D",
+            "size": "14",
+            "upc": "198311036419",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4004-7.5EE",
+            "size": "7.5",
+            "upc": "198311036303",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4004-8.5EE",
+            "size": "7",
+            "upc": "198311036297",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4004-9.5EE",
+            "size": "8.5",
+            "upc": "198311036327",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4004-10.5EE",
+            "size": "8",
+            "upc": "198311036310",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4004-11.5EE",
+            "size": "9.5",
+            "upc": "198311036341",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4004-13EE",
+            "size": "9",
+            "upc": "198311036334",
+            "price": 109.99,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW4004-7.5D",
+            "size": "10.5",
+            "upc": "198311036495",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4004-8.5D",
+            "size": "10",
+            "upc": "198311036488",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4004-9.5D",
+            "size": "11.5",
+            "upc": "198311036518",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4004-10.5D",
+            "size": "11",
+            "upc": "198311036501",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4004-11.5D",
+            "size": "12",
+            "upc": "198311036525",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4004-13D",
+            "size": "13",
+            "upc": "198311036532",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4004-7EE",
+            "size": "14",
+            "upc": "198311036549",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4004-8EE",
+            "size": "7.5",
+            "upc": "198311036433",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4004-9EE",
+            "size": "7",
+            "upc": "198311036426",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4004-10EE",
+            "size": "8.5",
+            "upc": "198311036457",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4004-11EE",
+            "size": "8",
+            "upc": "198311036440",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4004-12EE",
+            "size": "9.5",
+            "upc": "198311036471",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4004-14EE",
+            "size": "9",
+            "upc": "198311036464",
+            "price": 109.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW4024",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK CRUZ LEATHER - MEN'S SOFT TOE EH",
+    "color": "TRIPLE BLACK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "SOFT",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "LEATHER",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 114.99,
+    "priceMax": 114.99,
+    "image": "https://media.surewerx.com/asset/7e432908-34d4-4ca6-913e-f1132c96fcc0/PNG/AW4024_RS.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW4024-7D",
+            "size": "7",
+            "upc": "198311037812",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4024-7.5D",
+            "size": "7.5",
+            "upc": "198311037829",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4024-8D",
+            "size": "8",
+            "upc": "198311037836",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4024-8.5D",
+            "size": "8.5",
+            "upc": "198311037843",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4024-9D",
+            "size": "9",
+            "upc": "198311037850",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4024-9.5D",
+            "size": "9.5",
+            "upc": "198311037867",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4024-10D",
+            "size": "10",
+            "upc": "198311037874",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4024-10.5D",
+            "size": "10.5",
+            "upc": "198311037881",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4024-11D",
+            "size": "11",
+            "upc": "198311037898",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4024-11.5D",
+            "size": "11.5",
+            "upc": "198311037904",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4024-12D",
+            "size": "12",
+            "upc": "198311037911",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4024-13D",
+            "size": "13",
+            "upc": "198311037928",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4024-14D",
+            "size": "14",
+            "upc": "198311037935",
+            "price": 114.99,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW4024-7EE",
+            "size": "7",
+            "upc": "198311037942",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4024-7.5EE",
+            "size": "7.5",
+            "upc": "198311037959",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4024-8EE",
+            "size": "8",
+            "upc": "198311037966",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4024-8.5EE",
+            "size": "8.5",
+            "upc": "198311037973",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4024-9EE",
+            "size": "9",
+            "upc": "198311037980",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4024-9.5EE",
+            "size": "9.5",
+            "upc": "198311037997",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4024-10EE",
+            "size": "10",
+            "upc": "198311038000",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4024-10.5EE",
+            "size": "10.5",
+            "upc": "198311038017",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4024-11EE",
+            "size": "11",
+            "upc": "198311038024",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4024-11.5EE",
+            "size": "11.5",
+            "upc": "198311038031",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4024-12EE",
+            "size": "12",
+            "upc": "198311038048",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4024-13EE",
+            "size": "13",
+            "upc": "198311038055",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4024-14EE",
+            "size": "14",
+            "upc": "198311038062",
+            "price": 114.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW4026",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK CRUZ LEATHER - MEN'S SOFT TOE EH",
+    "color": "BUNGEE",
+    "baseColor": "BROWN",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "SOFT",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "LEATHER",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 114.99,
+    "priceMax": 114.99,
+    "image": "https://media.surewerx.com/asset/5f1b33c4-e63f-4280-a6d3-52553dc48598/PNG/AW4026_RS.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW4026-7D",
+            "size": "7",
+            "upc": "198311038338",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4026-7.5D",
+            "size": "7.5",
+            "upc": "198311038345",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4026-8D",
+            "size": "8",
+            "upc": "198311038352",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4026-8.5D",
+            "size": "8.5",
+            "upc": "198311038369",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4026-9D",
+            "size": "9",
+            "upc": "198311038376",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4026-9.5D",
+            "size": "9.5",
+            "upc": "198311038383",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4026-10D",
+            "size": "10",
+            "upc": "198311038390",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4026-10.5D",
+            "size": "10.5",
+            "upc": "198311038406",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4026-11D",
+            "size": "11",
+            "upc": "198311038413",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4026-11.5D",
+            "size": "11.5",
+            "upc": "198311038420",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4026-12D",
+            "size": "12",
+            "upc": "198311038437",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4026-13D",
+            "size": "13",
+            "upc": "198311038444",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW4026-14D",
+            "size": "14",
+            "upc": "198311038451",
+            "price": 114.99,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW4026-7EE",
+            "size": "7",
+            "upc": "198311038468",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4026-7.5EE",
+            "size": "7.5",
+            "upc": "198311038475",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4026-8EE",
+            "size": "8",
+            "upc": "198311038482",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4026-8.5EE",
+            "size": "8.5",
+            "upc": "198311038499",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4026-9EE",
+            "size": "9",
+            "upc": "198311038505",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4026-9.5EE",
+            "size": "9.5",
+            "upc": "198311038512",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4026-10EE",
+            "size": "10",
+            "upc": "198311038529",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4026-10.5EE",
+            "size": "10.5",
+            "upc": "198311038536",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4026-11EE",
+            "size": "11",
+            "upc": "198311038543",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4026-11.5EE",
+            "size": "11.5",
+            "upc": "198311038550",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4026-12EE",
+            "size": "12",
+            "upc": "198311038567",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4026-13EE",
+            "size": "13",
+            "upc": "198311038574",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW4026-14EE",
+            "size": "14",
+            "upc": "198311038581",
+            "price": 114.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5030",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f977",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW5030-7D",
+            "size": "7",
+            "upc": "810151182223",
+            "price": 109.99,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5031",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f978",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW5030-7.5D",
+            "size": "7.5",
+            "upc": "810151182230",
+            "price": 109.99,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5032",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f979",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW5030-8D",
+            "size": "8",
+            "upc": "810151182247",
+            "price": 109.99,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5033",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f980",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW5030-8.5D",
+            "size": "8.5",
+            "upc": "810151182254",
+            "price": 109.99,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5034",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f981",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW5030-9D",
+            "size": "9",
+            "upc": "810151182261",
+            "price": 109.99,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5035",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f982",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW5030-9.5D",
+            "size": "9.5",
+            "upc": "810151182278",
+            "price": 109.99,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5036",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f983",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW5030-10D",
+            "size": "10",
+            "upc": "810151182285",
+            "price": 109.99,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5037",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f984",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW5030-10.5D",
+            "size": "10.5",
+            "upc": "810151182292",
+            "price": 109.99,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5038",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f985",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW5030-11D",
+            "size": "11",
+            "upc": "810151182308",
+            "price": 109.99,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5039",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f986",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW5030-11.5D",
+            "size": "11.5",
+            "upc": "810151182315",
+            "price": 109.99,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5040",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f987",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW5030-12D",
+            "size": "12",
+            "upc": "810151182322",
+            "price": 109.99,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5041",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f988",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW5030-13D",
+            "size": "13",
+            "upc": "810151182339",
+            "price": 109.99,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5042",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f989",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW5030-14D",
+            "size": "14",
+            "upc": "810151182346",
+            "price": 109.99,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5043",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f990",
+    "widths": [
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW5030-7EE",
+            "size": "7",
+            "upc": "810151182353",
+            "price": 109.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5044",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f991",
+    "widths": [
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW5030-7.5EE",
+            "size": "7.5",
+            "upc": "810151182360",
+            "price": 109.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5045",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f992",
+    "widths": [
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW5030-8EE",
+            "size": "8",
+            "upc": "810151182377",
+            "price": 109.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5046",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f993",
+    "widths": [
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW5030-8.5EE",
+            "size": "8.5",
+            "upc": "810151182384",
+            "price": 109.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5047",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f994",
+    "widths": [
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW5030-9EE",
+            "size": "9",
+            "upc": "810151182391",
+            "price": 109.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5048",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f995",
+    "widths": [
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW5030-9.5EE",
+            "size": "9.5",
+            "upc": "810151182407",
+            "price": 109.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5049",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f996",
+    "widths": [
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW5030-10EE",
+            "size": "10",
+            "upc": "810151182414",
+            "price": 109.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5051",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f998",
+    "widths": [
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW5030-11EE",
+            "size": "11",
+            "upc": "810151182438",
+            "price": 109.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5052",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f999",
+    "widths": [
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW5030-11.5EE",
+            "size": "11.5",
+            "upc": "810151182445",
+            "price": 109.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5053",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f1000",
+    "widths": [
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW5030-12EE",
+            "size": "12",
+            "upc": "810151182452",
+            "price": 109.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5054",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f1001",
+    "widths": [
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW5030-13EE",
+            "size": "13",
+            "upc": "810151182469",
+            "price": 109.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW5055",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f1002",
+    "widths": [
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW5030-14EE",
+            "size": "14",
+            "upc": "810151182476",
+            "price": 109.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW7001",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE SLIP-ON CANVAS - MEN'S CT EH",
+    "color": "MILITARY OLIVE /CHOCOLATE BROWN",
+    "baseColor": "BROWN",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Slip-on",
+    "priceMin": 99.99,
+    "priceMax": 99.99,
+    "image": "https://media.surewerx.com/asset/40c4ba2f-2417-4456-94e2-054cb37b7cc9/PNG/AW7001_RS.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW7001-7D",
+            "size": "7",
+            "upc": "198311000120",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7001-7.5D",
+            "size": "7.5",
+            "upc": "198311000137",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7001-8D",
+            "size": "8",
+            "upc": "198311000144",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7001-8.5D",
+            "size": "8.5",
+            "upc": "198311000151",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7001-9D",
+            "size": "9",
+            "upc": "198311000168",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7001-9.5D",
+            "size": "9.5",
+            "upc": "198311000175",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7001-10D",
+            "size": "10",
+            "upc": "198311000182",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7001-10.5D",
+            "size": "10.5",
+            "upc": "198311000199",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7001-11D",
+            "size": "11",
+            "upc": "198311000205",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7001-11.5D",
+            "size": "11.5",
+            "upc": "198311000212",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7001-12D",
+            "size": "12",
+            "upc": "198311000229",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7001-13D",
+            "size": "13",
+            "upc": "198311000236",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7001-14D",
+            "size": "14",
+            "upc": "198311000243",
+            "price": 99.99,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW7001-7EE",
+            "size": "7",
+            "upc": "198311000250",
+            "price": 99.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7001-7.5EE",
+            "size": "7.5",
+            "upc": "198311000267",
+            "price": 99.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7001-8EE",
+            "size": "8",
+            "upc": "198311000274",
+            "price": 99.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7001-8.5EE",
+            "size": "8.5",
+            "upc": "198311000281",
+            "price": 99.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7001-9EE",
+            "size": "9",
+            "upc": "198311000298",
+            "price": 99.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7001-9.5EE",
+            "size": "9.5",
+            "upc": "198311000304",
+            "price": 99.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7001-10EE",
+            "size": "10",
+            "upc": "198311000311",
+            "price": 99.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7001-10.5EE",
+            "size": "10.5",
+            "upc": "198311000328",
+            "price": 99.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7001-11EE",
+            "size": "11",
+            "upc": "198311000335",
+            "price": 99.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7001-11.5EE",
+            "size": "11.5",
+            "upc": "198311000342",
+            "price": 99.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7001-12EE",
+            "size": "12",
+            "upc": "198311000359",
+            "price": 99.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7001-13EE",
+            "size": "13",
+            "upc": "198311000366",
+            "price": 99.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7001-14EE",
+            "size": "14",
+            "upc": "198311000373",
+            "price": 99.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW7002",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE SLIP-ON LEATHER - MEN'S CT EH",
+    "color": "BUFFALO CRAZY HORSE/GUM",
+    "baseColor": "BROWN",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "LEATHER",
+    "silhouette": "Slip-on",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://media.surewerx.com/asset/63803d7b-2719-4f67-90a4-991fbc8cdc57/PNG/AW7002_RS.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW7002-7D",
+            "size": "7",
+            "upc": "198311001301",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7002-7.5D",
+            "size": "7.5",
+            "upc": "198311001318",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7002-8D",
+            "size": "8",
+            "upc": "198311001325",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7002-8.5D",
+            "size": "8.5",
+            "upc": "198311001332",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7002-9D",
+            "size": "9",
+            "upc": "198311001349",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7002-9.5D",
+            "size": "9.5",
+            "upc": "198311001356",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7002-10D",
+            "size": "10",
+            "upc": "198311001363",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7002-10.5D",
+            "size": "10.5",
+            "upc": "198311001370",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7002-11D",
+            "size": "11",
+            "upc": "198311001387",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7002-11.5D",
+            "size": "11.5",
+            "upc": "198311001394",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7002-12D",
+            "size": "12",
+            "upc": "198311001400",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7002-13D",
+            "size": "13",
+            "upc": "198311001417",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7002-14D",
+            "size": "14",
+            "upc": "198311001424",
+            "price": 109.99,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW7002-7EE",
+            "size": "7",
+            "upc": "198311001431",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7002-7.5EE",
+            "size": "7.5",
+            "upc": "198311001448",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7002-8EE",
+            "size": "8",
+            "upc": "198311001455",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7002-8.5EE",
+            "size": "8.5",
+            "upc": "198311001462",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7002-9EE",
+            "size": "9",
+            "upc": "198311001479",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7002-9.5EE",
+            "size": "9.5",
+            "upc": "198311001486",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7002-10EE",
+            "size": "10",
+            "upc": "198311001493",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7002-10.5EE",
+            "size": "10.5",
+            "upc": "198311001509",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7002-11EE",
+            "size": "11",
+            "upc": "198311001516",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7002-11.5EE",
+            "size": "11.5",
+            "upc": "198311001523",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7002-12EE",
+            "size": "12",
+            "upc": "198311001530",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7002-13EE",
+            "size": "13",
+            "upc": "198311001547",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7002-14EE",
+            "size": "14",
+            "upc": "198311001554",
+            "price": 109.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW7003",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE SLIP-ON CANVAS - MEN'S CT EH",
+    "color": "BLACK/CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Slip-on",
+    "priceMin": 99.99,
+    "priceMax": 99.99,
+    "image": "https://media.surewerx.com/asset/ae7a2dad-85e5-4b6f-b0a1-7ca74c422d08/PNG/AW7003_RS.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW7003-7D",
+            "size": "7",
+            "upc": "198311000380",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7003-7.5D",
+            "size": "7.5",
+            "upc": "198311000397",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7003-8D",
+            "size": "8",
+            "upc": "198311000403",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7003-8.5D",
+            "size": "8.5",
+            "upc": "198311000410",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7003-9D",
+            "size": "9",
+            "upc": "198311000427",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7003-9.5D",
+            "size": "9.5",
+            "upc": "198311000434",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7003-10D",
+            "size": "10",
+            "upc": "198311000441",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7003-10.5D",
+            "size": "10.5",
+            "upc": "198311000458",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7003-11D",
+            "size": "11",
+            "upc": "198311000465",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7003-11.5D",
+            "size": "11.5",
+            "upc": "198311000472",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7003-12D",
+            "size": "12",
+            "upc": "198311000489",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7003-13D",
+            "size": "13",
+            "upc": "198311000496",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7003-14D",
+            "size": "14",
+            "upc": "198311000502",
+            "price": 99.99,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW7003-7EE",
+            "size": "7",
+            "upc": "198311000519",
+            "price": 99.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7003-7.5EE",
+            "size": "7.5",
+            "upc": "198311000526",
+            "price": 99.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7003-8EE",
+            "size": "8",
+            "upc": "198311000533",
+            "price": 99.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7003-8.5EE",
+            "size": "8.5",
+            "upc": "198311000540",
+            "price": 99.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7003-9EE",
+            "size": "9",
+            "upc": "198311000557",
+            "price": 99.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7003-9.5EE",
+            "size": "9.5",
+            "upc": "198311000564",
+            "price": 99.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7003-10EE",
+            "size": "10",
+            "upc": "198311000571",
+            "price": 99.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7003-10.5EE",
+            "size": "10.5",
+            "upc": "198311000588",
+            "price": 99.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7003-11EE",
+            "size": "11",
+            "upc": "198311000595",
+            "price": 99.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7003-11.5EE",
+            "size": "11.5",
+            "upc": "198311000601",
+            "price": 99.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7003-12EE",
+            "size": "12",
+            "upc": "198311000618",
+            "price": 99.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7003-13EE",
+            "size": "13",
+            "upc": "198311000625",
+            "price": 99.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7003-14EE",
+            "size": "14",
+            "upc": "198311000632",
+            "price": 99.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW7011",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE SLIP-ON SUEDE - MEN'S CT SD35",
+    "color": "BLACK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "SD10",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "SUEDE",
+    "silhouette": "Slip-on",
+    "priceMin": 114.99,
+    "priceMax": 139.99,
+    "image": "https://media.surewerx.com/asset/aa07001c-7a77-48d0-b096-a976e740714e/PNG/AW7011_RS.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW7011-7D",
+            "size": "7",
+            "upc": "198311000847",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7011-7.5D",
+            "size": "7.5",
+            "upc": "198311000854",
+            "price": 115.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7011-8D",
+            "size": "8",
+            "upc": "198311000861",
+            "price": 116.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7011-8.5D",
+            "size": "8.5",
+            "upc": "198311000878",
+            "price": 117.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7011-9D",
+            "size": "9",
+            "upc": "198311000885",
+            "price": 118.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7011-9.5D",
+            "size": "9.5",
+            "upc": "198311000892",
+            "price": 119.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7011-10D",
+            "size": "10",
+            "upc": "198311000908",
+            "price": 120.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7011-10.5D",
+            "size": "10.5",
+            "upc": "198311000915",
+            "price": 121.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7011-11D",
+            "size": "11",
+            "upc": "198311000922",
+            "price": 122.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7011-11.5D",
+            "size": "11.5",
+            "upc": "198311000939",
+            "price": 123.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7011-12D",
+            "size": "12",
+            "upc": "198311000946",
+            "price": 124.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7011-13D",
+            "size": "13",
+            "upc": "198311000953",
+            "price": 125.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7011-14D",
+            "size": "14",
+            "upc": "198311000960",
+            "price": 126.99,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW7011-7EE",
+            "size": "7",
+            "upc": "198311000977",
+            "price": 127.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7011-7.5EE",
+            "size": "7.5",
+            "upc": "198311000984",
+            "price": 128.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7011-8EE",
+            "size": "8",
+            "upc": "198311000991",
+            "price": 129.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7011-8.5EE",
+            "size": "8.5",
+            "upc": "198311001004",
+            "price": 130.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7011-9EE",
+            "size": "9",
+            "upc": "198311001011",
+            "price": 131.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7011-9.5EE",
+            "size": "9.5",
+            "upc": "198311001028",
+            "price": 132.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7011-10EE",
+            "size": "10",
+            "upc": "198311001035",
+            "price": 133.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7011-10.5EE",
+            "size": "10.5",
+            "upc": "198311001042",
+            "price": 134.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7011-11EE",
+            "size": "11",
+            "upc": "198311001059",
+            "price": 135.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7011-11.5EE",
+            "size": "11.5",
+            "upc": "198311001066",
+            "price": 136.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7011-12EE",
+            "size": "12",
+            "upc": "198311001073",
+            "price": 137.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7011-13EE",
+            "size": "13",
+            "upc": "198311001080",
+            "price": 138.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7011-14EE",
+            "size": "14",
+            "upc": "198311001097",
+            "price": 139.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW7040",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE SLIP-ON CANVAS - WMN'S CT EH",
+    "color": "BLACK/CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Slip-on",
+    "priceMin": 99.99,
+    "priceMax": 99.99,
+    "image": "https://media.surewerx.com/asset/045563df-2a80-4b96-bee4-d1013f7c0df1/PNG/AW7040_RS.png",
+    "widths": [
+      {
+        "code": "B",
+        "sizes": [
+          {
+            "sku": "AW7040-6B",
+            "size": "6",
+            "upc": "198311000649",
+            "price": 99.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7040-6.5B",
+            "size": "6.5",
+            "upc": "198311000656",
+            "price": 99.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7040-7B",
+            "size": "7",
+            "upc": "198311000663",
+            "price": 99.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7040-7.5B",
+            "size": "7.5",
+            "upc": "198311000670",
+            "price": 99.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7040-8B",
+            "size": "8",
+            "upc": "198311000687",
+            "price": 99.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7040-8.5B",
+            "size": "8.5",
+            "upc": "198311000694",
+            "price": 99.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7040-9B",
+            "size": "9",
+            "upc": "198311000700",
+            "price": 99.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7040-9.5B",
+            "size": "9.5",
+            "upc": "198311000717",
+            "price": 99.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7040-10B",
+            "size": "10",
+            "upc": "198311000724",
+            "price": 99.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7040-11B",
+            "size": "11",
+            "upc": "198311000731",
+            "price": 99.99,
+            "width": "B"
+          }
+        ]
+      },
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW7040-6D",
+            "size": "6",
+            "upc": "198311000748",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7040-6.5D",
+            "size": "6.5",
+            "upc": "198311000755",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7040-7D",
+            "size": "7",
+            "upc": "198311000762",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7040-7.5D",
+            "size": "7.5",
+            "upc": "198311000779",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7040-8D",
+            "size": "8",
+            "upc": "198311000786",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7040-8.5D",
+            "size": "8.5",
+            "upc": "198311000793",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7040-9D",
+            "size": "9",
+            "upc": "198311000809",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7040-9.5D",
+            "size": "9.5",
+            "upc": "198311000816",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7040-10D",
+            "size": "10",
+            "upc": "198311000823",
+            "price": 99.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7040-11D",
+            "size": "11",
+            "upc": "198311000830",
+            "price": 99.99,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW7050",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE SLIP-ON LEATHER - WMN'S CT EH",
+    "color": "BLACK/TAWNY PORT",
+    "baseColor": "BLACK",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "LEATHER",
+    "silhouette": "Slip-on",
+    "priceMin": 109.99,
+    "priceMax": 128.99,
+    "image": "https://media.surewerx.com/asset/6f8bb53c-a484-4827-b89f-feac542306c4/PNG/AW7050_RS.png",
+    "widths": [
+      {
+        "code": "B",
+        "sizes": [
+          {
+            "sku": "AW7050-6B",
+            "size": "6",
+            "upc": "198311001561",
+            "price": 109.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7050-6.5B",
+            "size": "6.5",
+            "upc": "198311001578",
+            "price": 110.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7050-7B",
+            "size": "7",
+            "upc": "198311001585",
+            "price": 111.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7050-7.5B",
+            "size": "7.5",
+            "upc": "198311001592",
+            "price": 112.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7050-8B",
+            "size": "8",
+            "upc": "198311001608",
+            "price": 113.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7050-8.5B",
+            "size": "8.5",
+            "upc": "198311001615",
+            "price": 114.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7050-9B",
+            "size": "9",
+            "upc": "198311001622",
+            "price": 115.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7050-9.5B",
+            "size": "9.5",
+            "upc": "198311001639",
+            "price": 116.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7050-10B",
+            "size": "10",
+            "upc": "198311001646",
+            "price": 117.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7050-11B",
+            "size": "11",
+            "upc": "198311001653",
+            "price": 118.99,
+            "width": "B"
+          }
+        ]
+      },
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW7050-6D",
+            "size": "6",
+            "upc": "198311001660",
+            "price": 119.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7050-6.5D",
+            "size": "6.5",
+            "upc": "198311001677",
+            "price": 120.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7050-7D",
+            "size": "7",
+            "upc": "198311001684",
+            "price": 121.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7050-7.5D",
+            "size": "7.5",
+            "upc": "198311001691",
+            "price": 122.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7050-8D",
+            "size": "8",
+            "upc": "198311001707",
+            "price": 123.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7050-8.5D",
+            "size": "8.5",
+            "upc": "198311001714",
+            "price": 124.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7050-9D",
+            "size": "9",
+            "upc": "198311001721",
+            "price": 125.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7050-9.5D",
+            "size": "9.5",
+            "upc": "198311001738",
+            "price": 126.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7050-10D",
+            "size": "10",
+            "upc": "198311001745",
+            "price": 127.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7050-11D",
+            "size": "11",
+            "upc": "198311001752",
+            "price": 128.99,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW7060",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE SLIP-ON SUEDE - WMN'S CT SD29",
+    "color": "BLACK",
+    "baseColor": "BLACK",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "SD10",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "SUEDE",
+    "silhouette": "Slip-on",
+    "priceMin": 114.99,
+    "priceMax": 114.99,
+    "image": "https://media.surewerx.com/asset/49dc571f-ee27-4965-81de-9e6aa8247cc0/PNG/AW7060_RS.png",
+    "widths": [
+      {
+        "code": "B",
+        "sizes": [
+          {
+            "sku": "AW7060-6B",
+            "size": "6",
+            "upc": "198311001103",
+            "price": 114.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7060-6.5B",
+            "size": "6.5",
+            "upc": "198311001110",
+            "price": 114.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7060-7B",
+            "size": "7",
+            "upc": "198311001127",
+            "price": 114.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7060-7.5B",
+            "size": "7.5",
+            "upc": "198311001134",
+            "price": 114.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7060-8B",
+            "size": "8",
+            "upc": "198311001141",
+            "price": 114.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7060-8.5B",
+            "size": "8.5",
+            "upc": "198311001158",
+            "price": 114.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7060-9B",
+            "size": "9",
+            "upc": "198311001165",
+            "price": 114.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7060-9.5B",
+            "size": "9.5",
+            "upc": "198311001172",
+            "price": 114.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7060-10B",
+            "size": "10",
+            "upc": "198311001189",
+            "price": 114.99,
+            "width": "B"
+          },
+          {
+            "sku": "AW7060-11B",
+            "size": "11",
+            "upc": "198311001196",
+            "price": 114.99,
+            "width": "B"
+          }
+        ]
+      },
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW7060-6D",
+            "size": "6",
+            "upc": "198311001202",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7060-6.5D",
+            "size": "6.5",
+            "upc": "198311001219",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7060-7D",
+            "size": "7",
+            "upc": "198311001226",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7060-7.5D",
+            "size": "7.5",
+            "upc": "198311001233",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7060-8D",
+            "size": "8",
+            "upc": "198311001240",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7060-8.5D",
+            "size": "8.5",
+            "upc": "198311001257",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7060-9D",
+            "size": "9",
+            "upc": "198311001264",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7060-9.5D",
+            "size": "9.5",
+            "upc": "198311001271",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7060-10D",
+            "size": "10",
+            "upc": "198311001288",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7060-11D",
+            "size": "11",
+            "upc": "198311001295",
+            "price": 114.99,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW7100",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE CHELSEA LEATHER - MEN'S CT EH",
+    "color": "BUFFALO CRAZY HORSE/GUM",
+    "baseColor": "BROWN",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "LEATHER",
+    "silhouette": "Chelsea",
+    "priceMin": 119.99,
+    "priceMax": 119.99,
+    "image": "https://media.surewerx.com/asset/f72501ec-c64a-4785-aca2-1afbd058414b/PNG/AW7100_RS.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW7100-7D",
+            "size": "7",
+            "upc": "198311001769",
+            "price": 119.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7100-7.5D",
+            "size": "7.5",
+            "upc": "198311001776",
+            "price": 119.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7100-8D",
+            "size": "8",
+            "upc": "198311001783",
+            "price": 119.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7100-8.5D",
+            "size": "8.5",
+            "upc": "198311001790",
+            "price": 119.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7100-9D",
+            "size": "9",
+            "upc": "198311001806",
+            "price": 119.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7100-9.5D",
+            "size": "9.5",
+            "upc": "198311001813",
+            "price": 119.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7100-10D",
+            "size": "10",
+            "upc": "198311001820",
+            "price": 119.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7100-10.5D",
+            "size": "10.5",
+            "upc": "198311001837",
+            "price": 119.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7100-11D",
+            "size": "11",
+            "upc": "198311001844",
+            "price": 119.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7100-11.5D",
+            "size": "11.5",
+            "upc": "198311001851",
+            "price": 119.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7100-12D",
+            "size": "12",
+            "upc": "198311001868",
+            "price": 119.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7100-13D",
+            "size": "13",
+            "upc": "198311001875",
+            "price": 119.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7100-14D",
+            "size": "14",
+            "upc": "198311001882",
+            "price": 119.99,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW7100-7EE",
+            "size": "7",
+            "upc": "198311001899",
+            "price": 119.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7100-7.5EE",
+            "size": "7.5",
+            "upc": "198311001905",
+            "price": 119.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7100-8EE",
+            "size": "8",
+            "upc": "198311001912",
+            "price": 119.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7100-8.5EE",
+            "size": "8.5",
+            "upc": "198311001929",
+            "price": 119.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7100-9EE",
+            "size": "9",
+            "upc": "198311001936",
+            "price": 119.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7100-9.5EE",
+            "size": "9.5",
+            "upc": "198311001943",
+            "price": 119.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7100-10EE",
+            "size": "10",
+            "upc": "198311001950",
+            "price": 119.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7100-10.5EE",
+            "size": "10.5",
+            "upc": "198311001967",
+            "price": 119.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7100-11EE",
+            "size": "11",
+            "upc": "198311001974",
+            "price": 119.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7100-11.5EE",
+            "size": "11.5",
+            "upc": "198311001981",
+            "price": 119.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7100-12EE",
+            "size": "12",
+            "upc": "198311001998",
+            "price": 119.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7100-13EE",
+            "size": "13",
+            "upc": "198311002001",
+            "price": 119.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7100-14EE",
+            "size": "14",
+            "upc": "198311002018",
+            "price": 119.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW7101",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE CHELSEA LEATHER - MEN'S CT EH",
+    "color": "BLACK FORGED IRON",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "LEATHER",
+    "silhouette": "Chelsea",
+    "priceMin": 119.99,
+    "priceMax": 119.99,
+    "image": "https://media.surewerx.com/asset/5f4c9504-e543-414f-b6c0-08d369f3363e/PNG/AW7101_RS.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW7101-D",
+            "size": "7",
+            "upc": "198311002025",
+            "price": 119.99,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW7101-EE",
+            "size": "7",
+            "upc": "198311002155",
+            "price": 119.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW7205",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK MONGO MID ALPINE - MEN'S CT SD35",
+    "color": "BLACK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "SD10",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "LEATHER",
+    "silhouette": "Lifestyle Mid",
+    "priceMin": 139.99,
+    "priceMax": 139.99,
+    "image": "https://media.surewerx.com/asset/e83c8b90-ea7b-41b5-9115-b9cbedd9c45b/PNG/AW7205.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW7205-D",
+            "size": "7",
+            "upc": "198311002483",
+            "price": 139.99,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW7205-EE",
+            "size": "7",
+            "upc": "198311002612",
+            "price": 139.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "AW7350",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK PHAT A - MEN'S SOFT TOE EH",
+    "color": "BLACK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "SOFT",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "SUEDE",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 114.99,
+    "priceMax": 114.99,
+    "image": "https://media.surewerx.com/asset/8acda43b-68af-460e-ad1a-1bccc0ebccb6/PNG/AW7350_RS.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW7350-7D",
+            "size": "7",
+            "upc": "198311034996",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7350-7.5D",
+            "size": "7.5",
+            "upc": "198311035009",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7350-8D",
+            "size": "8",
+            "upc": "198311035016",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7350-8.5D",
+            "size": "8.5",
+            "upc": "198311035023",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7350-9D",
+            "size": "9",
+            "upc": "198311035030",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7350-9.5D",
+            "size": "9.5",
+            "upc": "198311035047",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7350-10D",
+            "size": "10",
+            "upc": "198311035054",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7350-10.5D",
+            "size": "10.5",
+            "upc": "198311035061",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7350-11D",
+            "size": "11",
+            "upc": "198311035078",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7350-11.5D",
+            "size": "11.5",
+            "upc": "198311035085",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7350-12D",
+            "size": "12",
+            "upc": "198311035092",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7350-13D",
+            "size": "13",
+            "upc": "198311035108",
+            "price": 114.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW7350-14D",
+            "size": "14",
+            "upc": "198311035115",
+            "price": 114.99,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW7350-7EE",
+            "size": "7",
+            "upc": "198311035122",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7350-7.5EE",
+            "size": "7.5",
+            "upc": "198311035139",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7350-8EE",
+            "size": "8",
+            "upc": "198311035146",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7350-8.5EE",
+            "size": "8.5",
+            "upc": "198311035153",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7350-9EE",
+            "size": "9",
+            "upc": "198311035160",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7350-9.5EE",
+            "size": "9.5",
+            "upc": "198311035177",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7350-10EE",
+            "size": "10",
+            "upc": "198311035184",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7350-10.5EE",
+            "size": "10.5",
+            "upc": "198311035191",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7350-11EE",
+            "size": "11",
+            "upc": "198311035207",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7350-11.5EE",
+            "size": "11.5",
+            "upc": "198311035214",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7350-12EE",
+            "size": "12",
+            "upc": "198311035221",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7350-13EE",
+            "size": "13",
+            "upc": "198311035238",
+            "price": 114.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW7350-14EE",
+            "size": "14",
+            "upc": "198311035245",
+            "price": 114.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "A8210",
+    "brand": "AVENGER",
+    "desc": "AVENGER FRAMER MAX PR MID - WMN'S CT EH",
+    "color": "BROWN",
+    "baseColor": "BROWN",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "LEATHER",
+    "silhouette": "Mid Boot",
+    "priceMin": 0,
+    "priceMax": 0,
+    "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
+    "widths": [
+      {
+        "code": "B",
+        "sizes": [
+          {
+            "sku": "A8210-10B",
+            "size": "10",
+            "upc": "198311057278",
+            "price": 0,
+            "width": "B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "A8211",
+    "brand": "AVENGER",
+    "desc": "AVENGER FRAMER MAX PR MID - WMN'S CT EH",
+    "color": "BROWN",
+    "baseColor": "BROWN",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "LEATHER",
+    "silhouette": "Mid Boot",
+    "priceMin": 0,
+    "priceMax": 0,
+    "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "A8210-10D",
+            "size": "10",
+            "upc": "198311057391",
+            "price": 0,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "A8212",
+    "brand": "AVENGER",
+    "desc": "AVENGER FRAMER MAX PR MID - WMN'S CT EH",
+    "color": "BROWN",
+    "baseColor": "BROWN",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "LEATHER",
+    "silhouette": "Mid Boot",
+    "priceMin": 0,
+    "priceMax": 0,
+    "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
+    "widths": [
+      {
+        "code": "B",
+        "sizes": [
+          {
+            "sku": "A8210-11B",
+            "size": "11",
+            "upc": "198311057285",
+            "price": 0,
+            "width": "B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "A8213",
+    "brand": "AVENGER",
+    "desc": "AVENGER FRAMER MAX PR MID - WMN'S CT EH",
+    "color": "BROWN",
+    "baseColor": "BROWN",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "LEATHER",
+    "silhouette": "Mid Boot",
+    "priceMin": 0,
+    "priceMax": 0,
+    "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "A8210-11D",
+            "size": "11",
+            "upc": "198311057407",
+            "price": 0,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "A8215",
+    "brand": "AVENGER",
+    "desc": "AVENGER FRAMER MAX PR MID - WMN'S CT EH",
+    "color": "BROWN",
+    "baseColor": "BROWN",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "LEATHER",
+    "silhouette": "Mid Boot",
+    "priceMin": 0,
+    "priceMax": 0,
+    "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "A8210-5.5D",
+            "size": "5.5",
+            "upc": "198311057308",
+            "price": 0,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "A8216",
+    "brand": "AVENGER",
+    "desc": "AVENGER FRAMER MAX PR MID - WMN'S CT EH",
+    "color": "BROWN",
+    "baseColor": "BROWN",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "LEATHER",
+    "silhouette": "Mid Boot",
+    "priceMin": 0,
+    "priceMax": 0,
+    "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
+    "widths": [
+      {
+        "code": "B",
+        "sizes": [
+          {
+            "sku": "A8210-5B",
+            "size": "5",
+            "upc": "198311057179",
+            "price": 0,
+            "width": "B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "A8217",
+    "brand": "AVENGER",
+    "desc": "AVENGER FRAMER MAX PR MID - WMN'S CT EH",
+    "color": "BROWN",
+    "baseColor": "BROWN",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "LEATHER",
+    "silhouette": "Mid Boot",
+    "priceMin": 0,
+    "priceMax": 0,
+    "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "A8210-5D",
+            "size": "5",
+            "upc": "198311057292",
+            "price": 0,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "A8218",
+    "brand": "AVENGER",
+    "desc": "AVENGER FRAMER MAX PR MID - WMN'S CT EH",
+    "color": "BROWN",
+    "baseColor": "BROWN",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "LEATHER",
+    "silhouette": "Mid Boot",
+    "priceMin": 0,
+    "priceMax": 0,
+    "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
+    "widths": [
+      {
+        "code": "B",
+        "sizes": [
+          {
+            "sku": "A8210-6.5B",
+            "size": "6.5",
+            "upc": "198311057209",
+            "price": 0,
+            "width": "B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "A8219",
+    "brand": "AVENGER",
+    "desc": "AVENGER FRAMER MAX PR MID - WMN'S CT EH",
+    "color": "BROWN",
+    "baseColor": "BROWN",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "LEATHER",
+    "silhouette": "Mid Boot",
+    "priceMin": 0,
+    "priceMax": 0,
+    "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "A8210-6.5D",
+            "size": "6.5",
+            "upc": "198311057322",
+            "price": 0,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "A8220",
+    "brand": "AVENGER",
+    "desc": "AVENGER FRAMER MAX PR MID - WMN'S CT EH",
+    "color": "BROWN",
+    "baseColor": "BROWN",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "LEATHER",
+    "silhouette": "Mid Boot",
+    "priceMin": 0,
+    "priceMax": 0,
+    "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
+    "widths": [
+      {
+        "code": "B",
+        "sizes": [
+          {
+            "sku": "A8210-6B",
+            "size": "6",
+            "upc": "198311057193",
+            "price": 0,
+            "width": "B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "A8221",
+    "brand": "AVENGER",
+    "desc": "AVENGER FRAMER MAX PR MID - WMN'S CT EH",
+    "color": "BROWN",
+    "baseColor": "BROWN",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "LEATHER",
+    "silhouette": "Mid Boot",
+    "priceMin": 0,
+    "priceMax": 0,
+    "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "A8210-6D",
+            "size": "6",
+            "upc": "198311057315",
+            "price": 0,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "A8222",
+    "brand": "AVENGER",
+    "desc": "AVENGER FRAMER MAX PR MID - WMN'S CT EH",
+    "color": "BROWN",
+    "baseColor": "BROWN",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "LEATHER",
+    "silhouette": "Mid Boot",
+    "priceMin": 0,
+    "priceMax": 0,
+    "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
+    "widths": [
+      {
+        "code": "B",
+        "sizes": [
+          {
+            "sku": "A8210-7.5B",
+            "size": "7.5",
+            "upc": "198311057223",
+            "price": 0,
+            "width": "B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "A8223",
+    "brand": "AVENGER",
+    "desc": "AVENGER FRAMER MAX PR MID - WMN'S CT EH",
+    "color": "BROWN",
+    "baseColor": "BROWN",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "LEATHER",
+    "silhouette": "Mid Boot",
+    "priceMin": 0,
+    "priceMax": 0,
+    "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "A8210-7.5D",
+            "size": "7.5",
+            "upc": "198311057346",
+            "price": 0,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "A8224",
+    "brand": "AVENGER",
+    "desc": "AVENGER FRAMER MAX PR MID - WMN'S CT EH",
+    "color": "BROWN",
+    "baseColor": "BROWN",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "LEATHER",
+    "silhouette": "Mid Boot",
+    "priceMin": 0,
+    "priceMax": 0,
+    "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
+    "widths": [
+      {
+        "code": "B",
+        "sizes": [
+          {
+            "sku": "A8210-7B",
+            "size": "7",
+            "upc": "198311057216",
+            "price": 0,
+            "width": "B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "A8225",
+    "brand": "AVENGER",
+    "desc": "AVENGER FRAMER MAX PR MID - WMN'S CT EH",
+    "color": "BROWN",
+    "baseColor": "BROWN",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "LEATHER",
+    "silhouette": "Mid Boot",
+    "priceMin": 0,
+    "priceMax": 0,
+    "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "A8210-7D",
+            "size": "7",
+            "upc": "198311057339",
+            "price": 0,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "A8226",
+    "brand": "AVENGER",
+    "desc": "AVENGER FRAMER MAX PR MID - WMN'S CT EH",
+    "color": "BROWN",
+    "baseColor": "BROWN",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "LEATHER",
+    "silhouette": "Mid Boot",
+    "priceMin": 0,
+    "priceMax": 0,
+    "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
+    "widths": [
+      {
+        "code": "B",
+        "sizes": [
+          {
+            "sku": "A8210-8.5B",
+            "size": "8.5",
+            "upc": "198311057247",
+            "price": 0,
+            "width": "B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "A8227",
+    "brand": "AVENGER",
+    "desc": "AVENGER FRAMER MAX PR MID - WMN'S CT EH",
+    "color": "BROWN",
+    "baseColor": "BROWN",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "LEATHER",
+    "silhouette": "Mid Boot",
+    "priceMin": 0,
+    "priceMax": 0,
+    "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "A8210-8.5D",
+            "size": "8.5",
+            "upc": "198311057360",
+            "price": 0,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "A8228",
+    "brand": "AVENGER",
+    "desc": "AVENGER FRAMER MAX PR MID - WMN'S CT EH",
+    "color": "BROWN",
+    "baseColor": "BROWN",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "LEATHER",
+    "silhouette": "Mid Boot",
+    "priceMin": 0,
+    "priceMax": 0,
+    "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
+    "widths": [
+      {
+        "code": "B",
+        "sizes": [
+          {
+            "sku": "A8210-8B",
+            "size": "8",
+            "upc": "198311057230",
+            "price": 0,
+            "width": "B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "A8229",
+    "brand": "AVENGER",
+    "desc": "AVENGER FRAMER MAX PR MID - WMN'S CT EH",
+    "color": "BROWN",
+    "baseColor": "BROWN",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "LEATHER",
+    "silhouette": "Mid Boot",
+    "priceMin": 0,
+    "priceMax": 0,
+    "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "A8210-8D",
+            "size": "8",
+            "upc": "198311057353",
+            "price": 0,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "A8230",
+    "brand": "AVENGER",
+    "desc": "AVENGER FRAMER MAX PR MID - WMN'S CT EH",
+    "color": "BROWN",
+    "baseColor": "BROWN",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "LEATHER",
+    "silhouette": "Mid Boot",
+    "priceMin": 0,
+    "priceMax": 0,
+    "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
+    "widths": [
+      {
+        "code": "B",
+        "sizes": [
+          {
+            "sku": "A8210-9.5B",
+            "size": "9.5",
+            "upc": "198311057261",
+            "price": 0,
+            "width": "B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "A8231",
+    "brand": "AVENGER",
+    "desc": "AVENGER FRAMER MAX PR MID - WMN'S CT EH",
+    "color": "BROWN",
+    "baseColor": "BROWN",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "LEATHER",
+    "silhouette": "Mid Boot",
+    "priceMin": 0,
+    "priceMax": 0,
+    "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "A8210-9.5D",
+            "size": "9.5",
+            "upc": "198311057384",
+            "price": 0,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "A8232",
+    "brand": "AVENGER",
+    "desc": "AVENGER FRAMER MAX PR MID - WMN'S CT EH",
+    "color": "BROWN",
+    "baseColor": "BROWN",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "LEATHER",
+    "silhouette": "Mid Boot",
+    "priceMin": 0,
+    "priceMax": 0,
+    "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
+    "widths": [
+      {
+        "code": "B",
+        "sizes": [
+          {
+            "sku": "A8210-9B",
+            "size": "9",
+            "upc": "198311057254",
+            "price": 0,
+            "width": "B"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "A8233",
+    "brand": "AVENGER",
+    "desc": "AVENGER FRAMER MAX PR MID - WMN'S CT EH",
+    "color": "BROWN",
+    "baseColor": "BROWN",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (6-10, 11)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "YES",
+    "upper": "LEATHER",
+    "silhouette": "Mid Boot",
+    "priceMin": 0,
+    "priceMax": 0,
+    "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "A8210-9D",
+            "size": "9",
+            "upc": "198311057377",
+            "price": 0,
+            "width": "D"
           }
         ]
       }
