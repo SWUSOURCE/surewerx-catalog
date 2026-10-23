@@ -24473,6 +24473,226 @@
     ]
   },
   {
+    "master": "AW5030",
+    "brand": "AIRWALK",
+    "desc": "AIRWALK VENICE - MEN'S CT EH",
+    "color": "CASTLE ROCK",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": true,
+    "definedHeel": "NO",
+    "upper": "CANVAS",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.99,
+    "priceMax": 109.99,
+    "image": "https://asset.productmarketingcloud.com/api/assetstorage/1895_bb246eb2-c6fc-437e-8da9-8e08b028f1002",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "AW5030-7D",
+            "size": "7",
+            "upc": "810151182223",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW5030-7.5D",
+            "size": "7.5",
+            "upc": "810151182230",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW5030-8D",
+            "size": "8",
+            "upc": "810151182247",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW5030-8.5D",
+            "size": "8.5",
+            "upc": "810151182254",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW5030-9D",
+            "size": "9",
+            "upc": "810151182261",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW5030-9.5D",
+            "size": "9.5",
+            "upc": "810151182278",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW5030-10D",
+            "size": "10",
+            "upc": "810151182285",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW5030-10.5D",
+            "size": "10.5",
+            "upc": "810151182292",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW5030-11D",
+            "size": "11",
+            "upc": "810151182308",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW5030-11.5D",
+            "size": "11.5",
+            "upc": "810151182315",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW5030-12D",
+            "size": "12",
+            "upc": "810151182322",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW5030-13D",
+            "size": "13",
+            "upc": "810151182339",
+            "price": 109.99,
+            "width": "D"
+          },
+          {
+            "sku": "AW5030-14D",
+            "size": "14",
+            "upc": "810151182346",
+            "price": 109.99,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "AW5030-7EE",
+            "size": "7",
+            "upc": "810151182353",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW5030-7.5EE",
+            "size": "7.5",
+            "upc": "810151182360",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW5030-8EE",
+            "size": "8",
+            "upc": "810151182377",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW5030-8.5EE",
+            "size": "8.5",
+            "upc": "810151182384",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW5030-9EE",
+            "size": "9",
+            "upc": "810151182391",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW5030-9.5EE",
+            "size": "9.5",
+            "upc": "810151182407",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW5030-10EE",
+            "size": "10",
+            "upc": "810151182414",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW5030-10.5EE",
+            "size": "10.5",
+            "upc": "810151182421",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW5030-11EE",
+            "size": "11",
+            "upc": "810151182438",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW5030-11.5EE",
+            "size": "11.5",
+            "upc": "810151182445",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW5030-12EE",
+            "size": "12",
+            "upc": "810151182452",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW5030-13EE",
+            "size": "13",
+            "upc": "810151182469",
+            "price": 109.99,
+            "width": "EE"
+          },
+          {
+            "sku": "AW5030-14EE",
+            "size": "14",
+            "upc": "810151182476",
+            "price": 109.99,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "master": "AW7001",
     "brand": "AIRWALK",
     "desc": "AIRWALK VENICE SLIP-ON CANVAS - MEN'S CT EH",
@@ -26465,6 +26685,172 @@
             "upc": "198311057278",
             "price": 0,
             "width": "B"
+          },
+          {
+            "sku": "A8210-11B",
+            "size": "11",
+            "upc": "198311057285",
+            "price": 0,
+            "width": "B"
+          },
+          {
+            "sku": "A8210-5.5B",
+            "size": "5.5",
+            "upc": "198311057186",
+            "price": 0,
+            "width": "B"
+          },
+          {
+            "sku": "A8210-5B",
+            "size": "5",
+            "upc": "198311057179",
+            "price": 0,
+            "width": "B"
+          },
+          {
+            "sku": "A8210-6.5B",
+            "size": "6.5",
+            "upc": "198311057209",
+            "price": 0,
+            "width": "B"
+          },
+          {
+            "sku": "A8210-6B",
+            "size": "6",
+            "upc": "198311057193",
+            "price": 0,
+            "width": "B"
+          },
+          {
+            "sku": "A8210-7.5B",
+            "size": "7.5",
+            "upc": "198311057223",
+            "price": 0,
+            "width": "B"
+          },
+          {
+            "sku": "A8210-7B",
+            "size": "7",
+            "upc": "198311057216",
+            "price": 0,
+            "width": "B"
+          },
+          {
+            "sku": "A8210-8.5B",
+            "size": "8.5",
+            "upc": "198311057247",
+            "price": 0,
+            "width": "B"
+          },
+          {
+            "sku": "A8210-8B",
+            "size": "8",
+            "upc": "198311057230",
+            "price": 0,
+            "width": "B"
+          },
+          {
+            "sku": "A8210-9.5B",
+            "size": "9.5",
+            "upc": "198311057261",
+            "price": 0,
+            "width": "B"
+          },
+          {
+            "sku": "A8210-9B",
+            "size": "9",
+            "upc": "198311057254",
+            "price": 0,
+            "width": "B"
+          }
+        ]
+      },
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "A8210-10D",
+            "size": "10",
+            "upc": "198311057391",
+            "price": 0,
+            "width": "D"
+          },
+          {
+            "sku": "A8210-11D",
+            "size": "11",
+            "upc": "198311057407",
+            "price": 0,
+            "width": "D"
+          },
+          {
+            "sku": "A8210-5.5D",
+            "size": "5.5",
+            "upc": "198311057308",
+            "price": 0,
+            "width": "D"
+          },
+          {
+            "sku": "A8210-5D",
+            "size": "5",
+            "upc": "198311057292",
+            "price": 0,
+            "width": "D"
+          },
+          {
+            "sku": "A8210-6.5D",
+            "size": "6.5",
+            "upc": "198311057322",
+            "price": 0,
+            "width": "D"
+          },
+          {
+            "sku": "A8210-6D",
+            "size": "6",
+            "upc": "198311057315",
+            "price": 0,
+            "width": "D"
+          },
+          {
+            "sku": "A8210-7.5D",
+            "size": "7.5",
+            "upc": "198311057346",
+            "price": 0,
+            "width": "D"
+          },
+          {
+            "sku": "A8210-7D",
+            "size": "7",
+            "upc": "198311057339",
+            "price": 0,
+            "width": "D"
+          },
+          {
+            "sku": "A8210-8.5D",
+            "size": "8.5",
+            "upc": "198311057360",
+            "price": 0,
+            "width": "D"
+          },
+          {
+            "sku": "A8210-8D",
+            "size": "8",
+            "upc": "198311057353",
+            "price": 0,
+            "width": "D"
+          },
+          {
+            "sku": "A8210-9.5D",
+            "size": "9.5",
+            "upc": "198311057384",
+            "price": 0,
+            "width": "D"
+          },
+          {
+            "sku": "A8210-9D",
+            "size": "9",
+            "upc": "198311057377",
+            "price": 0,
+            "width": "D"
           }
         ]
       }
