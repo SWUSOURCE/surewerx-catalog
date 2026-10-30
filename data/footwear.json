@@ -26855,5 +26855,7591 @@
         ]
       }
     ]
+  },
+  {
+    "master": "DK04010",
+    "brand": "DICKIES",
+    "desc": "Dickies Irving Chelsea PU/TPU - Men CT EH WP SR SF - Triple Black",
+    "color": "Triple Black",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (6-11, 12, 13, 14, 15)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": false,
+    "definedHeel": "YES",
+    "upper": "Leather",
+    "silhouette": "Chelsea",
+    "priceMin": 139.95,
+    "priceMax": 139.95,
+    "image": "https://media.surewerx.com/asset/df4ab2ac-2e93-478a-90e7-94a8d124bb66/2000_JPG/DK04010.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK04010-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04010-10D",
+            "size": "10",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04010-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04010-11D",
+            "size": "11",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04010-12D",
+            "size": "12",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04010-13D",
+            "size": "13",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04010-14D",
+            "size": "14",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04010-15D",
+            "size": "15",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04010-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04010-7D",
+            "size": "7",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04010-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04010-8D",
+            "size": "8",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04010-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04010-9D",
+            "size": "9",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04010-6.5D",
+            "size": "6.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04010-6D",
+            "size": "6",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK04010-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04010-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04010-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04010-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04010-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04010-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04010-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04010-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04010-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04010-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04010-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04010-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04010-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04010-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04010-6.5EE",
+            "size": "6.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04010-6EE",
+            "size": "6",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK04011",
+    "brand": "DICKIES",
+    "desc": "Dickies Irving Chelsea PU/TPU - Men CT EH WP SR SF - Brown",
+    "color": "Brown",
+    "baseColor": "BROWN",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (6-11, 12, 13, 14, 15)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": false,
+    "definedHeel": "YES",
+    "upper": "Leather",
+    "silhouette": "Chelsea",
+    "priceMin": 139.95,
+    "priceMax": 139.95,
+    "image": "https://media.surewerx.com/asset/d6d490d5-f77b-49b5-9cd2-fbcc5090fc0c/2000_JPG/DK04011.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK04011-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04011-10D",
+            "size": "10",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04011-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04011-11D",
+            "size": "11",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04011-12D",
+            "size": "12",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04011-13D",
+            "size": "13",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04011-14D",
+            "size": "14",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04011-15D",
+            "size": "15",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04011-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04011-7D",
+            "size": "7",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04011-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04011-8D",
+            "size": "8",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04011-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04011-9D",
+            "size": "9",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04011-6.5D",
+            "size": "6.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04011-6D",
+            "size": "6",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK04011-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04011-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04011-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04011-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04011-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04011-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04011-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04011-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04011-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04011-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04011-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04011-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04011-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04011-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04011-6.5EE",
+            "size": "6.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04011-6EE",
+            "size": "6",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK04510",
+    "brand": "DICKIES",
+    "desc": "Dickies Irving Chelsea PU/TPU - Men SFT EH WP SR SF - Triple Black",
+    "color": "Triple Black",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (6-11, 12, 13, 14, 15)",
+    "bigWide": "NO",
+    "toe": "SOFT",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": false,
+    "definedHeel": "YES",
+    "upper": "Leather",
+    "silhouette": "Chelsea",
+    "priceMin": 129.95,
+    "priceMax": 129.95,
+    "image": "https://media.surewerx.com/asset/15c40902-4c53-4258-a024-03146a4ca899/2000_JPG/DK04510.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK04510-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04510-10D",
+            "size": "10",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04510-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04510-11D",
+            "size": "11",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04510-12D",
+            "size": "12",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04510-13D",
+            "size": "13",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04510-14D",
+            "size": "14",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04510-15D",
+            "size": "15",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04510-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04510-7D",
+            "size": "7",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04510-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04510-8D",
+            "size": "8",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04510-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04510-9D",
+            "size": "9",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04510-6.5D",
+            "size": "6.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04510-6D",
+            "size": "6",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK04510-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04510-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04510-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04510-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04510-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04510-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04510-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04510-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04510-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04510-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04510-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04510-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04510-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04510-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04510-6.5EE",
+            "size": "6.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04510-6EE",
+            "size": "6",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK04511",
+    "brand": "DICKIES",
+    "desc": "Dickies Irving Chelsea PU/TPU - Men SFT EH WP SR SF - Brown",
+    "color": "Brown",
+    "baseColor": "BROWN",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (6-11, 12, 13, 14, 15)",
+    "bigWide": "NO",
+    "toe": "SOFT",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": false,
+    "definedHeel": "YES",
+    "upper": "Leather",
+    "silhouette": "Chelsea",
+    "priceMin": 129.95,
+    "priceMax": 129.95,
+    "image": "https://media.surewerx.com/asset/1bb4a966-6300-4544-971c-e1fd69bb4cda/2000_JPG/DK04511.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK04511-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04511-10D",
+            "size": "10",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04511-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04511-11D",
+            "size": "11",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04511-12D",
+            "size": "12",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04511-13D",
+            "size": "13",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04511-14D",
+            "size": "14",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04511-15D",
+            "size": "15",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04511-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04511-7D",
+            "size": "7",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04511-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04511-8D",
+            "size": "8",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04511-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04511-9D",
+            "size": "9",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04511-6.5D",
+            "size": "6.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK04511-6D",
+            "size": "6",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK04511-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04511-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04511-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04511-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04511-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04511-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04511-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04511-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04511-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04511-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04511-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04511-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04511-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04511-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04511-6.5EE",
+            "size": "6.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK04511-6EE",
+            "size": "6",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK07000",
+    "brand": "DICKIES",
+    "desc": "Dickies Frisco Athletic Low - Men CT EH SR SF - Black",
+    "color": "Triple Black",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-11, 12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": false,
+    "definedHeel": "NO",
+    "upper": "",
+    "silhouette": "Athletic Low",
+    "priceMin": 99.95,
+    "priceMax": 99.95,
+    "image": "https://media.surewerx.com/asset/01d36e52-bd4f-4663-8f17-38a9e7b2f8d1/2000_JPG/DK07000.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK07000-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07000-10D",
+            "size": "10",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07000-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07000-11D",
+            "size": "11",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07000-12D",
+            "size": "12",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07000-13D",
+            "size": "13",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07000-14D",
+            "size": "14",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07000-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07000-7D",
+            "size": "7",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07000-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07000-8D",
+            "size": "8",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07000-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07000-9D",
+            "size": "9",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK07000-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 99.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07000-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 99.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07000-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 99.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07000-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 99.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07000-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 99.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07000-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 99.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07000-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 99.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07000-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 99.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07000-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 99.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07000-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 99.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07000-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 99.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07000-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 99.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07000-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 99.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK07010",
+    "brand": "DICKIES",
+    "desc": "Dickies Frisco Athletic Slip-On - Men CT SD10 SR SF - Black",
+    "color": "Triple Black",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-11, 12, 13, 14)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "SD10",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": false,
+    "definedHeel": "NO",
+    "upper": "",
+    "silhouette": "Slip-on",
+    "priceMin": 109.95,
+    "priceMax": 109.95,
+    "image": "https://media.surewerx.com/asset/115917e5-f2c1-42cb-89e6-15397de01cbf/2000_JPG/DK07010.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK07010-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07010-10D",
+            "size": "10",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07010-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07010-11D",
+            "size": "11",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07010-12D",
+            "size": "12",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07010-13D",
+            "size": "13",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07010-14D",
+            "size": "14",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07010-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07010-7D",
+            "size": "7",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07010-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07010-8D",
+            "size": "8",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07010-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07010-9D",
+            "size": "9",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK07010-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07010-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07010-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07010-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07010-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07010-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07010-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07010-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07010-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07010-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07010-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07010-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07010-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK07011",
+    "brand": "DICKIES",
+    "desc": "Dickies Frisco Athletic Slip-On - Men CT SD10 SR SF - White",
+    "color": "White",
+    "baseColor": "WHITE",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-11, 12, 13, 14, 15, 16, 17)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "SD10",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": false,
+    "definedHeel": "NO",
+    "upper": "",
+    "silhouette": "Slip-on",
+    "priceMin": 109.95,
+    "priceMax": 109.95,
+    "image": "https://media.surewerx.com/asset/d35d4f4a-55ba-45ce-bdaf-7b96e1486911/2000_JPG/DK07011.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK07011-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07011-10D",
+            "size": "10",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07011-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07011-11D",
+            "size": "11",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07011-12D",
+            "size": "12",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07011-13D",
+            "size": "13",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07011-14D",
+            "size": "14",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07011-15D",
+            "size": "15",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07011-16D",
+            "size": "16",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07011-17D",
+            "size": "17",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07011-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07011-7D",
+            "size": "7",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07011-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07011-8D",
+            "size": "8",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07011-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07011-9D",
+            "size": "9",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK07011-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07011-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07011-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07011-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07011-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07011-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07011-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07011-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07011-16EE",
+            "size": "16",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07011-17EE",
+            "size": "17",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07011-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07011-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07011-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07011-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07011-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK07011-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK07050",
+    "brand": "DICKIES",
+    "desc": "Dickies Frisco Athletic Low - Womens CT EH SR SF - Black",
+    "color": "Triple Black",
+    "baseColor": "BLACK",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (5-9, 10, 11, 12)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": false,
+    "definedHeel": "NO",
+    "upper": "",
+    "silhouette": "Athletic Low",
+    "priceMin": 99.95,
+    "priceMax": 99.95,
+    "image": "https://media.surewerx.com/asset/7b95f830-cac5-4f63-a3b9-583c17cf2da6/2000_JPG/DK07050.jpg",
+    "widths": [
+      {
+        "code": "B",
+        "sizes": [
+          {
+            "sku": "DK07050-10B",
+            "size": "10",
+            "upc": "",
+            "price": 99.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07050-11B",
+            "size": "11",
+            "upc": "",
+            "price": 99.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07050-12B",
+            "size": "12",
+            "upc": "",
+            "price": 99.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07050-5.5B",
+            "size": "5.5",
+            "upc": "",
+            "price": 99.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07050-5B",
+            "size": "5",
+            "upc": "",
+            "price": 99.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07050-6.5B",
+            "size": "6.5",
+            "upc": "",
+            "price": 99.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07050-6B",
+            "size": "6",
+            "upc": "",
+            "price": 99.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07050-7.5B",
+            "size": "7.5",
+            "upc": "",
+            "price": 99.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07050-7B",
+            "size": "7",
+            "upc": "",
+            "price": 99.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07050-8.5B",
+            "size": "8.5",
+            "upc": "",
+            "price": 99.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07050-8B",
+            "size": "8",
+            "upc": "",
+            "price": 99.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07050-9.5B",
+            "size": "9.5",
+            "upc": "",
+            "price": 99.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07050-9B",
+            "size": "9",
+            "upc": "",
+            "price": 99.95,
+            "width": "B"
+          }
+        ]
+      },
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK07050-10D",
+            "size": "10",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07050-11D",
+            "size": "11",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07050-12D",
+            "size": "12",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07050-5.5D",
+            "size": "5.5",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07050-5D",
+            "size": "5",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07050-6.5D",
+            "size": "6.5",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07050-6D",
+            "size": "6",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07050-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07050-7D",
+            "size": "7",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07050-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07050-8D",
+            "size": "8",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07050-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07050-9D",
+            "size": "9",
+            "upc": "",
+            "price": 99.95,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK07060",
+    "brand": "DICKIES",
+    "desc": "Dickies Frisco Athletic Slip-On - Womens CT SD10 SR SF - Black",
+    "color": "Triple Black",
+    "baseColor": "BLACK",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (5-9, 10, 11, 12)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "SD10",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": false,
+    "definedHeel": "NO",
+    "upper": "",
+    "silhouette": "Slip-on",
+    "priceMin": 109.95,
+    "priceMax": 109.95,
+    "image": "https://media.surewerx.com/asset/ee7258b1-945d-4eb5-8b1e-5b442a826aa8/2000_JPG/DK07060.jpg",
+    "widths": [
+      {
+        "code": "B",
+        "sizes": [
+          {
+            "sku": "DK07060-10B",
+            "size": "10",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07060-11B",
+            "size": "11",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07060-12B",
+            "size": "12",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07060-5.5B",
+            "size": "5.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07060-5B",
+            "size": "5",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07060-6.5B",
+            "size": "6.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07060-6B",
+            "size": "6",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07060-7.5B",
+            "size": "7.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07060-7B",
+            "size": "7",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07060-8.5B",
+            "size": "8.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07060-8B",
+            "size": "8",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07060-9.5B",
+            "size": "9.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07060-9B",
+            "size": "9",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          }
+        ]
+      },
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK07060-10D",
+            "size": "10",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07060-11D",
+            "size": "11",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07060-12D",
+            "size": "12",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07060-5.5D",
+            "size": "5.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07060-5D",
+            "size": "5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07060-6.5D",
+            "size": "6.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07060-6D",
+            "size": "6",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07060-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07060-7D",
+            "size": "7",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07060-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07060-8D",
+            "size": "8",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07060-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07060-9D",
+            "size": "9",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK07061",
+    "brand": "DICKIES",
+    "desc": "Dickies Frisco Athletic Slip-On - Womens CT SD10 SR SF - White",
+    "color": "White",
+    "baseColor": "WHITE",
+    "gender": "WOMEN'S",
+    "sizeRange": "B, D (5-9, 10, 11, 12)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "SD10",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": false,
+    "definedHeel": "NO",
+    "upper": "",
+    "silhouette": "Slip-on",
+    "priceMin": 109.95,
+    "priceMax": 109.95,
+    "image": "https://media.surewerx.com/asset/336bc5b9-5ed1-4dd2-96c6-82dde39d5938/2000_JPG/DK07061.jpg",
+    "widths": [
+      {
+        "code": "B",
+        "sizes": [
+          {
+            "sku": "DK07061-10B",
+            "size": "10",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07061-11B",
+            "size": "11",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07061-6.5B",
+            "size": "6.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07061-6B",
+            "size": "6",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07061-7.5B",
+            "size": "7.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07061-7B",
+            "size": "7",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07061-8.5B",
+            "size": "8.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07061-8B",
+            "size": "8",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07061-9.5B",
+            "size": "9.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07061-9B",
+            "size": "9",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07061-12B",
+            "size": "12",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07061-5.5B",
+            "size": "5.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          },
+          {
+            "sku": "DK07061-5B",
+            "size": "5",
+            "upc": "",
+            "price": 109.95,
+            "width": "B"
+          }
+        ]
+      },
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK07061-10D",
+            "size": "10",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07061-11D",
+            "size": "11",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07061-6.5D",
+            "size": "6.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07061-6D",
+            "size": "6",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07061-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07061-7D",
+            "size": "7",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07061-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07061-8D",
+            "size": "8",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07061-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07061-9D",
+            "size": "9",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07061-12D",
+            "size": "12",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07061-5.5D",
+            "size": "5.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK07061-5D",
+            "size": "5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK08140",
+    "brand": "DICKIES",
+    "desc": "Dickies Midland PU Knee Boot - Men ST EH WP PR SR CSA - Black",
+    "color": "Black",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "(3-15)",
+    "bigWide": "NO",
+    "toe": "STEEL",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": false,
+    "noMetal": false,
+    "definedHeel": "YES",
+    "upper": "",
+    "silhouette": "Tall Boot",
+    "priceMin": 129.95,
+    "priceMax": 129.95,
+    "image": "https://media.surewerx.com/asset/65b17cf7-37d5-4218-bc50-eb3116f03689/2000_JPG/DK08140.jpg",
+    "widths": [
+      {
+        "code": "STD",
+        "sizes": [
+          {
+            "sku": "DK08140-10",
+            "size": "10",
+            "upc": "198311056721",
+            "price": 129.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08140-11",
+            "size": "11",
+            "upc": "198311056738",
+            "price": 129.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08140-12",
+            "size": "12",
+            "upc": "198311056745",
+            "price": 129.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08140-13",
+            "size": "13",
+            "upc": "198311056752",
+            "price": 129.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08140-14",
+            "size": "14",
+            "upc": "198311056769",
+            "price": 129.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08140-15",
+            "size": "15",
+            "upc": "198311056776",
+            "price": 129.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08140-3",
+            "size": "3",
+            "upc": "198311056653",
+            "price": 129.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08140-4",
+            "size": "4",
+            "upc": "198311056660",
+            "price": 129.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08140-5",
+            "size": "5",
+            "upc": "198311056677",
+            "price": 129.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08140-6",
+            "size": "6",
+            "upc": "198311056684",
+            "price": 129.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08140-7",
+            "size": "7",
+            "upc": "198311056691",
+            "price": 129.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08140-8",
+            "size": "8",
+            "upc": "198311056707",
+            "price": 129.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08140-9",
+            "size": "9",
+            "upc": "198311056714",
+            "price": 129.95,
+            "width": "STD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK08141",
+    "brand": "DICKIES",
+    "desc": "Dickies Midland PU Knee Boot - Men ST EH WP PR SR CSA - Green",
+    "color": "Green",
+    "baseColor": "GREEN",
+    "gender": "MEN'S",
+    "sizeRange": "(3-15)",
+    "bigWide": "NO",
+    "toe": "STEEL",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": false,
+    "noMetal": false,
+    "definedHeel": "YES",
+    "upper": "",
+    "silhouette": "Tall Boot",
+    "priceMin": 129.95,
+    "priceMax": 129.95,
+    "image": "https://media.surewerx.com/asset/8ee8e7b2-1e5e-4912-a2b3-63062d498acb/2000_JPG/DK08141.jpg",
+    "widths": [
+      {
+        "code": "STD",
+        "sizes": [
+          {
+            "sku": "DK08141-10",
+            "size": "10",
+            "upc": "198311056851",
+            "price": 129.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08141-11",
+            "size": "11",
+            "upc": "198311056868",
+            "price": 129.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08141-12",
+            "size": "12",
+            "upc": "198311056875",
+            "price": 129.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08141-13",
+            "size": "13",
+            "upc": "198311056882",
+            "price": 129.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08141-14",
+            "size": "14",
+            "upc": "198311056899",
+            "price": 129.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08141-15",
+            "size": "15",
+            "upc": "198311056905",
+            "price": 129.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08141-3",
+            "size": "3",
+            "upc": "198311056783",
+            "price": 129.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08141-4",
+            "size": "4",
+            "upc": "198311056790",
+            "price": 129.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08141-5",
+            "size": "5",
+            "upc": "198311056806",
+            "price": 129.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08141-6",
+            "size": "6",
+            "upc": "198311056813",
+            "price": 129.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08141-7",
+            "size": "7",
+            "upc": "198311056820",
+            "price": 129.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08141-8",
+            "size": "8",
+            "upc": "198311056837",
+            "price": 129.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08141-9",
+            "size": "9",
+            "upc": "198311056844",
+            "price": 129.95,
+            "width": "STD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK08145",
+    "brand": "DICKIES",
+    "desc": "Dickies Midland -50 PU Knee Boot - Men CT EH WP PR SR CSA - Green",
+    "color": "Green",
+    "baseColor": "GREEN",
+    "gender": "MEN'S",
+    "sizeRange": "(3-15)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": true,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": false,
+    "noMetal": false,
+    "definedHeel": "YES",
+    "upper": "",
+    "silhouette": "Tall Boot",
+    "priceMin": 169.95,
+    "priceMax": 169.95,
+    "image": "https://media.surewerx.com/asset/bfaff029-ed27-4083-8bd4-36fc09486b75/2000_JPG/DK08145.jpg",
+    "widths": [
+      {
+        "code": "STD",
+        "sizes": [
+          {
+            "sku": "DK08145-10",
+            "size": "10",
+            "upc": "198311056981",
+            "price": 169.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08145-11",
+            "size": "11",
+            "upc": "198311056998",
+            "price": 169.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08145-12",
+            "size": "12",
+            "upc": "198311057001",
+            "price": 169.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08145-13",
+            "size": "13",
+            "upc": "198311057018",
+            "price": 169.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08145-14",
+            "size": "14",
+            "upc": "198311057025",
+            "price": 169.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08145-15",
+            "size": "15",
+            "upc": "198311057032",
+            "price": 169.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08145-3",
+            "size": "3",
+            "upc": "198311056912",
+            "price": 169.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08145-4",
+            "size": "4",
+            "upc": "198311056929",
+            "price": 169.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08145-5",
+            "size": "5",
+            "upc": "198311056936",
+            "price": 169.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08145-6",
+            "size": "6",
+            "upc": "198311056943",
+            "price": 169.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08145-7",
+            "size": "7",
+            "upc": "198311056950",
+            "price": 169.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08145-8",
+            "size": "8",
+            "upc": "198311056967",
+            "price": 169.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08145-9",
+            "size": "9",
+            "upc": "198311056974",
+            "price": 169.95,
+            "width": "STD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK08540",
+    "brand": "DICKIES",
+    "desc": "Dickies Midland PU Knee Boot - Men SFT EH WP SR - Black",
+    "color": "Black",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "(3-15)",
+    "bigWide": "NO",
+    "toe": "SOFT",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": false,
+    "noMetal": false,
+    "definedHeel": "YES",
+    "upper": "",
+    "silhouette": "Tall Boot",
+    "priceMin": 119.95,
+    "priceMax": 119.95,
+    "image": "https://media.surewerx.com/asset/8dc17b71-7249-48c6-ab37-177a7f085ab8/2000_JPG/DK08540.jpg",
+    "widths": [
+      {
+        "code": "STD",
+        "sizes": [
+          {
+            "sku": "DK08540-10",
+            "size": "10",
+            "upc": "198311057117",
+            "price": 119.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08540-11",
+            "size": "11",
+            "upc": "198311057124",
+            "price": 119.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08540-12",
+            "size": "12",
+            "upc": "198311057131",
+            "price": 119.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08540-13",
+            "size": "13",
+            "upc": "198311057148",
+            "price": 119.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08540-14",
+            "size": "14",
+            "upc": "198311057155",
+            "price": 119.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08540-15",
+            "size": "15",
+            "upc": "198311057162",
+            "price": 119.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08540-3",
+            "size": "3",
+            "upc": "198311057049",
+            "price": 119.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08540-4",
+            "size": "4",
+            "upc": "198311057056",
+            "price": 119.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08540-5",
+            "size": "5",
+            "upc": "198311057063",
+            "price": 119.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08540-6",
+            "size": "6",
+            "upc": "198311057070",
+            "price": 119.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08540-7",
+            "size": "7",
+            "upc": "198311057087",
+            "price": 119.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08540-8",
+            "size": "8",
+            "upc": "198311057094",
+            "price": 119.95,
+            "width": "STD"
+          },
+          {
+            "sku": "DK08540-9",
+            "size": "9",
+            "upc": "198311057100",
+            "price": 119.95,
+            "width": "STD"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK09020",
+    "brand": "DICKIES",
+    "desc": "Dickies Odessa 6\" Mid - Men CT EH WP SR - Wheat",
+    "color": "Wheat",
+    "baseColor": "BROWN",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-11, 12, 13, 14, 15)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": false,
+    "noMetal": false,
+    "definedHeel": "YES",
+    "upper": "Leather",
+    "silhouette": "Mid Boot",
+    "priceMin": 159.95,
+    "priceMax": 159.95,
+    "image": "https://media.surewerx.com/asset/6cf6ae89-33bb-4d82-af0e-66c2e15f3b0c/2000_JPG/DK09020.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK09020-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09020-10D",
+            "size": "10",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09020-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09020-11D",
+            "size": "11",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09020-12D",
+            "size": "12",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09020-13D",
+            "size": "13",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09020-14D",
+            "size": "14",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09020-15D",
+            "size": "15",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09020-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09020-7D",
+            "size": "7",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09020-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09020-8D",
+            "size": "8",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09020-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09020-9D",
+            "size": "9",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK09020-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09020-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09020-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09020-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09020-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09020-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09020-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09020-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09020-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09020-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09020-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09020-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09020-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09020-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK09021",
+    "brand": "DICKIES",
+    "desc": "Dickies Odessa 6\" Mid - Men CT EH WP SR - Chocolate Brown",
+    "color": "Chocolate Brown",
+    "baseColor": "BROWN",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-11, 12, 13, 14, 15)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": false,
+    "noMetal": false,
+    "definedHeel": "YES",
+    "upper": "Leather",
+    "silhouette": "Mid Boot",
+    "priceMin": 159.95,
+    "priceMax": 159.95,
+    "image": "https://media.surewerx.com/asset/77876189-4e59-423c-84c4-d5695db2db2c/2000_JPG/DK09021.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK09021-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09021-10D",
+            "size": "10",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09021-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09021-11D",
+            "size": "11",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09021-12D",
+            "size": "12",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09021-13D",
+            "size": "13",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09021-14D",
+            "size": "14",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09021-15D",
+            "size": "15",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09021-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09021-7D",
+            "size": "7",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09021-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09021-8D",
+            "size": "8",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09021-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09021-9D",
+            "size": "9",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK09021-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09021-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09021-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09021-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09021-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09021-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09021-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09021-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09021-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09021-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09021-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09021-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09021-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09021-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK09040",
+    "brand": "DICKIES",
+    "desc": "Dickies Odessa Chelsea - Men CT EH WP SR SF - Chestnut",
+    "color": "Chestnut",
+    "baseColor": "BROWN",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-11, 12, 13, 14, 15)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": false,
+    "definedHeel": "YES",
+    "upper": "Leather",
+    "silhouette": "Chelsea",
+    "priceMin": 149.95,
+    "priceMax": 149.95,
+    "image": "https://media.surewerx.com/asset/7e58a613-0f05-430b-b64c-18d53d8d645f/2000_JPG/DK09040.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK09040-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 149.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09040-10D",
+            "size": "10",
+            "upc": "",
+            "price": 149.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09040-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 149.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09040-11D",
+            "size": "11",
+            "upc": "",
+            "price": 149.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09040-12D",
+            "size": "12",
+            "upc": "",
+            "price": 149.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09040-13D",
+            "size": "13",
+            "upc": "",
+            "price": 149.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09040-14D",
+            "size": "14",
+            "upc": "",
+            "price": 149.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09040-15D",
+            "size": "15",
+            "upc": "",
+            "price": 149.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09040-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 149.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09040-7D",
+            "size": "7",
+            "upc": "",
+            "price": 149.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09040-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 149.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09040-8D",
+            "size": "8",
+            "upc": "",
+            "price": 149.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09040-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 149.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09040-9D",
+            "size": "9",
+            "upc": "",
+            "price": 149.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK09040-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 149.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09040-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 149.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09040-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 149.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09040-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 149.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09040-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 149.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09040-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 149.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09040-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 149.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09040-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 149.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09040-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 149.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09040-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 149.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09040-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 149.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09040-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 149.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09040-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 149.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09040-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 149.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK09045",
+    "brand": "DICKIES",
+    "desc": "Dickies Odessa Wellington - Men CT EH WP SR SF - Chocolate Brown",
+    "color": "Chocolate Brown",
+    "baseColor": "BROWN",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-11, 12, 13, 14, 15)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": false,
+    "definedHeel": "YES",
+    "upper": "Leather",
+    "silhouette": "Wellington",
+    "priceMin": 179.95,
+    "priceMax": 179.95,
+    "image": "https://media.surewerx.com/asset/13551787-3569-4259-888f-99d48839c73b/2000_JPG/DK09045.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK09045-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 179.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09045-10D",
+            "size": "10",
+            "upc": "",
+            "price": 179.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09045-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 179.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09045-11D",
+            "size": "11",
+            "upc": "",
+            "price": 179.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09045-12D",
+            "size": "12",
+            "upc": "",
+            "price": 179.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09045-13D",
+            "size": "13",
+            "upc": "",
+            "price": 179.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09045-14D",
+            "size": "14",
+            "upc": "",
+            "price": 179.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09045-15D",
+            "size": "15",
+            "upc": "",
+            "price": 179.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09045-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 179.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09045-7D",
+            "size": "7",
+            "upc": "",
+            "price": 179.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09045-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 179.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09045-8D",
+            "size": "8",
+            "upc": "",
+            "price": 179.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09045-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 179.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09045-9D",
+            "size": "9",
+            "upc": "",
+            "price": 179.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK09045-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 179.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09045-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 179.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09045-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 179.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09045-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 179.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09045-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 179.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09045-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 179.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09045-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 179.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09045-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 179.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09045-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 179.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09045-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 179.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09045-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 179.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09045-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 179.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09045-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 179.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09045-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 179.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK09540",
+    "brand": "DICKIES",
+    "desc": "Dickies Odessa Chelsea - Men SFT EH WP SR SF - Chestnut",
+    "color": "Chestnut",
+    "baseColor": "BROWN",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-11, 12, 13, 14, 15)",
+    "bigWide": "NO",
+    "toe": "SOFT",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": false,
+    "definedHeel": "YES",
+    "upper": "Leather",
+    "silhouette": "Chelsea",
+    "priceMin": 139.95,
+    "priceMax": 139.95,
+    "image": "https://media.surewerx.com/asset/95230bc8-bfbc-42f1-9869-aa81fee03c6d/2000_JPG/DK09540.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK09540-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09540-10D",
+            "size": "10",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09540-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09540-11D",
+            "size": "11",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09540-12D",
+            "size": "12",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09540-13D",
+            "size": "13",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09540-14D",
+            "size": "14",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09540-15D",
+            "size": "15",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09540-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09540-7D",
+            "size": "7",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09540-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09540-8D",
+            "size": "8",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09540-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK09540-9D",
+            "size": "9",
+            "upc": "",
+            "price": 139.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK09540-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09540-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09540-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09540-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09540-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09540-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09540-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09540-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09540-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09540-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09540-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09540-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09540-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK09540-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 139.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK10040",
+    "brand": "DICKIES",
+    "desc": "Dickies Amarillo Cowboy Boot 11\" - Men ST EH WP SR - Brown/Burnt Orange",
+    "color": "Brown/Burnt Orange",
+    "baseColor": "BROWN",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-11, 12, 13, 14, 15)",
+    "bigWide": "NO",
+    "toe": "STEEL",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": false,
+    "noMetal": false,
+    "definedHeel": "YES",
+    "upper": "Leather",
+    "silhouette": "Western Boot",
+    "priceMin": 169.95,
+    "priceMax": 169.95,
+    "image": "https://media.surewerx.com/asset/a4ec9997-e1f1-4072-b6de-6e188c6b8f0d/2000_JPG/DK10040.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK10040-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10040-10D",
+            "size": "10",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10040-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10040-11D",
+            "size": "11",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10040-12D",
+            "size": "12",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10040-13D",
+            "size": "13",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10040-14D",
+            "size": "14",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10040-15D",
+            "size": "15",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10040-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10040-7D",
+            "size": "7",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10040-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10040-8D",
+            "size": "8",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10040-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10040-9D",
+            "size": "9",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK10040-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10040-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10040-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10040-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10040-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10040-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10040-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10040-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10040-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10040-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10040-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10040-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10040-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10040-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK10041",
+    "brand": "DICKIES",
+    "desc": "Dickies Amarillo Cowboy Boot 11\" - Men ST EH WP SR - Brown/Black",
+    "color": "Brown/Black",
+    "baseColor": "BROWN",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-11, 12, 13, 14, 15)",
+    "bigWide": "NO",
+    "toe": "STEEL",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": false,
+    "noMetal": false,
+    "definedHeel": "YES",
+    "upper": "Leather",
+    "silhouette": "Western Boot",
+    "priceMin": 169.95,
+    "priceMax": 169.95,
+    "image": "https://media.surewerx.com/asset/80d70eee-5974-4cb1-98d1-5aac3d8db06d/2000_JPG/DK10041.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK10041-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10041-10D",
+            "size": "10",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10041-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10041-11D",
+            "size": "11",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10041-12D",
+            "size": "12",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10041-13D",
+            "size": "13",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10041-14D",
+            "size": "14",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10041-15D",
+            "size": "15",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10041-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10041-7D",
+            "size": "7",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10041-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10041-8D",
+            "size": "8",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10041-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10041-9D",
+            "size": "9",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK10041-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10041-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10041-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10041-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10041-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10041-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10041-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10041-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10041-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10041-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10041-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10041-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10041-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10041-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK10042",
+    "brand": "DICKIES",
+    "desc": "Dickies Amarillo Cowboy Boot 11\" - Men ST EH WP SR - Brown/Brown",
+    "color": "Brown/Brown",
+    "baseColor": "BROWN",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-11, 12, 13, 14, 15)",
+    "bigWide": "NO",
+    "toe": "STEEL",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": false,
+    "noMetal": false,
+    "definedHeel": "YES",
+    "upper": "Leather",
+    "silhouette": "Western Boot",
+    "priceMin": 169.95,
+    "priceMax": 169.95,
+    "image": "https://media.surewerx.com/asset/4d8c798a-8c87-47b9-880a-d9a872e14439/2000_JPG/DK10042.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK10042-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10042-10D",
+            "size": "10",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10042-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10042-11D",
+            "size": "11",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10042-12D",
+            "size": "12",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10042-13D",
+            "size": "13",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10042-14D",
+            "size": "14",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10042-15D",
+            "size": "15",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10042-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10042-7D",
+            "size": "7",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10042-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10042-8D",
+            "size": "8",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10042-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10042-9D",
+            "size": "9",
+            "upc": "",
+            "price": 169.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK10042-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10042-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10042-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10042-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10042-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10042-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10042-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10042-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10042-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10042-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10042-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10042-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10042-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10042-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 169.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK10540",
+    "brand": "DICKIES",
+    "desc": "Dickies Amarillo Cowboy Boot 11\" - Men SFT EH WP SR SF - Brown/Burnt Orange",
+    "color": "Brown/Burnt Orange",
+    "baseColor": "BROWN",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-11, 12, 13, 14, 15)",
+    "bigWide": "NO",
+    "toe": "SOFT",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": false,
+    "definedHeel": "YES",
+    "upper": "Leather",
+    "silhouette": "Western Boot",
+    "priceMin": 159.95,
+    "priceMax": 159.95,
+    "image": "https://media.surewerx.com/asset/54a4ed79-f319-428e-b544-f5ecd6b566a5/2000_JPG/DK10540.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK10540-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10540-10D",
+            "size": "10",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10540-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10540-11D",
+            "size": "11",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10540-12D",
+            "size": "12",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10540-13D",
+            "size": "13",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10540-14D",
+            "size": "14",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10540-15D",
+            "size": "15",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10540-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10540-7D",
+            "size": "7",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10540-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10540-8D",
+            "size": "8",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10540-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10540-9D",
+            "size": "9",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK10540-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10540-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10540-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10540-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10540-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10540-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10540-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10540-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10540-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10540-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10540-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10540-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10540-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10540-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK10542",
+    "brand": "DICKIES",
+    "desc": "Dickies Amarillo Cowboy Boot 11\" - Men SFT EH WP SR SF - Brown/Brown",
+    "color": "Brown/Brown",
+    "baseColor": "BROWN",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-11, 12, 13, 14, 15)",
+    "bigWide": "NO",
+    "toe": "SOFT",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": true,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": true,
+    "noMetal": false,
+    "definedHeel": "YES",
+    "upper": "Leather",
+    "silhouette": "Western Boot",
+    "priceMin": 159.95,
+    "priceMax": 159.95,
+    "image": "https://media.surewerx.com/asset/8a2bec4a-690d-492f-a1a8-31a8900cbc58/2000_JPG/DK10542.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK10542-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10542-10D",
+            "size": "10",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10542-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10542-11D",
+            "size": "11",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10542-12D",
+            "size": "12",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10542-13D",
+            "size": "13",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10542-14D",
+            "size": "14",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10542-15D",
+            "size": "15",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10542-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10542-7D",
+            "size": "7",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10542-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10542-8D",
+            "size": "8",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10542-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK10542-9D",
+            "size": "9",
+            "upc": "",
+            "price": 159.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK10542-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10542-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10542-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10542-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10542-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10542-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10542-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10542-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10542-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10542-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10542-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10542-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10542-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK10542-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 159.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK11020",
+    "brand": "DICKIES",
+    "desc": "Dickies Austin 6\" Mid - Men CT EH SR - Chocolate Brown",
+    "color": "Chocolate Brown",
+    "baseColor": "BROWN",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-11, 12, 13, 14, 15)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": false,
+    "noMetal": false,
+    "definedHeel": "NO",
+    "upper": "Textile",
+    "silhouette": "Mid Boot",
+    "priceMin": 129.95,
+    "priceMax": 129.95,
+    "image": "https://media.surewerx.com/asset/d6b9bd95-b9de-4d03-ad05-10015d2bfdbc/2000_JPG/DK11020.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK11020-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11020-10D",
+            "size": "10",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11020-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11020-11D",
+            "size": "11",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11020-12D",
+            "size": "12",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11020-13D",
+            "size": "13",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11020-14D",
+            "size": "14",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11020-15D",
+            "size": "15",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11020-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11020-7D",
+            "size": "7",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11020-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11020-8D",
+            "size": "8",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11020-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11020-9D",
+            "size": "9",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK11020-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11020-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11020-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11020-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11020-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11020-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11020-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11020-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11020-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11020-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11020-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11020-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11020-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11020-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK11021",
+    "brand": "DICKIES",
+    "desc": "Dickies Austin 6\" Mid - Men CT EH SR - Black",
+    "color": "Black",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-11, 12, 13, 14, 15)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": false,
+    "noMetal": false,
+    "definedHeel": "NO",
+    "upper": "Textile",
+    "silhouette": "Mid Boot",
+    "priceMin": 129.95,
+    "priceMax": 129.95,
+    "image": "https://media.surewerx.com/asset/912052e7-fb6e-4297-88c9-64a868cf4ee0/2000_JPG/DK11021.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK11021-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11021-10D",
+            "size": "10",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11021-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11021-11D",
+            "size": "11",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11021-12D",
+            "size": "12",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11021-13D",
+            "size": "13",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11021-14D",
+            "size": "14",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11021-15D",
+            "size": "15",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11021-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11021-7D",
+            "size": "7",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11021-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11021-8D",
+            "size": "8",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11021-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11021-9D",
+            "size": "9",
+            "upc": "",
+            "price": 129.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK11021-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11021-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11021-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11021-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11021-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11021-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11021-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11021-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11021-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11021-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11021-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11021-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11021-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11021-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 129.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK11520",
+    "brand": "DICKIES",
+    "desc": "Dickies Austin 6\" Mid - Men SFT EH SR - Chocolate Brown",
+    "color": "Chocolate Brown",
+    "baseColor": "BROWN",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-11, 12, 13, 14, 15)",
+    "bigWide": "NO",
+    "toe": "SOFT",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": false,
+    "noMetal": false,
+    "definedHeel": "NO",
+    "upper": "Textile",
+    "silhouette": "Mid Boot",
+    "priceMin": 119.95,
+    "priceMax": 119.95,
+    "image": "https://media.surewerx.com/asset/6a6a4bcf-eb83-4ced-8bdc-c49924c0b795/2000_JPG/DK11520.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK11520-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11520-10D",
+            "size": "10",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11520-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11520-11D",
+            "size": "11",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11520-12D",
+            "size": "12",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11520-13D",
+            "size": "13",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11520-14D",
+            "size": "14",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11520-15D",
+            "size": "15",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11520-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11520-7D",
+            "size": "7",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11520-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11520-8D",
+            "size": "8",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11520-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11520-9D",
+            "size": "9",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK11520-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11520-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11520-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11520-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11520-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11520-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11520-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11520-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11520-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11520-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11520-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11520-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11520-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11520-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK11521",
+    "brand": "DICKIES",
+    "desc": "Dickies Austin 6\" Mid - Men SFT EH SR - Black",
+    "color": "Black",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-11, 12, 13, 14, 15)",
+    "bigWide": "NO",
+    "toe": "SOFT",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": false,
+    "noMetal": false,
+    "definedHeel": "NO",
+    "upper": "Textile",
+    "silhouette": "Mid Boot",
+    "priceMin": 119.95,
+    "priceMax": 119.95,
+    "image": "https://media.surewerx.com/asset/ed29332c-5aa2-4a32-a8ff-2569fdbf52a5/2000_JPG/DK11521.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK11521-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11521-10D",
+            "size": "10",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11521-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11521-11D",
+            "size": "11",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11521-12D",
+            "size": "12",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11521-13D",
+            "size": "13",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11521-14D",
+            "size": "14",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11521-15D",
+            "size": "15",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11521-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11521-7D",
+            "size": "7",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11521-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11521-8D",
+            "size": "8",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11521-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK11521-9D",
+            "size": "9",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK11521-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11521-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11521-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11521-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11521-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11521-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11521-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11521-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11521-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11521-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11521-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11521-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11521-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK11521-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK12020",
+    "brand": "DICKIES",
+    "desc": "Dickies Denton Lifestyle Mid - Men CT EH SR - Black",
+    "color": "Black",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-11, 12, 13, 14, 15)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": false,
+    "noMetal": false,
+    "definedHeel": "NO",
+    "upper": "",
+    "silhouette": "Lifestyle Mid",
+    "priceMin": 119.95,
+    "priceMax": 119.95,
+    "image": "https://media.surewerx.com/asset/7ed9cf9d-9b9b-42f5-bdd4-8a13987d1009/2000_JPG/DK12020.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK12020-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12020-10D",
+            "size": "10",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12020-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12020-11D",
+            "size": "11",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12020-12D",
+            "size": "12",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12020-13D",
+            "size": "13",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12020-14D",
+            "size": "14",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12020-15D",
+            "size": "15",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12020-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12020-7D",
+            "size": "7",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12020-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12020-8D",
+            "size": "8",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12020-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12020-9D",
+            "size": "9",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK12020-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12020-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12020-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12020-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12020-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12020-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12020-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12020-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12020-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12020-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12020-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12020-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12020-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12020-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK12021",
+    "brand": "DICKIES",
+    "desc": "Dickies Denton Lifestyle Mid - Men CT EH SR - Wheat",
+    "color": "Wheat",
+    "baseColor": "BROWN",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-11, 12, 13, 14, 15)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": false,
+    "noMetal": false,
+    "definedHeel": "NO",
+    "upper": "",
+    "silhouette": "Lifestyle Mid",
+    "priceMin": 119.95,
+    "priceMax": 119.95,
+    "image": "https://media.surewerx.com/asset/5ab139d2-b7a2-4474-9a71-797ec2834ce5/2000_JPG/DK12021.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK12021-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12021-10D",
+            "size": "10",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12021-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12021-11D",
+            "size": "11",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12021-12D",
+            "size": "12",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12021-13D",
+            "size": "13",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12021-14D",
+            "size": "14",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12021-15D",
+            "size": "15",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12021-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12021-7D",
+            "size": "7",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12021-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12021-8D",
+            "size": "8",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12021-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12021-9D",
+            "size": "9",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK12021-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12021-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12021-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12021-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12021-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12021-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12021-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12021-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12021-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12021-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12021-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12021-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12021-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12021-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK12025",
+    "brand": "DICKIES",
+    "desc": "Dickies Denton Lifestyle Low - Men CT EH SR - Grey/chalk",
+    "color": "Grey/Chalk",
+    "baseColor": "GREY",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-11, 12, 13, 14, 15)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": false,
+    "noMetal": false,
+    "definedHeel": "NO",
+    "upper": "",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.95,
+    "priceMax": 109.95,
+    "image": "https://media.surewerx.com/asset/12887b3c-e8b4-48eb-ae85-c8486538d6fa/2000_JPG/DK12025.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK12025-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12025-10D",
+            "size": "10",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12025-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12025-11D",
+            "size": "11",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12025-12D",
+            "size": "12",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12025-13D",
+            "size": "13",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12025-14D",
+            "size": "14",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12025-15D",
+            "size": "15",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12025-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12025-7D",
+            "size": "7",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12025-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12025-8D",
+            "size": "8",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12025-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12025-9D",
+            "size": "9",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK12025-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12025-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12025-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12025-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12025-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12025-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12025-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12025-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12025-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12025-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12025-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12025-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12025-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12025-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK12026",
+    "brand": "DICKIES",
+    "desc": "Dickies Denton Lifestyle Low - Men CT EH SR - Triple Black",
+    "color": "Triple Black",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-11, 12, 13, 14, 15)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": false,
+    "noMetal": false,
+    "definedHeel": "NO",
+    "upper": "",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 109.95,
+    "priceMax": 109.95,
+    "image": "https://media.surewerx.com/asset/784f27ab-33eb-4ce2-8a12-372a573bdf2e/2000_JPG/DK12026.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK12026-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12026-10D",
+            "size": "10",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12026-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12026-11D",
+            "size": "11",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12026-12D",
+            "size": "12",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12026-13D",
+            "size": "13",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12026-14D",
+            "size": "14",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12026-15D",
+            "size": "15",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12026-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12026-7D",
+            "size": "7",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12026-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12026-8D",
+            "size": "8",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12026-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12026-9D",
+            "size": "9",
+            "upc": "",
+            "price": 109.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK12026-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12026-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12026-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12026-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12026-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12026-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12026-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12026-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12026-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12026-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12026-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12026-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12026-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12026-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 109.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK12027",
+    "brand": "DICKIES",
+    "desc": "Dickies Denton Lifestyle Low - Men CT SD10 SR - Black",
+    "color": "Black",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-11, 12, 13, 14, 15)",
+    "bigWide": "NO",
+    "toe": "COMPOSITE",
+    "ehsd": "SD10",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": false,
+    "noMetal": false,
+    "definedHeel": "NO",
+    "upper": "",
+    "silhouette": "Lifestyle Low",
+    "priceMin": 119.95,
+    "priceMax": 119.95,
+    "image": "https://media.surewerx.com/asset/e8d6814a-299d-491c-bb3d-0dca37fe8cd5/2000_JPG/DK12027.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK12027-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12027-10D",
+            "size": "10",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12027-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12027-11D",
+            "size": "11",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12027-12D",
+            "size": "12",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12027-13D",
+            "size": "13",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12027-14D",
+            "size": "14",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12027-15D",
+            "size": "15",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12027-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12027-7D",
+            "size": "7",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12027-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12027-8D",
+            "size": "8",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12027-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12027-9D",
+            "size": "9",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK12027-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12027-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12027-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12027-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12027-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12027-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12027-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12027-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12027-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12027-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12027-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12027-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12027-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12027-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "master": "DK12520",
+    "brand": "DICKIES",
+    "desc": "Dickies Denton Lifestyle Mid - Men SFT EH SR - Black",
+    "color": "Black",
+    "baseColor": "BLACK",
+    "gender": "MEN'S",
+    "sizeRange": "D, EE (7-11, 12, 13, 14, 15)",
+    "bigWide": "NO",
+    "toe": "SOFT",
+    "ehsd": "EH",
+    "puncture": false,
+    "waterproof": false,
+    "insulated": false,
+    "metGuard": "NO",
+    "heatResist": false,
+    "slipResist": true,
+    "secFriendly": false,
+    "noMetal": false,
+    "definedHeel": "NO",
+    "upper": "",
+    "silhouette": "Lifestyle Mid",
+    "priceMin": 119.95,
+    "priceMax": 119.95,
+    "image": "https://media.surewerx.com/asset/8dd3d68c-07ab-4c28-8d86-0b97ecd01c68/2000_JPG/DK12520.jpg",
+    "widths": [
+      {
+        "code": "D",
+        "sizes": [
+          {
+            "sku": "DK12520-10.5D",
+            "size": "10.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12520-10D",
+            "size": "10",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12520-11.5D",
+            "size": "11.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12520-11D",
+            "size": "11",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12520-12D",
+            "size": "12",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12520-13D",
+            "size": "13",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12520-14D",
+            "size": "14",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12520-15D",
+            "size": "15",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12520-7.5D",
+            "size": "7.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12520-7D",
+            "size": "7",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12520-8.5D",
+            "size": "8.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12520-8D",
+            "size": "8",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12520-9.5D",
+            "size": "9.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          },
+          {
+            "sku": "DK12520-9D",
+            "size": "9",
+            "upc": "",
+            "price": 119.95,
+            "width": "D"
+          }
+        ]
+      },
+      {
+        "code": "EE",
+        "sizes": [
+          {
+            "sku": "DK12520-10.5EE",
+            "size": "10.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12520-10EE",
+            "size": "10",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12520-11.5EE",
+            "size": "11.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12520-11EE",
+            "size": "11",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12520-12EE",
+            "size": "12",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12520-13EE",
+            "size": "13",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12520-14EE",
+            "size": "14",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12520-15EE",
+            "size": "15",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12520-7.5EE",
+            "size": "7.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12520-7EE",
+            "size": "7",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12520-8.5EE",
+            "size": "8.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12520-8EE",
+            "size": "8",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12520-9.5EE",
+            "size": "9.5",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          },
+          {
+            "sku": "DK12520-9EE",
+            "size": "9",
+            "upc": "",
+            "price": 119.95,
+            "width": "EE"
+          }
+        ]
+      }
+    ]
   }
 ]
