@@ -22,7 +22,9 @@ const hostAllowed = (host: string) => {
   return ALLOWED_HOSTS.has(h) || ALLOWED_DOMAINS.some((d) => h === d || h.endsWith("." + d));
 };
 
-const MAX_BYTES = 5.5 * 1024 * 1024; // Netlify functions cap responses at ~6 MB
+// Buffered function responses are capped at ~6 MB by Netlify, but streamed responses can be larger (~20 MB),
+// so the image is streamed through instead of being loaded into memory first.
+const MAX_BYTES = 18 * 1024 * 1024;
 const MAX_REDIRECTS = 3;
 
 const bad = (status: number, message: string) =>
@@ -67,14 +69,21 @@ export default async (req: Request): Promise<Response> => {
 
     const declared = Number(res.headers.get("content-length") || 0);
     if (declared > MAX_BYTES) return bad(413, "Image too large");
+    if (!res.body) return bad(502, "Upstream returned no data");
 
-    const buf = await res.arrayBuffer();
-    if (buf.byteLength > MAX_BYTES) return bad(413, "Image too large");
-
-    return new Response(buf, {
-      status: 200,
-      headers: { "content-type": type, "cache-control": "public, max-age=86400" },
+    // Stream the body through, counting bytes so an upstream with no Content-Length still cannot exceed the cap.
+    let seen = 0;
+    const limiter = new TransformStream<Uint8Array, Uint8Array>({
+      transform(chunk, controller) {
+        seen += chunk.byteLength;
+        if (seen > MAX_BYTES) { controller.error(new Error("Image too large")); return; }
+        controller.enqueue(chunk);
+      },
     });
+
+    // Content-Length is deliberately not forwarded: fetch may have decompressed the body, so it could be wrong.
+    const headers: Record<string, string> = { "content-type": type, "cache-control": "public, max-age=86400" };
+    return new Response(res.body.pipeThrough(limiter), { status: 200, headers });
   } catch (err) {
     return bad(502, "Could not fetch image");
   }
