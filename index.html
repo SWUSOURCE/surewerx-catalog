@@ -1424,6 +1424,43 @@ async function exportFootwearXlsx() {
     rowNum++;
   }
 
+  // Second sheet: every SKU for the styles in this export (same fields and order as the cart's CSV export).
+  const sk = wb.addWorksheet('SKU List', { views: [{ state: 'frozen', ySplit: 1 }] });
+  sk.columns = [
+    { header: 'SKU', key: 'sku', width: 20 },
+    { header: 'Master Model', key: 'master', width: 16 },
+    { header: 'Brand', key: 'brand', width: 16 },
+    { header: 'Description', key: 'desc', width: 60 },
+    { header: 'Width', key: 'width', width: 10 },
+    { header: 'Size', key: 'size', width: 10 },
+    { header: 'UPC', key: 'upc', width: 16 },
+    { header: 'MSRP', key: 'msrp', width: 12 },
+  ];
+  const skHead = sk.getRow(1);
+  skHead.height = 22;
+  skHead.eachCell(c => {
+    c.font = { name: 'Arial', size: 10, bold: true, color: { argb: 'FFFFFFFF' } };
+    c.fill = { type: 'pattern', pattern: 'solid', fgColor: { argb: INK } };
+    c.alignment = { vertical: 'middle', horizontal: 'center', wrapText: true };
+  });
+  for (const p of list) {
+    for (const w of (p.widths || [])) {
+      for (const it of [...w.sizes].sort(bySizeLabel)) {
+        const r = sk.addRow({
+          sku: it.sku, master: p.master || '', brand: p.brand || '', desc: p.desc || '',
+          width: w.code || '', size: it.size, upc: it.upc ? String(it.upc) : '', msrp: it.price != null ? it.price : null,
+        });
+        r.eachCell({ includeEmpty: true }, c => {
+          c.font = { name: 'Arial', size: 10 };
+          c.alignment = { vertical: 'middle', horizontal: 'center', wrapText: true };
+        });
+        r.getCell('upc').numFmt = '@';
+        if (it.price != null) r.getCell('msrp').numFmt = '$#,##0.00';
+      }
+    }
+  }
+  sk.autoFilter = { from: 'A1', to: 'H1' };
+
   const buffer = await wb.xlsx.writeBuffer();
   const blob = new Blob([buffer], { type: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' });
   const dateStamp = new Date().toISOString().slice(0, 10);
