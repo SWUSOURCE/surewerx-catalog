@@ -1246,12 +1246,19 @@ function renderAll() {
 
 /**
  * Fetches an image and converts it to a data URL for embedding in the
- * PPTX. Throws if the fetch fails (network error, 404) or if the response
+ * export. Throws if the fetch fails (network error, 404) or if the response
  * can't be read as an image -- callers catch this and fall back to a
  * placeholder rather than leaving a broken slide.
  */
 async function fetchImageAsDataUrl(url) {
-  const res = await fetch(url);
+  // Try the image host directly first. If the browser blocks it (the host sends no CORS header) the fetch
+  // throws a TypeError; retry through the site's own image proxy function, which fetches server-side.
+  let res;
+  try {
+    res = await fetch(url);
+  } catch (directErr) {
+    res = await fetch('/.netlify/functions/image-proxy?url=' + encodeURIComponent(url));
+  }
   if (!res.ok) throw new Error(`Image fetch failed: ${res.status}`);
   const blob = await res.blob();
   return new Promise((resolve, reject) => {
