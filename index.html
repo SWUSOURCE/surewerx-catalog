@@ -1331,7 +1331,7 @@ async function exportFootwearXlsx() {
   header.eachCell(c => {
     c.font = { name: 'Arial', size: 10, bold: true, color: { argb: 'FFFFFFFF' } };
     c.fill = { type: 'pattern', pattern: 'solid', fgColor: { argb: INK } };
-    c.alignment = { vertical: 'middle', horizontal: 'left', wrapText: true };
+    c.alignment = { vertical: 'middle', horizontal: 'center', wrapText: true };
   });
 
   const sizeRangeText = (w) => {
@@ -1387,7 +1387,7 @@ async function exportFootwearXlsx() {
     row.height = ROW_PT;
     row.eachCell({ includeEmpty: true }, (c, col) => {
       c.font = { name: 'Arial', size: 10, bold: col === 2 };
-      c.alignment = { vertical: 'top', horizontal: 'left', wrapText: true };
+      c.alignment = { vertical: 'middle', horizontal: 'center', wrapText: true };
     });
     for (let col = 1; col <= 5; col++) {
       row.getCell(col).border = { top: { style: 'thin', color: { argb: BORDER } }, bottom: { style: 'thin', color: { argb: BORDER } },
