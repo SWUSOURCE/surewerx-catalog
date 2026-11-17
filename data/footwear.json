@@ -26672,8 +26672,8 @@
     "definedHeel": "YES",
     "upper": "LEATHER",
     "silhouette": "Mid Boot",
-    "priceMin": 0,
-    "priceMax": 0,
+    "priceMin": 129.99,
+    "priceMax": 129.99,
     "image": "https://media.surewerx.com/asset/2ea2bf6c-cbed-4924-98a6-1c7110c5c292/PNG/A8210.png",
     "widths": [
       {
@@ -26683,84 +26683,84 @@
             "sku": "A8210-10B",
             "size": "10",
             "upc": "198311057278",
-            "price": 0,
+            "price": 129.99,
             "width": "B"
           },
           {
             "sku": "A8210-11B",
             "size": "11",
             "upc": "198311057285",
-            "price": 0,
+            "price": 129.99,
             "width": "B"
           },
           {
             "sku": "A8210-5.5B",
             "size": "5.5",
             "upc": "198311057186",
-            "price": 0,
+            "price": 129.99,
             "width": "B"
           },
           {
             "sku": "A8210-5B",
             "size": "5",
             "upc": "198311057179",
-            "price": 0,
+            "price": 129.99,
             "width": "B"
           },
           {
             "sku": "A8210-6.5B",
             "size": "6.5",
             "upc": "198311057209",
-            "price": 0,
+            "price": 129.99,
             "width": "B"
           },
           {
             "sku": "A8210-6B",
             "size": "6",
             "upc": "198311057193",
-            "price": 0,
+            "price": 129.99,
             "width": "B"
           },
           {
             "sku": "A8210-7.5B",
             "size": "7.5",
             "upc": "198311057223",
-            "price": 0,
+            "price": 129.99,
             "width": "B"
           },
           {
             "sku": "A8210-7B",
             "size": "7",
             "upc": "198311057216",
-            "price": 0,
+            "price": 129.99,
             "width": "B"
           },
           {
             "sku": "A8210-8.5B",
             "size": "8.5",
             "upc": "198311057247",
-            "price": 0,
+            "price": 129.99,
             "width": "B"
           },
           {
             "sku": "A8210-8B",
             "size": "8",
             "upc": "198311057230",
-            "price": 0,
+            "price": 129.99,
             "width": "B"
           },
           {
             "sku": "A8210-9.5B",
             "size": "9.5",
             "upc": "198311057261",
-            "price": 0,
+            "price": 129.99,
             "width": "B"
           },
           {
             "sku": "A8210-9B",
             "size": "9",
             "upc": "198311057254",
-            "price": 0,
+            "price": 129.99,
             "width": "B"
           }
         ]
@@ -26772,84 +26772,84 @@
             "sku": "A8210-10D",
             "size": "10",
             "upc": "198311057391",
-            "price": 0,
+            "price": 129.99,
             "width": "D"
           },
           {
             "sku": "A8210-11D",
             "size": "11",
             "upc": "198311057407",
-            "price": 0,
+            "price": 129.99,
             "width": "D"
           },
           {
             "sku": "A8210-5.5D",
             "size": "5.5",
             "upc": "198311057308",
-            "price": 0,
+            "price": 129.99,
             "width": "D"
           },
           {
             "sku": "A8210-5D",
             "size": "5",
             "upc": "198311057292",
-            "price": 0,
+            "price": 129.99,
             "width": "D"
           },
           {
             "sku": "A8210-6.5D",
             "size": "6.5",
             "upc": "198311057322",
-            "price": 0,
+            "price": 129.99,
             "width": "D"
           },
           {
             "sku": "A8210-6D",
             "size": "6",
             "upc": "198311057315",
-            "price": 0,
+            "price": 129.99,
             "width": "D"
           },
           {
             "sku": "A8210-7.5D",
             "size": "7.5",
             "upc": "198311057346",
-            "price": 0,
+            "price": 129.99,
             "width": "D"
           },
           {
             "sku": "A8210-7D",
             "size": "7",
             "upc": "198311057339",
-            "price": 0,
+            "price": 129.99,
             "width": "D"
           },
           {
             "sku": "A8210-8.5D",
             "size": "8.5",
             "upc": "198311057360",
-            "price": 0,
+            "price": 129.99,
             "width": "D"
           },
           {
             "sku": "A8210-8D",
             "size": "8",
             "upc": "198311057353",
-            "price": 0,
+            "price": 129.99,
             "width": "D"
           },
           {
             "sku": "A8210-9.5D",
             "size": "9.5",
             "upc": "198311057384",
-            "price": 0,
+            "price": 129.99,
             "width": "D"
           },
           {
             "sku": "A8210-9D",
             "size": "9",
             "upc": "198311057377",
-            "price": 0,
+            "price": 129.99,
             "width": "D"
           }
         ]
